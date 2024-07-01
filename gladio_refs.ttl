@@ -1,0 +1,162 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix hdn: <https://hdn.dantenetwork.it/ontology/> .
+@prefix lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> .
+@prefix otracon: <http://otra-ontologies.com/ConnectiveOntology#> .
+@prefix otradata: <http://otra-ontologies.com/data/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+otradata:Segovia_Gladio__R.26.14.0 a otracon:ConnectiveClaim ;
+    hdn:hasRefObject <http://otra-ontologies.com/data/CLS_4,54-62> ;
+    hdn:hasRefSubject otradata:Segovia_Gladio__B.26.15__15-100 .
+
+otradata:Segovia_Gladio__R.26.15.0 a otracon:ConnectiveClaim ;
+    hdn:hasRefObject <http://otra-ontologies.com/data/CLS_9,223-224> ;
+    hdn:hasRefSubject otradata:Segovia_Gladio__B.26.15__146-162 .
+
+otradata:Segovia_Gladio__R.29.25.0 a otracon:ConnectiveClaim ;
+    hdn:hasRefObject otradata:CLS_3 ;
+    hdn:hasRefSubject otradata:Segovia_Gladio__B.29.13__110-138 .
+
+otradata:Segovia_Gladio__R.32.8.0 a otracon:ConnectiveClaim ;
+    hdn:hasRefObject otradata:CLS_3 ;
+    hdn:hasRefSubject otradata:Segovia_Gladio__B.32.12__204-248 .
+
+otradata:Segovia_Gladio__R.9.8.1 a otracon:ConnectiveClaim ;
+    hdn:hasRefObject <http://otra-ontologies.com/data/CLS_6,40-41> ;
+    hdn:hasRefSubject otradata:Segovia_Gladio__B.9.4__152-161 .
+
+otradata:CLS_3_end a hdn:Position ;
+    hdn:positionUnit otradata:Ricc_CLS__B.3.16 .
+
+otradata:CLS_3_start a hdn:Position ;
+    hdn:positionUnit otradata:Ricc_CLS__B.3.1 .
+
+<http://otra-ontologies.com/data/CLS_4,54-62> a crm:E90_Symbolic_Object ;
+    hdn:fromPos <http://otra-ontologies.com/data/CLS_4,54-62_start> ;
+    hdn:toPos <http://otra-ontologies.com/data/CLS_4,54-62_end> .
+
+<http://otra-ontologies.com/data/CLS_4,54-62_end> a hdn:Position ;
+    hdn:positionOffset 62 ;
+    hdn:positionUnit otradata:Ricc_CLS__B.4.10 .
+
+<http://otra-ontologies.com/data/CLS_4,54-62_start> a hdn:Position ;
+    hdn:positionOffset 54 ;
+    hdn:positionUnit otradata:Ricc_CLS__B.4.9 .
+
+<http://otra-ontologies.com/data/CLS_6,40-41> a crm:E90_Symbolic_Object ;
+    hdn:fromPos <http://otra-ontologies.com/data/CLS_6,40-41_start> ;
+    hdn:toPos <http://otra-ontologies.com/data/CLS_6,40-41_end> .
+
+<http://otra-ontologies.com/data/CLS_6,40-41_end> a hdn:Position ;
+    hdn:positionOffset 41 ;
+    hdn:positionUnit otradata:Ricc_CLS__B.6.11 .
+
+<http://otra-ontologies.com/data/CLS_6,40-41_start> a hdn:Position ;
+    hdn:positionOffset 40 ;
+    hdn:positionUnit otradata:Ricc_CLS__B.6.11 .
+
+<http://otra-ontologies.com/data/CLS_9,223-224> a crm:E90_Symbolic_Object ;
+    hdn:fromPos <http://otra-ontologies.com/data/CLS_9,223-224_start> ;
+    hdn:toPos <http://otra-ontologies.com/data/CLS_9,223-224_end> .
+
+<http://otra-ontologies.com/data/CLS_9,223-224_end> a hdn:Position ;
+    hdn:positionOffset 224 ;
+    hdn:positionUnit otradata:Ricc_CLS__B.9.34 .
+
+<http://otra-ontologies.com/data/CLS_9,223-224_start> a hdn:Position ;
+    hdn:positionOffset 223 ;
+    hdn:positionUnit otradata:Ricc_CLS__B.9.33 .
+
+otradata:Ricc_CLS__B.3.1 a lrmoo:F2_Expression .
+
+otradata:Ricc_CLS__B.3.16 a lrmoo:F2_Expression .
+
+otradata:Ricc_CLS__B.4.10 a lrmoo:F2_Expression .
+
+otradata:Ricc_CLS__B.4.9 a lrmoo:F2_Expression .
+
+otradata:Ricc_CLS__B.9.33 a lrmoo:F2_Expression .
+
+otradata:Ricc_CLS__B.9.34 a lrmoo:F2_Expression .
+
+otradata:Segovia_Gladio__B.26.15__146-162 a hdn:TextFragment ;
+    lrmoo:R15i_is_fragment_of otradata:Juan_de_Segovia_De_gladio_divini_spiritus ;
+    hdn:fromPos otradata:Segovia_Gladio__B.26.15__146-162_start ;
+    hdn:toPos otradata:Segovia_Gladio__B.26.15__146-162_end .
+
+otradata:Segovia_Gladio__B.26.15__146-162_end a hdn:Position ;
+    hdn:positionOffset 162 ;
+    hdn:positionUnit otradata:B.26.15 .
+
+otradata:Segovia_Gladio__B.26.15__146-162_start a hdn:Position ;
+    hdn:positionOffset 146 ;
+    hdn:positionUnit otradata:B.26.15 .
+
+otradata:Segovia_Gladio__B.26.15__15-100 a hdn:TextFragment ;
+    lrmoo:R15i_is_fragment_of otradata:Juan_de_Segovia_De_gladio_divini_spiritus ;
+    hdn:fromPos otradata:Segovia_Gladio__B.26.15__15-100_start ;
+    hdn:toPos otradata:Segovia_Gladio__B.26.15__15-100_end .
+
+otradata:Segovia_Gladio__B.26.15__15-100_end a hdn:Position ;
+    hdn:positionOffset 100 ;
+    hdn:positionUnit otradata:B.26.15 .
+
+otradata:Segovia_Gladio__B.26.15__15-100_start a hdn:Position ;
+    hdn:positionOffset 15 ;
+    hdn:positionUnit otradata:B.26.15 .
+
+otradata:Segovia_Gladio__B.29.13__110-138 a hdn:TextFragment ;
+    lrmoo:R15i_is_fragment_of otradata:Juan_de_Segovia_De_gladio_divini_spiritus ;
+    hdn:fromPos otradata:Segovia_Gladio__B.29.13__110-138_start ;
+    hdn:toPos otradata:Segovia_Gladio__B.29.13__110-138_end .
+
+otradata:Segovia_Gladio__B.29.13__110-138_end a hdn:Position ;
+    hdn:positionOffset 138 ;
+    hdn:positionUnit otradata:B.29.13 .
+
+otradata:Segovia_Gladio__B.29.13__110-138_start a hdn:Position ;
+    hdn:positionOffset 110 ;
+    hdn:positionUnit otradata:B.29.13 .
+
+otradata:Segovia_Gladio__B.32.12__204-248 a hdn:TextFragment ;
+    lrmoo:R15i_is_fragment_of otradata:Juan_de_Segovia_De_gladio_divini_spiritus ;
+    hdn:fromPos otradata:Segovia_Gladio__B.32.12__204-248_start ;
+    hdn:toPos otradata:Segovia_Gladio__B.32.12__204-248_end .
+
+otradata:Segovia_Gladio__B.32.12__204-248_end a hdn:Position ;
+    hdn:positionOffset 248 ;
+    hdn:positionUnit otradata:B.32.12 .
+
+otradata:Segovia_Gladio__B.32.12__204-248_start a hdn:Position ;
+    hdn:positionOffset 204 ;
+    hdn:positionUnit otradata:B.32.12 .
+
+otradata:Segovia_Gladio__B.9.4__152-161 a hdn:TextFragment ;
+    lrmoo:R15i_is_fragment_of otradata:Juan_de_Segovia_De_gladio_divini_spiritus ;
+    hdn:fromPos otradata:Segovia_Gladio__B.9.4__152-161_start ;
+    hdn:toPos otradata:Segovia_Gladio__B.9.4__152-161_end .
+
+otradata:Segovia_Gladio__B.9.4__152-161_end a hdn:Position ;
+    hdn:positionOffset 161 ;
+    hdn:positionUnit otradata:B.9.4 .
+
+otradata:Segovia_Gladio__B.9.4__152-161_start a hdn:Position ;
+    hdn:positionOffset 152 ;
+    hdn:positionUnit otradata:B.9.4 .
+
+otradata:B.29.13 a lrmoo:F2_Expression .
+
+otradata:B.32.12 a lrmoo:F2_Expression .
+
+otradata:B.9.4 a lrmoo:F2_Expression .
+
+otradata:CLS_3 a crm:E90_Symbolic_Object ;
+    hdn:fromPos otradata:CLS_3_start ;
+    hdn:toPos otradata:CLS_3_end .
+
+otradata:Ricc_CLS__B.6.11 a lrmoo:F2_Expression .
+
+otradata:B.26.15 a lrmoo:F2_Expression .
+
+otradata:Juan_de_Segovia_De_gladio_divini_spiritus a lrmoo:F2_Expression .
+

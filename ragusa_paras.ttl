@@ -1,0 +1,3960 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix doco: <http://purl.org/spar/doco/> .
+@prefix hdn: <https://hdn.dantenetwork.it/ontology#> .
+@prefix lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> .
+@prefix otracon: <http://otra-ontologies.com/ConnectiveOntology#> .
+@prefix otradata: <http://otra-ontologies.com/data/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+otradata:Ragusa_Op__B.1.0 a doco:Paragraph ;
+    otracon:has_explicit "quam salvi esse non potestis." ;
+    otracon:has_incipit "Nos tales et cetera Christianae" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.16 a doco:Paragraph ;
+    otracon:has_explicit "deus benedictus in saecula. Amen." ;
+    otracon:has_incipit "Et si quid rationi consonum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.4 a doco:Paragraph ;
+    otracon:has_explicit "quocumque modo pertineat legem. |" ;
+    otracon:has_incipit "Quantum igitur ad primum tota" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.11.0 a doco:Paragraph ;
+    otracon:has_explicit "Et sic ea die quieverunt." ;
+    otracon:has_incipit "Die 24. Septembris 1435 ambasciatores" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.11.1 a doco:Paragraph ;
+    otracon:has_explicit "cambii. Nec eo die venerunt." ;
+    otracon:has_incipit "Die 25., die scilicet dominico," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.12.0 a doco:Paragraph ;
+    otracon:has_explicit "nobiles in loco principaliori consedimus." ;
+    otracon:has_incipit "Item die dominico scilicet 2." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.12.1 a doco:Paragraph ;
+    otracon:has_explicit "respondit valde gratanter et cetera." ;
+    otracon:has_incipit "Post fuimus introducti ad camerulam" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.12.2 a doco:Paragraph ;
+    otracon:has_explicit "a mercatoribus in facto cambii." ;
+    otracon:has_incipit "Quibus finitis visitavimus etiam in" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.12.3 a doco:Paragraph ;
+    otracon:has_explicit "materiam cambii pecuniarum et cetera." ;
+    otracon:has_incipit "Reversi ad domum statim post" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.13.0 a doco:Paragraph ;
+    otracon:has_explicit "unde venirent aut quo tenderent." ;
+    otracon:has_incipit "Anno domini MCCCCXXXVI die ." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.13.1 a doco:Paragraph ;
+    otracon:has_explicit "post modum litteras suorum superiorum." ;
+    otracon:has_incipit "Tandem reperi, quod tales essent," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.15.0 a doco:Paragraph ;
+    otracon:has_explicit "et pacem in domino sempiternam." ;
+    otracon:has_incipit "In Christo sibi carissimis fratri" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.15.1 a doco:Paragraph ;
+    otracon:has_explicit "carius in Christo Iesu recommendo." ;
+    otracon:has_incipit "Cum auctoritatem habeam a beatissimo" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.15.2 a doco:Paragraph ;
+    otracon:has_explicit "Venetiis, die 30. Octobris 1435." ;
+    otracon:has_incipit "Valete in Christo Iesu et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.15.3 a doco:Paragraph ;
+    otracon:has_explicit "Jacobus Delfino Gu[a]rdia[nu]s Montis Syon" ;
+    otracon:has_incipit "Frater Jacobus Delfino Gu[a]rdia[nu]s Montis" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.16.0 a doco:Paragraph ;
+    otracon:has_explicit "et pacem in domino sempiternam." ;
+    otracon:has_incipit "In Christo sibi carissimis fratribus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.16.1 a doco:Paragraph ;
+    otracon:has_explicit "illos, per quos transire contingerit." ;
+    otracon:has_incipit "Cum vos divina inspiratione praeventi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.16.2 a doco:Paragraph ;
+    otracon:has_explicit "domini 1436 die 25. Iunii." ;
+    otracon:has_incipit "Valete in domino et orate" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.17.0 a doco:Paragraph ;
+    otracon:has_explicit "et pacem in domino sempiternam." ;
+    otracon:has_incipit "In Christo sibi carissimo fratri" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.17.1 a doco:Paragraph ;
+    otracon:has_explicit "secundum deum melius videbitur expedire." ;
+    otracon:has_incipit "Cum tu laudabilis vitae commoratus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.17.2 a doco:Paragraph ;
+    otracon:has_explicit "1436 die vero 18. Octobris." ;
+    otracon:has_incipit "Vale in Christo Iesu et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.0 a doco:Paragraph ;
+    otracon:has_explicit "eorum gloriam suis frontibus impresserunt." ;
+    otracon:has_incipit "Quaerenti mihi ac diligenter perscrutanti" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.1 a doco:Paragraph ;
+    otracon:has_explicit "omnisque immunditiae omnia iam repleta." ;
+    otracon:has_incipit "Quibus confusus daemon peiora excogitavit" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.10 a doco:Paragraph ;
+    otracon:has_explicit "martyrium est suscipiendum. Capitulum vi." ;
+    otracon:has_incipit "Quibus virtuosis dispositionibus martyrium est" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.11 a doco:Paragraph ;
+    otracon:has_explicit "esse ad martyrium. Capitulum vii." ;
+    otracon:has_incipit "Quibus respectibus debemus semper prompti" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.12 a doco:Paragraph ;
+    otracon:has_explicit "accedere ad martyrium. Capitulum viii." ;
+    otracon:has_incipit "Quod nemo impudenter et sua" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.13 a doco:Paragraph ;
+    otracon:has_explicit "De gradibus martyrii. Capitulum ix." ;
+    otracon:has_incipit "De gradibus martyrii. Capitulum ix." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.14 a doco:Paragraph ;
+    otracon:has_explicit "et paradiso Moameth. Capitulum x." ;
+    otracon:has_incipit "De praemiis martyrii et paradiso" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.15 a doco:Paragraph ;
+    otracon:has_explicit "martyrium fieri solent. Capitulum xi." ;
+    otracon:has_incipit "Refutationes argumentorum, quae contra huius" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.16 a doco:Paragraph ;
+    otracon:has_explicit "nos a martyrio. Capitulum xii." ;
+    otracon:has_incipit "De impedimentis retrahentibus nos a" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.17 a doco:Paragraph ;
+    otracon:has_explicit "redire ad poenitentiam. Capitulum xiii." ;
+    otracon:has_incipit "De his, qui Christum negarunt," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.18 a doco:Paragraph ;
+    otracon:has_explicit "Iesu tempore martyrii. Capitulum xiv." ;
+    otracon:has_incipit "De crebra invocatione nominis Iesu" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.19 a doco:Paragraph ;
+    otracon:has_explicit "habiles ad martyrium. Capitulum xv." ;
+    otracon:has_incipit "Qui sunt habiles ad martyrium." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.2 a doco:Paragraph ;
+    otracon:has_explicit "dei iudicio ruinam cottidie exspectamus." ;
+    otracon:has_incipit "Nec his contentus daemon ob" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.20 a doco:Paragraph ;
+    otracon:has_explicit "obligentur ad martyrium. Capitulum xvi." ;
+    otracon:has_incipit "An fratres minores prae ceteris" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.21 a doco:Paragraph ;
+    otracon:has_explicit "martyrii ardore accedere cupiunt xvii." ;
+    otracon:has_incipit "Quis modus habendus his, qui" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.22 a doco:Paragraph ;
+    otracon:has_explicit "libellum hunc composuit ca. xviii." ;
+    otracon:has_incipit "Excusatio eius, qui libellum hunc" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.3 a doco:Paragraph ;
+    otracon:has_explicit "in Christi crucifixi similitudinem transformari." ;
+    otracon:has_incipit "Verum angelicus vir ac vere" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.4 a doco:Paragraph ;
+    otracon:has_explicit "exemplis confirmantes. Videbimus etenim primo:" ;
+    otracon:has_incipit "Attendite igitur, Christiani fideles, quod" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.5 a doco:Paragraph ;
+    otracon:has_explicit "Quid est martyrium. Capitulum i." ;
+    otracon:has_incipit "Quid est martyrium. Capitulum i." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.6 a doco:Paragraph ;
+    otracon:has_explicit "et unde dicatur. Capitulum ii." ;
+    otracon:has_incipit "Qua ex causa et a" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.7 a doco:Paragraph ;
+    otracon:has_explicit "sunt genera martyrii. Capitulum iii." ;
+    otracon:has_incipit "Quot sunt genera martyrii. Capitulum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.8 a doco:Paragraph ;
+    otracon:has_explicit "modis perficitur martyrium. Capitulum iv." ;
+    otracon:has_incipit "Quot modis perficitur martyrium. Capitulum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.19.9 a doco:Paragraph ;
+    otracon:has_explicit "seu magnificant martyrium. Capitulum v." ;
+    otracon:has_incipit "Quae decorant seu magnificant martyrium." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.34 a doco:Paragraph ;
+    otracon:has_explicit "Notae variae" ;
+    otracon:has_incipit "Notae variae" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.0 a doco:Paragraph ;
+    otracon:has_explicit "magistra, domus vitae, dux salutis'“." ;
+    otracon:has_incipit "Praemia martyrii miranda et inexcogitabilia" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.1 a doco:Paragraph ;
+    otracon:has_explicit "est gaudium domini dei tui.“" ;
+    otracon:has_incipit "Sic ut iniuriam faceret martyrii," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.10 a doco:Paragraph ;
+    otracon:has_explicit "Ancillarum vero non erit numerus.'“" ;
+    otracon:has_incipit "Et in praefata disputatione seu" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.11 a doco:Paragraph ;
+    otracon:has_explicit "carnales | homines maxime delectantur." ;
+    otracon:has_incipit "Et idem in Alchorano xlviii." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.12 a doco:Paragraph ;
+    otracon:has_explicit "mulierum optimae, genitus sine patre." ;
+    otracon:has_incipit "Qua in re, ut huiusmodi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.13 a doco:Paragraph ;
+    otracon:has_explicit "recto procedetis tramite.'‘“ Haec ille." ;
+    otracon:has_incipit "Quare in vi. capitulo Alchorani" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.14 a doco:Paragraph ;
+    otracon:has_explicit "aquis amoenum habitandum praebuimus.'“ |" ;
+    otracon:has_incipit "Et xiiii. capitulo ait: |" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.15 a doco:Paragraph ;
+    otracon:has_explicit "Haec in Alchorano praefato capitulo." ;
+    otracon:has_incipit "Negatque etiam cum aliquibus antiquis" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.16 a doco:Paragraph ;
+    otracon:has_explicit "ethnicus dici convenit quam haereticus." ;
+    otracon:has_incipit "Amplius et diem iudicii futurum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.17 a doco:Paragraph ;
+    otracon:has_explicit "aut verus dei filius crederetur." ;
+    otracon:has_incipit "Nam haec haeresis sive infidelitas" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.2 a doco:Paragraph ;
+    otracon:has_explicit "subsequi dulcedinem voluptatemque est necesse." ;
+    otracon:has_incipit "Nam, ut sancti scribunt doctores," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.3 a doco:Paragraph ;
+    otracon:has_explicit "sicut angeli dei in caelo.“" ;
+    otracon:has_incipit "Nec solum animae hac tali" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.4 a doco:Paragraph ;
+    otracon:has_explicit "dabitur mihi, ut illo fruar?" ;
+    otracon:has_incipit "Nullum erit ibi cibi desiderium." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.5 a doco:Paragraph ;
+    otracon:has_explicit "sponte postergantes illud consequi meruerunt." ;
+    otracon:has_incipit "Nam vere ille degenerat, qui" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.6 a doco:Paragraph ;
+    otracon:has_explicit "gloriam quae revelabitur in nobis.'“" ;
+    otracon:has_incipit "Quare huius desiderio tractus apostolus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.7 a doco:Paragraph ;
+    otracon:has_explicit "in cor hominis mortalis ascendit'.“" ;
+    otracon:has_incipit "Ideo clamabat | in spiritu" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.8 a doco:Paragraph ;
+    otracon:has_explicit "mille annorum, annus quadragintamilium annorum.'“" ;
+    otracon:has_incipit "Haec Christianis promittuntur. Haec est" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.20.9 a doco:Paragraph ;
+    otracon:has_explicit "vestros gratos et commendabiles accipietis.'“" ;
+    otracon:has_incipit "Et in eius principali volumine," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.0 a doco:Paragraph ;
+    otracon:has_explicit "persequi pro posse non cessant." ;
+    otracon:has_incipit "[…] Et manifesta interim videamus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.1 a doco:Paragraph ;
+    otracon:has_explicit "et Wandalorum etiam fuisse dicamus." ;
+    otracon:has_incipit "Tunc enim solum Christianorum corpora" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.2 a doco:Paragraph ;
+    otracon:has_explicit "tanto maior credentium numerus resultabat." ;
+    otracon:has_incipit "Instat et contra solam animam" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.3 a doco:Paragraph ;
+    otracon:has_explicit "filium proprium similiter negare coegit." ;
+    otracon:has_incipit "Sed hoc in tempore fortissime" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.4 a doco:Paragraph ;
+    otracon:has_explicit "nec remedia | adhibere curamus." ;
+    otracon:has_incipit "Tertio modo contra animam et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.5 a doco:Paragraph ;
+    otracon:has_explicit "baratrum subito discurrunt. […] |" ;
+    otracon:has_incipit "Sed illis, qui cruce domini" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.6 a doco:Paragraph ;
+    otracon:has_explicit "cupio, quod opera caritatis exerceo." ;
+    otracon:has_incipit "Addis et aliam causam spontaneae" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.7 a doco:Paragraph ;
+    otracon:has_explicit "ex toto fere Alchorano collegi." ;
+    otracon:has_incipit "Sed ostendam tibi, quod illorum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.21.8 a doco:Paragraph ;
+    otracon:has_explicit "victoria coronas promerebimur aeternas. […]" ;
+    otracon:has_incipit "Nam xiii. eius voluminis capitulo" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.22.0 a doco:Paragraph ;
+    otracon:has_explicit "in se dominus minime derelinquet." ;
+    otracon:has_incipit "[…] Et ut te exemplo" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.22.1 a doco:Paragraph ;
+    otracon:has_explicit "sufferentes nec gemitum emittebant. […]" ;
+    otracon:has_incipit "Instat et iterum contra nos" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.23.0 a doco:Paragraph ;
+    otracon:has_explicit "ad infideles zelo fidei transire." ;
+    otracon:has_incipit "[…] Ut ergo ad compendium" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.23.1 a doco:Paragraph ;
+    otracon:has_explicit "ab illis omnimodam suscipiunt licentiam." ;
+    otracon:has_incipit "[1] Uno modo ut auctentice" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.23.2 a doco:Paragraph ;
+    otracon:has_explicit "similter scientia praeditos esse oportet." ;
+    otracon:has_incipit "[2] Alio modo et comministri" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.23.3 a doco:Paragraph ;
+    otracon:has_explicit "illis et forma supradicti conveniunt." ;
+    otracon:has_incipit "[3] Alio modo ut obsequiose" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.23.4 a doco:Paragraph ;
+    otracon:has_explicit "illi obligantur et non hi." ;
+    otracon:has_incipit "[4] Possunt et alio modo" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.23.5 a doco:Paragraph ;
+    otracon:has_explicit "veritatibus aut moralibus repugnare potest." ;
+    otracon:has_incipit "Sed si indoctos hos saeculares" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.23.6 a doco:Paragraph ;
+    otracon:has_explicit "et disputaturi sint, praecogitare debeant." ;
+    otracon:has_incipit "Sed aliis sectis, quia veritas" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.23.7 a doco:Paragraph ;
+    otracon:has_explicit "umquam speravit et confusus est?" ;
+    otracon:has_incipit "Et quaestionem solvere videtur Christus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.0 a doco:Paragraph ;
+    otracon:has_explicit "Minorum Montis Sion in Hierosolymis." ;
+    otracon:has_incipit "[…] Tu ergo, quando ad" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.1 a doco:Paragraph ;
+    otracon:has_explicit "pro Christo capite truncatus est." ;
+    otracon:has_incipit "Est etiam et alius laudabilis" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.10 a doco:Paragraph ;
+    otracon:has_explicit "Et reliqua ut supra descripsimus." ;
+    otracon:has_incipit "„Ego.“ Vel: „Nos tales a" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.11 a doco:Paragraph ;
+    otracon:has_explicit "et subsequentibus temporibus manutenere possit." ;
+    otracon:has_incipit "Ex quibus duabus formis mutatis" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.12 a doco:Paragraph ;
+    otracon:has_explicit "temporibus post sanctissimi fuerint episcopi." ;
+    otracon:has_incipit "Et tunc, cum ipse venerit" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.13 a doco:Paragraph ;
+    otracon:has_explicit "immiserit, quod illum facile consequeris." ;
+    otracon:has_incipit "Verum si tuae admonitioni et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.14 a doco:Paragraph ;
+    otracon:has_explicit "in vitam aeternam inveniet eam." ;
+    otracon:has_incipit "Unde cum Alexandrum patientissime in" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.15 a doco:Paragraph ;
+    otracon:has_explicit "temporibus et eadem via exercuisse?" ;
+    otracon:has_incipit "Sed ut manifestum diaboli opus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.16 a doco:Paragraph ;
+    otracon:has_explicit "immunem atque securum | redde." ;
+    otracon:has_incipit "Offerebat itaque Traianus Ignatio summum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.17 a doco:Paragraph ;
+    otracon:has_explicit "praevalere adversum me insania tua.“" ;
+    otracon:has_incipit "Et ut unico exemplo firmari" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.18 a doco:Paragraph ;
+    otracon:has_explicit "amore Iesu Christi sufferenda excitabitur?" ;
+    otracon:has_incipit "Quare et, ut aliorum sic" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.19 a doco:Paragraph ;
+    otracon:has_explicit "est, se putari permittere debet?“" ;
+    otracon:has_incipit "Nam lata crudelissima sententia, ut" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.2 a doco:Paragraph ;
+    otracon:has_explicit "magistro Ioanni de Ragusio. |" ;
+    otracon:has_incipit "Et die quodam peragrans ego" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.20 a doco:Paragraph ;
+    otracon:has_explicit "habeo totum discidi pro Christo.“" ;
+    otracon:has_incipit "Et tunc accedens carnifex secundum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.21 a doco:Paragraph ;
+    otracon:has_explicit "cor meum frui libere possim.“" ;
+    otracon:has_incipit "Tunc accendentes ad sinistram illius" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.22 a doco:Paragraph ;
+    otracon:has_explicit "die cum sociis tuis requiesces.“" ;
+    otracon:has_incipit "Quae inspicientes astantes et carnali" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.23 a doco:Paragraph ;
+    otracon:has_explicit "devotissime recolligentes sepulturae honorifice tradiderunt." ;
+    otracon:has_incipit "Absciditur et quartus et inde" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.24 a doco:Paragraph ;
+    otracon:has_explicit "infinita saecula saeculorum.“ Amen. |" ;
+    otracon:has_incipit "Quis ergo sic durus erit" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.3 a doco:Paragraph ;
+    otracon:has_explicit "et, quae scripseris, pensare poterunt." ;
+    otracon:has_incipit "Sed quia horum temporum infideles" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.4 a doco:Paragraph ;
+    otracon:has_explicit "diversimode ut possunt simul permixti." ;
+    otracon:has_incipit "Et sic quattuor illi |" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.5 a doco:Paragraph ;
+    otracon:has_explicit "ergo sic cedulam hanc describere:" ;
+    otracon:has_incipit "Et tunc vel coram gentis" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.6 a doco:Paragraph ;
+    otracon:has_explicit "suis hoc nobis testimonium reliquerunt?" ;
+    otracon:has_incipit "„Ego.“ Vel: „Nos tales viri" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.7 a doco:Paragraph ;
+    otracon:has_explicit "peccatorum, carnis resurrectionem, vitam aeternam.'‘" ;
+    otracon:has_incipit "Quare et si trinitatem cognoscere" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.8 a doco:Paragraph ;
+    otracon:has_explicit "regnat per infinita saecula saeculorum.“" ;
+    otracon:has_incipit "Haec, ut vidistis, brevissime ab" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.24.9 a doco:Paragraph ;
+    otracon:has_explicit "professionis fidei cedulam describere poterunt." ;
+    otracon:has_incipit "Si vero hi, qui huiusmodi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.25.0 a doco:Paragraph ;
+    otracon:has_explicit "hunc paucis in diebus composui." ;
+    otracon:has_incipit "Ut putamus, sufficienter iam pro" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.25.1 a doco:Paragraph ;
+    otracon:has_explicit "dicam, paene vulgaria explicuisse contentor." ;
+    otracon:has_incipit "Et licet dato etiam tempore" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.25.2 a doco:Paragraph ;
+    otracon:has_explicit "et auctoritate solitaque caritate conscribas." ;
+    otracon:has_incipit "At quoniam huius sanctissimae rei" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.25.3 a doco:Paragraph ;
+    otracon:has_explicit "sanctissimum confirmavit et plurimum laudavit." ;
+    otracon:has_incipit "Nec me vos alii carissimi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.25.4 a doco:Paragraph ;
+    otracon:has_explicit "per infinita saecula saeculorum. Amen." ;
+    otracon:has_incipit "Et, ut deo placuit, aliqua" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.25.5 a doco:Paragraph ;
+    otracon:has_explicit "Finis." ;
+    otracon:has_incipit "Finis." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.0 a doco:Paragraph ;
+    otracon:has_explicit "universi, qui habitabant in ea'." ;
+    otracon:has_incipit "Et enim sicut et in" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.1 a doco:Paragraph ;
+    otracon:has_explicit "singularis ferus depastus est eam.'“" ;
+    otracon:has_incipit "At ubi vero unusquisque coepit," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.2 a doco:Paragraph ;
+    otracon:has_explicit "quem iam tota Africa colat?" ;
+    otracon:has_incipit "Dum iam omnes paene infideles" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.3 a doco:Paragraph ;
+    otracon:has_explicit "Iordanis influat in os eius." ;
+    otracon:has_incipit "Et ne hic diutius immorer," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.4 a doco:Paragraph ;
+    otracon:has_explicit "ibi nostrae redemptionis pretium solveretur." ;
+    otracon:has_incipit "Videlicet ut particularius aliquid corda" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.5 a doco:Paragraph ;
+    otracon:has_explicit "oboedientes fide et gratia susceperunt." ;
+    otracon:has_incipit "Quid dicam de terra sanctissima," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.6 a doco:Paragraph ;
+    otracon:has_explicit "oppida a fundamentis eversa sint?" ;
+    otracon:has_incipit "Quid dicam de terra sanctissima," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.7 a doco:Paragraph ;
+    otracon:has_explicit "redigi et abduci inimicorum Christi!" ;
+    otracon:has_incipit "Videlicet ne videar antiquum quasi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.3.8 a doco:Paragraph ;
+    otracon:has_explicit "insipientiae meae.'“ Sed ut nostra" ;
+    otracon:has_incipit "Quot enim momentaneis horis milia" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.0 a doco:Paragraph ;
+    otracon:has_explicit "die veneris ultima Augusti MCCCCXXXVI." ;
+    otracon:has_incipit "Littera fratris Iohannis de Ragusio" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.1 a doco:Paragraph ;
+    otracon:has_explicit "debita ac devota recommendatione praemissa." ;
+    otracon:has_incipit "Reverendissime in Christo pater et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.10 a doco:Paragraph ;
+    otracon:has_explicit "alio, fiat aliqualis provisio. |" ;
+    otracon:has_incipit "Praeter ea, quae sacro concilio" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.11 a doco:Paragraph ;
+    otracon:has_explicit "coepit graviter vexare imperium Heraclii." ;
+    otracon:has_incipit "Magna dubitatio orta est noviter" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.12 a doco:Paragraph ;
+    otracon:has_explicit "caperent adversus hanc nefandissimam sectam." ;
+    otracon:has_incipit "Constat igitur, quod praefatus pseudopropheta" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.13 a doco:Paragraph ;
+    otracon:has_explicit "suis et legi et venerari." ;
+    otracon:has_incipit "Ex ista deceptione termini praefixi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.14 a doco:Paragraph ;
+    otracon:has_explicit "et fallacem ostendunt et confundunt.“" ;
+    otracon:has_incipit "Cum ergo cotidie legant in" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.15 a doco:Paragraph ;
+    otracon:has_explicit "in augmentum suae fidei sanctae." ;
+    otracon:has_incipit "Multa sunt alia, de quibus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.16 a doco:Paragraph ;
+    otracon:has_explicit "fiat voluntas dei in omnibus." ;
+    otracon:has_incipit "Continuantur omnino nova de adventu" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.17 a doco:Paragraph ;
+    otracon:has_explicit "nobis omnem dispositionem rerum. |" ;
+    otracon:has_incipit "Hic multa nova de partibus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.18 a doco:Paragraph ;
+    otracon:has_explicit "ipsorum habuit LX | florenorum." ;
+    otracon:has_incipit "Disposueramus omnes scripturas praesentes mittere" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.19 a doco:Paragraph ;
+    otracon:has_explicit "fuisset ecclesia Christi desiderata unione!“" ;
+    otracon:has_incipit "Videtur nobis valde necessarium, ut" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.2 a doco:Paragraph ;
+    otracon:has_explicit "litteras, quas per eundem transmissurus." ;
+    otracon:has_incipit "Disposueram de singulis hic per" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.20 a doco:Paragraph ;
+    otracon:has_explicit "fuerit in symbolo „filioque procedit“." ;
+    otracon:has_incipit "Videtur insuper nobis, quod sacrum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.21 a doco:Paragraph ;
+    otracon:has_explicit "bonus scriptor, valde consolati essemus." ;
+    otracon:has_incipit "Nullum scriptorem aut notarium habemus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.22 a doco:Paragraph ;
+    otracon:has_explicit "nec tamen desistemus ab inquisitione." ;
+    otracon:has_incipit "Quaerimus, quantum possumus, originales libros" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.23 a doco:Paragraph ;
+    otracon:has_explicit "simus vobis recommissi in expensis." ;
+    otracon:has_incipit "Alia pro praesenti non occurrunt," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.24 a doco:Paragraph ;
+    otracon:has_explicit "prout indesinenter rogo deum. Amen." ;
+    otracon:has_incipit "Altissimus reverendissimam paternitatem vestram conservare" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.25 a doco:Paragraph ;
+    otracon:has_explicit "capellanus frater Iohannes de Ragusio." ;
+    otracon:has_incipit "Scriptum in Constantinopoli die IX." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.3 a doco:Paragraph ;
+    otracon:has_explicit "qui venturi sunt, sint praeavisati." ;
+    otracon:has_incipit "Post recessum autem ipsius tertia" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.4 a doco:Paragraph ;
+    otracon:has_explicit "quod magister Henricus secum detulit." ;
+    otracon:has_incipit "Diximus, quod bona erat cogitatio" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.5 a doco:Paragraph ;
+    otracon:has_explicit "de huiusmodi securitate nobis iniungebatur." ;
+    otracon:has_incipit "In quibus iurat se asservaturum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.6 a doco:Paragraph ;
+    otracon:has_explicit "tunc imperator teneatur“ et cetera." ;
+    otracon:has_incipit "Recordatus etiam fui ego, quod" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.7 a doco:Paragraph ;
+    otracon:has_explicit "ad nullam restitutionem teneatur.“ |" ;
+    otracon:has_incipit "Condescendimus etiam contenti de verbo" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.8 a doco:Paragraph ;
+    otracon:has_explicit "patrem posse in Graecia reperiri." ;
+    otracon:has_incipit "Post concordiam de expositione pecuniarum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.5.9 a doco:Paragraph ;
+    otracon:has_explicit "oecumenico vos mutuo intuebimini. |" ;
+    otracon:has_incipit "In promptu erat ad renuntiandum" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.0 a doco:Paragraph ;
+    otracon:has_explicit "die veneris VIIIa februaris MCCCCXXXVII." ;
+    otracon:has_incipit "Littera fratris Johannis de Ragusio" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.1 a doco:Paragraph ;
+    otracon:has_explicit "suis dominis et patribus metuendissimis." ;
+    otracon:has_incipit "Sacrosanctae generali synodo Basiliensi in" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.10 a doco:Paragraph ;
+    otracon:has_explicit "valent quam unus ducatus, vendi!" ;
+    otracon:has_incipit "O quam durum et miserabile" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.11 a doco:Paragraph ;
+    otracon:has_explicit "deus sua potestate non permittat!" ;
+    otracon:has_incipit "Praedicta, sanctissimi patres, non semel" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.12 a doco:Paragraph ;
+    otracon:has_explicit "quod nec reliquiae ipsius remanerent." ;
+    otracon:has_incipit "Paucis elapsis mensibus, videlicet in" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.13 a doco:Paragraph ;
+    otracon:has_explicit "christifidelibus perciperentur, quali conscripta sunt!" ;
+    otracon:has_incipit "Et haec dispositione atque novis" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.14 a doco:Paragraph ;
+    otracon:has_explicit "restat ruinae parebit et desolationi." ;
+    otracon:has_incipit "Serenissimus hic imperator Romaeorum et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.15 a doco:Paragraph ;
+    otracon:has_explicit "sunt hic in urbe regia." ;
+    otracon:has_incipit "De patriarchis orientalibus, videlicet Alexandrino," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.16 a doco:Paragraph ;
+    otracon:has_explicit "dignetur et ad vota. Amen." ;
+    otracon:has_incipit "Postquam scripseram haec, supervenit dominus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.17 a doco:Paragraph ;
+    otracon:has_explicit "Constantinopoli die XVII. Novembris MCCCCXXXVI." ;
+    otracon:has_incipit "Scriptum Constantinopoli die XVII. Novembris" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.18 a doco:Paragraph ;
+    otracon:has_explicit "de Ragusio, ordinis frater Praedicatorum." ;
+    otracon:has_incipit "Earundem paternitatum vestrarum humilis servitor" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.2 a doco:Paragraph ;
+    otracon:has_explicit "post humiles et devotas recommendationes." ;
+    otracon:has_incipit "Reverendissimi in Christo patres et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.3 a doco:Paragraph ;
+    otracon:has_explicit "instaret civitati, quod deus avertat." ;
+    otracon:has_incipit "De mense Septembris immediate praeterito" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.4 a doco:Paragraph ;
+    otracon:has_explicit "audire, quae aures meae perhorrescunt." ;
+    otracon:has_incipit "Qui, quantum turbati sint ipsi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.5 a doco:Paragraph ;
+    otracon:has_explicit "tantam nominis Christiani ignominiam ferre!" ;
+    otracon:has_incipit "Et ut aliquid particularius dicam:" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.6 a doco:Paragraph ;
+    otracon:has_explicit "foetore maiorem adstantibus inferret abominationem." ;
+    otracon:has_incipit "Nam capta et interfecta ingenti" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.7 a doco:Paragraph ;
+    otracon:has_explicit "restat, modicum sine difficultate reducet.“" ;
+    otracon:has_incipit "Quanta autem in tam miserabili" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.8 a doco:Paragraph ;
+    otracon:has_explicit "quae aderant spectaculo, multitudinem interpretando." ;
+    otracon:has_incipit "Deinde ad ambassiatores orientis et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.6.9 a doco:Paragraph ;
+    otracon:has_explicit "durae et miserabili servituti subegit." ;
+    otracon:has_incipit "Quo finito iussit, ut pulchriores" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.0 a doco:Paragraph ;
+    otracon:has_explicit "Ragusio lecta ut immediate supra." ;
+    otracon:has_incipit "Littera magistri Johannis de Ragusio" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.1 a doco:Paragraph ;
+    otracon:has_explicit "ecclesiam repraesentanti suis dominis gratiosissimis." ;
+    otracon:has_incipit "Sacrosanctae generali synodo Basiliensi in" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.10 a doco:Paragraph ;
+    otracon:has_explicit "recepi eadem quae primae continentes." ;
+    otracon:has_incipit "Duo nuntii Graeci, qui XI." ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.11 a doco:Paragraph ;
+    otracon:has_explicit "erga praefatum magnificum dominium agite." ;
+    otracon:has_incipit "Quia vero iustum est, ut," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.12 a doco:Paragraph ;
+    otracon:has_explicit "possem exprimere nec describere calamo." ;
+    otracon:has_incipit "De ingenti autem et ferventi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.13 a doco:Paragraph ;
+    otracon:has_explicit "innumera bona christiano sequentur populo." ;
+    otracon:has_incipit "Agite igitur, o sanctissimi patres," ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.14 a doco:Paragraph ;
+    otracon:has_explicit "se unire et integrare festinabit." ;
+    otracon:has_incipit "Nec enim tantum Latinorum et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.15 a doco:Paragraph ;
+    otracon:has_explicit "ad sanctae matris ecclesiae unitatem." ;
+    otracon:has_incipit "Et ut amplius aliquid dicam:" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.16 a doco:Paragraph ;
+    otracon:has_explicit "necesse, dirigat in agendis. Amen." ;
+    otracon:has_incipit "Dicito: Quid hac sancta unione" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.17 a doco:Paragraph ;
+    otracon:has_explicit "et dirigat in agendis. Amen." ;
+    otracon:has_incipit "Litteras ratificationis et salvusconductus iam" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.18 a doco:Paragraph ;
+    otracon:has_explicit "mare Venetias sanctae synodo destinandas." ;
+    otracon:has_incipit "Scriptum Constantinopoli die XIII. Februarii" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.19 a doco:Paragraph ;
+    otracon:has_explicit "de Ragusio ordinis fratrum praedicatorum." ;
+    otracon:has_incipit "Eiusdem sanctae synodi humilis servitor" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.2 a doco:Paragraph ;
+    otracon:has_explicit "post humiles et devotas recommendationes." ;
+    otracon:has_incipit "Reverendissimi in Christo patres et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.3 a doco:Paragraph ;
+    otracon:has_explicit "et complementum, prout necesse est." ;
+    otracon:has_incipit "Die XXIIII. Ianuarii applicuit Constantinopolim" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.4 a doco:Paragraph ;
+    otracon:has_explicit "quod concedere nullo modo possunt." ;
+    otracon:has_incipit "Intellecto igitur mandato vestro super" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.5 a doco:Paragraph ;
+    otracon:has_explicit "cum imperatore et patriarcha Constantinopolitano." ;
+    otracon:has_incipit "Per tres patriarchas orientales facta" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.6 a doco:Paragraph ;
+    otracon:has_explicit "vestris lacrimabiliter et descripsi. |" ;
+    otracon:has_incipit "Per dominum Johannem Dissipatum scripsi" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.7 a doco:Paragraph ;
+    otracon:has_explicit "tantum, ut petunt, debent habere." ;
+    otracon:has_incipit "Mercatores de Pera, cum quibus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.8 a doco:Paragraph ;
+    otracon:has_explicit "ecclesiasticis uti et frui privilegiis." ;
+    otracon:has_incipit "Rogo itaque, ut sancta synodus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.7.9 a doco:Paragraph ;
+    otracon:has_explicit "ecclesiasticas personas usurpantes iurisdictionem incurrunt." ;
+    otracon:has_incipit "Interim autem, si necessitas me" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.9.0 a doco:Paragraph ;
+    otracon:has_explicit "modo vellent intrare istum lamberintum." ;
+    otracon:has_incipit "Reverendissime in Christo pater et" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.9.1 a doco:Paragraph ;
+    otracon:has_explicit "et quod nos sumus deceptores." ;
+    otracon:has_incipit "Et sic, reverendissime pater, remanemus" ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.10_20-50 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.10_20-50_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.10_20-50_end .
+
+otradata:Ragusa_Op__B.1.10_20-50_end a hdn:Position ;
+    hdn:positionOffset 50 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.10 .
+
+otradata:Ragusa_Op__B.1.10_20-50_start a hdn:Position ;
+    hdn:positionOffset 20 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.10 .
+
+otradata:Ragusa_Op__B.1.10_3-8 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.10_3-8_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.10_3-8_end .
+
+otradata:Ragusa_Op__B.1.10_3-8_end a hdn:Position ;
+    hdn:positionOffset 8 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.10 .
+
+otradata:Ragusa_Op__B.1.10_3-8_start a hdn:Position ;
+    hdn:positionOffset 3 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.10 .
+
+otradata:Ragusa_Op__B.1.10_51-86 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.10_51-86_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.10_51-86_end .
+
+otradata:Ragusa_Op__B.1.10_51-86_end a hdn:Position ;
+    hdn:positionOffset 86 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.10 .
+
+otradata:Ragusa_Op__B.1.10_51-86_start a hdn:Position ;
+    hdn:positionOffset 51 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.10 .
+
+otradata:Ragusa_Op__B.1.10_9-19 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.10_9-19_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.10_9-19_end .
+
+otradata:Ragusa_Op__B.1.10_9-19_end a hdn:Position ;
+    hdn:positionOffset 19 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.10 .
+
+otradata:Ragusa_Op__B.1.10_9-19_start a hdn:Position ;
+    hdn:positionOffset 9 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.10 .
+
+otradata:Ragusa_Op__B.1.11_1-24 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.11_1-24_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.11_1-24_end .
+
+otradata:Ragusa_Op__B.1.11_1-24_end a hdn:Position ;
+    hdn:positionOffset 24 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.11 .
+
+otradata:Ragusa_Op__B.1.11_1-24_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.11 .
+
+otradata:Ragusa_Op__B.1.11_26-210 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.11_26-210_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.11_26-210_end .
+
+otradata:Ragusa_Op__B.1.11_26-210_end a hdn:Position ;
+    hdn:positionOffset 210 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.11 .
+
+otradata:Ragusa_Op__B.1.11_26-210_start a hdn:Position ;
+    hdn:positionOffset 26 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.11 .
+
+otradata:Ragusa_Op__B.1.12_1-122 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.12_1-122_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.12_1-122_end .
+
+otradata:Ragusa_Op__B.1.12_1-122_end a hdn:Position ;
+    hdn:positionOffset 122 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.12 .
+
+otradata:Ragusa_Op__B.1.12_1-122_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.12 .
+
+otradata:Ragusa_Op__B.1.12_123-233 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.12_123-233_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.12_123-233_end .
+
+otradata:Ragusa_Op__B.1.12_123-233_end a hdn:Position ;
+    hdn:positionOffset 233 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.12 .
+
+otradata:Ragusa_Op__B.1.12_123-233_start a hdn:Position ;
+    hdn:positionOffset 123 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.12 .
+
+otradata:Ragusa_Op__B.1.13_31-86 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.13_31-86_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.13_31-86_end .
+
+otradata:Ragusa_Op__B.1.13_31-86_end a hdn:Position ;
+    hdn:positionOffset 86 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.13 .
+
+otradata:Ragusa_Op__B.1.13_31-86_start a hdn:Position ;
+    hdn:positionOffset 31 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.13 .
+
+otradata:Ragusa_Op__B.1.13_87-379 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.13_87-379_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.13_87-379_end .
+
+otradata:Ragusa_Op__B.1.13_87-379_end a hdn:Position ;
+    hdn:positionOffset 379 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.13 .
+
+otradata:Ragusa_Op__B.1.13_87-379_start a hdn:Position ;
+    hdn:positionOffset 87 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.13 .
+
+otradata:Ragusa_Op__B.1.14_1-14 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.14_1-14_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.14_1-14_end .
+
+otradata:Ragusa_Op__B.1.14_1-14_end a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.14 .
+
+otradata:Ragusa_Op__B.1.14_1-14_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.14 .
+
+otradata:Ragusa_Op__B.1.14_15-272 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.14_15-272_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.14_15-272_end .
+
+otradata:Ragusa_Op__B.1.14_15-272_end a hdn:Position ;
+    hdn:positionOffset 272 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.14 .
+
+otradata:Ragusa_Op__B.1.14_15-272_start a hdn:Position ;
+    hdn:positionOffset 15 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.14 .
+
+otradata:Ragusa_Op__B.1.15_29-160 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.15_29-160_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.15_29-160_end .
+
+otradata:Ragusa_Op__B.1.15_29-160_end a hdn:Position ;
+    hdn:positionOffset 160 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.15 .
+
+otradata:Ragusa_Op__B.1.15_29-160_start a hdn:Position ;
+    hdn:positionOffset 29 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.15 .
+
+otradata:Ragusa_Op__B.1.1_1-33 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.1_1-33_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.1_1-33_end .
+
+otradata:Ragusa_Op__B.1.1_1-33_end a hdn:Position ;
+    hdn:positionOffset 33 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.1 .
+
+otradata:Ragusa_Op__B.1.1_1-33_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.1 .
+
+otradata:Ragusa_Op__B.1.1_None-None a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.1_None-None_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.1_None-None_end .
+
+otradata:Ragusa_Op__B.1.1_None-None_end a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.1 .
+
+otradata:Ragusa_Op__B.1.1_None-None_start a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.1 .
+
+otradata:Ragusa_Op__B.1.2_1-37 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.2_1-37_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.2_1-37_end .
+
+otradata:Ragusa_Op__B.1.2_1-37_end a hdn:Position ;
+    hdn:positionOffset 37 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.2 .
+
+otradata:Ragusa_Op__B.1.2_1-37_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.2 .
+
+otradata:Ragusa_Op__B.1.3_229-241 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.3_229-241_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.3_229-241_end .
+
+otradata:Ragusa_Op__B.1.3_229-241_end a hdn:Position ;
+    hdn:positionOffset 241 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.3 .
+
+otradata:Ragusa_Op__B.1.3_229-241_start a hdn:Position ;
+    hdn:positionOffset 229 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.3 .
+
+otradata:Ragusa_Op__B.1.3_32-82 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.3_32-82_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.3_32-82_end .
+
+otradata:Ragusa_Op__B.1.3_32-82_end a hdn:Position ;
+    hdn:positionOffset 82 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.3 .
+
+otradata:Ragusa_Op__B.1.3_32-82_start a hdn:Position ;
+    hdn:positionOffset 32 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.3 .
+
+otradata:Ragusa_Op__B.1.3_83-228 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.3_83-228_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.3_83-228_end .
+
+otradata:Ragusa_Op__B.1.3_83-228_end a hdn:Position ;
+    hdn:positionOffset 228 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.3 .
+
+otradata:Ragusa_Op__B.1.3_83-228_start a hdn:Position ;
+    hdn:positionOffset 83 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.3 .
+
+otradata:Ragusa_Op__B.1.5_12-16 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.5_12-16_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.5_12-16_end .
+
+otradata:Ragusa_Op__B.1.5_12-16_end a hdn:Position ;
+    hdn:positionOffset 16 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.5 .
+
+otradata:Ragusa_Op__B.1.5_12-16_start a hdn:Position ;
+    hdn:positionOffset 12 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.5 .
+
+otradata:Ragusa_Op__B.1.5_17-18 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.5_17-18_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.5_17-18_end .
+
+otradata:Ragusa_Op__B.1.5_17-18_end a hdn:Position ;
+    hdn:positionOffset 18 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.5 .
+
+otradata:Ragusa_Op__B.1.5_17-18_start a hdn:Position ;
+    hdn:positionOffset 17 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.5 .
+
+otradata:Ragusa_Op__B.1.5_20-22 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.5_20-22_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.5_20-22_end .
+
+otradata:Ragusa_Op__B.1.5_20-22_end a hdn:Position ;
+    hdn:positionOffset 22 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.5 .
+
+otradata:Ragusa_Op__B.1.5_20-22_start a hdn:Position ;
+    hdn:positionOffset 20 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.5 .
+
+otradata:Ragusa_Op__B.1.5_23-133 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.5_23-133_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.5_23-133_end .
+
+otradata:Ragusa_Op__B.1.5_23-133_end a hdn:Position ;
+    hdn:positionOffset 133 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.5 .
+
+otradata:Ragusa_Op__B.1.5_23-133_start a hdn:Position ;
+    hdn:positionOffset 23 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.5 .
+
+otradata:Ragusa_Op__B.1.6_1-10 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.6_1-10_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.6_1-10_end .
+
+otradata:Ragusa_Op__B.1.6_1-10_end a hdn:Position ;
+    hdn:positionOffset 10 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.6 .
+
+otradata:Ragusa_Op__B.1.6_1-10_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.6 .
+
+otradata:Ragusa_Op__B.1.6_18-156 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.6_18-156_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.6_18-156_end .
+
+otradata:Ragusa_Op__B.1.6_18-156_end a hdn:Position ;
+    hdn:positionOffset 156 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.6 .
+
+otradata:Ragusa_Op__B.1.6_18-156_start a hdn:Position ;
+    hdn:positionOffset 18 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.6 .
+
+otradata:Ragusa_Op__B.1.7_117-205 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.7_117-205_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.7_117-205_end .
+
+otradata:Ragusa_Op__B.1.7_117-205_end a hdn:Position ;
+    hdn:positionOffset 205 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.7 .
+
+otradata:Ragusa_Op__B.1.7_117-205_start a hdn:Position ;
+    hdn:positionOffset 117 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.7 .
+
+otradata:Ragusa_Op__B.1.7_256-333 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.7_256-333_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.7_256-333_end .
+
+otradata:Ragusa_Op__B.1.7_256-333_end a hdn:Position ;
+    hdn:positionOffset 333 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.7 .
+
+otradata:Ragusa_Op__B.1.7_256-333_start a hdn:Position ;
+    hdn:positionOffset 256 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.7 .
+
+otradata:Ragusa_Op__B.1.7_69-116 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.7_69-116_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.7_69-116_end .
+
+otradata:Ragusa_Op__B.1.7_69-116_end a hdn:Position ;
+    hdn:positionOffset 116 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.7 .
+
+otradata:Ragusa_Op__B.1.7_69-116_start a hdn:Position ;
+    hdn:positionOffset 69 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.7 .
+
+otradata:Ragusa_Op__B.1.8_128-141 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_128-141_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_128-141_end .
+
+otradata:Ragusa_Op__B.1.8_128-141_end a hdn:Position ;
+    hdn:positionOffset 141 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_128-141_start a hdn:Position ;
+    hdn:positionOffset 128 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_146-157 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_146-157_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_146-157_end .
+
+otradata:Ragusa_Op__B.1.8_146-157_end a hdn:Position ;
+    hdn:positionOffset 157 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_146-157_start a hdn:Position ;
+    hdn:positionOffset 146 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_158-172 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_158-172_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_158-172_end .
+
+otradata:Ragusa_Op__B.1.8_158-172_end a hdn:Position ;
+    hdn:positionOffset 172 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_158-172_start a hdn:Position ;
+    hdn:positionOffset 158 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_173-180 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_173-180_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_173-180_end .
+
+otradata:Ragusa_Op__B.1.8_173-180_end a hdn:Position ;
+    hdn:positionOffset 180 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_173-180_start a hdn:Position ;
+    hdn:positionOffset 173 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_181-198 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_181-198_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_181-198_end .
+
+otradata:Ragusa_Op__B.1.8_181-198_end a hdn:Position ;
+    hdn:positionOffset 198 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_181-198_start a hdn:Position ;
+    hdn:positionOffset 181 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_208-212 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_208-212_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_208-212_end .
+
+otradata:Ragusa_Op__B.1.8_208-212_end a hdn:Position ;
+    hdn:positionOffset 212 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_208-212_start a hdn:Position ;
+    hdn:positionOffset 208 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_213-214 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_213-214_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_213-214_end .
+
+otradata:Ragusa_Op__B.1.8_213-214_end a hdn:Position ;
+    hdn:positionOffset 214 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_213-214_start a hdn:Position ;
+    hdn:positionOffset 213 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_56-79 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_56-79_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_56-79_end .
+
+otradata:Ragusa_Op__B.1.8_56-79_end a hdn:Position ;
+    hdn:positionOffset 79 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_56-79_start a hdn:Position ;
+    hdn:positionOffset 56 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_90-94 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_90-94_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_90-94_end .
+
+otradata:Ragusa_Op__B.1.8_90-94_end a hdn:Position ;
+    hdn:positionOffset 94 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_90-94_start a hdn:Position ;
+    hdn:positionOffset 90 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_95-121 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_95-121_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_95-121_end .
+
+otradata:Ragusa_Op__B.1.8_95-121_end a hdn:Position ;
+    hdn:positionOffset 121 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_95-121_start a hdn:Position ;
+    hdn:positionOffset 95 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_None-None a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.8_None-None_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.8_None-None_end .
+
+otradata:Ragusa_Op__B.1.8_None-None_end a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.8_None-None_start a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.8 .
+
+otradata:Ragusa_Op__B.1.9_21-160 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.1.9_21-160_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.1.9_21-160_end .
+
+otradata:Ragusa_Op__B.1.9_21-160_end a hdn:Position ;
+    hdn:positionOffset 160 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.9 .
+
+otradata:Ragusa_Op__B.1.9_21-160_start a hdn:Position ;
+    hdn:positionOffset 21 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.1.9 .
+
+otradata:Ragusa_Op__B.2.0_1-98 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.0_1-98_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.0_1-98_end .
+
+otradata:Ragusa_Op__B.2.0_1-98_end a hdn:Position ;
+    hdn:positionOffset 98 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.0 .
+
+otradata:Ragusa_Op__B.2.0_1-98_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.0 .
+
+otradata:Ragusa_Op__B.2.0_158-192 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.0_158-192_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.0_158-192_end .
+
+otradata:Ragusa_Op__B.2.0_158-192_end a hdn:Position ;
+    hdn:positionOffset 192 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.0 .
+
+otradata:Ragusa_Op__B.2.0_158-192_start a hdn:Position ;
+    hdn:positionOffset 158 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.0 .
+
+otradata:Ragusa_Op__B.2.0_193-254 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.0_193-254_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.0_193-254_end .
+
+otradata:Ragusa_Op__B.2.0_193-254_end a hdn:Position ;
+    hdn:positionOffset 254 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.0 .
+
+otradata:Ragusa_Op__B.2.0_193-254_start a hdn:Position ;
+    hdn:positionOffset 193 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.0 .
+
+otradata:Ragusa_Op__B.2.10_1-43 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.10_1-43_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.10_1-43_end .
+
+otradata:Ragusa_Op__B.2.10_1-43_end a hdn:Position ;
+    hdn:positionOffset 43 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.10 .
+
+otradata:Ragusa_Op__B.2.10_1-43_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.10 .
+
+otradata:Ragusa_Op__B.2.10_44-64 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.10_44-64_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.10_44-64_end .
+
+otradata:Ragusa_Op__B.2.10_44-64_end a hdn:Position ;
+    hdn:positionOffset 64 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.10 .
+
+otradata:Ragusa_Op__B.2.10_44-64_start a hdn:Position ;
+    hdn:positionOffset 44 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.10 .
+
+otradata:Ragusa_Op__B.2.10_65-195 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.10_65-195_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.10_65-195_end .
+
+otradata:Ragusa_Op__B.2.10_65-195_end a hdn:Position ;
+    hdn:positionOffset 195 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.10 .
+
+otradata:Ragusa_Op__B.2.10_65-195_start a hdn:Position ;
+    hdn:positionOffset 65 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.10 .
+
+otradata:Ragusa_Op__B.2.11_1-155 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.11_1-155_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.11_1-155_end .
+
+otradata:Ragusa_Op__B.2.11_1-155_end a hdn:Position ;
+    hdn:positionOffset 155 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.11 .
+
+otradata:Ragusa_Op__B.2.11_1-155_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.11 .
+
+otradata:Ragusa_Op__B.2.11_156-212 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.11_156-212_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.11_156-212_end .
+
+otradata:Ragusa_Op__B.2.11_156-212_end a hdn:Position ;
+    hdn:positionOffset 212 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.11 .
+
+otradata:Ragusa_Op__B.2.11_156-212_start a hdn:Position ;
+    hdn:positionOffset 156 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.11 .
+
+otradata:Ragusa_Op__B.2.12_1-4 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.12_1-4_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.12_1-4_end .
+
+otradata:Ragusa_Op__B.2.12_1-4_end a hdn:Position ;
+    hdn:positionOffset 4 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.12 .
+
+otradata:Ragusa_Op__B.2.12_1-4_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.12 .
+
+otradata:Ragusa_Op__B.2.12_150-232 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.12_150-232_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.12_150-232_end .
+
+otradata:Ragusa_Op__B.2.12_150-232_end a hdn:Position ;
+    hdn:positionOffset 232 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.12 .
+
+otradata:Ragusa_Op__B.2.12_150-232_start a hdn:Position ;
+    hdn:positionOffset 150 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.12 .
+
+otradata:Ragusa_Op__B.2.12_5-85 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.12_5-85_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.12_5-85_end .
+
+otradata:Ragusa_Op__B.2.12_5-85_end a hdn:Position ;
+    hdn:positionOffset 85 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.12 .
+
+otradata:Ragusa_Op__B.2.12_5-85_start a hdn:Position ;
+    hdn:positionOffset 5 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.12 .
+
+otradata:Ragusa_Op__B.2.12_86-149 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.12_86-149_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.12_86-149_end .
+
+otradata:Ragusa_Op__B.2.12_86-149_end a hdn:Position ;
+    hdn:positionOffset 149 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.12 .
+
+otradata:Ragusa_Op__B.2.12_86-149_start a hdn:Position ;
+    hdn:positionOffset 86 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.12 .
+
+otradata:Ragusa_Op__B.2.13_1-54 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.13_1-54_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.13_1-54_end .
+
+otradata:Ragusa_Op__B.2.13_1-54_end a hdn:Position ;
+    hdn:positionOffset 54 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.13 .
+
+otradata:Ragusa_Op__B.2.13_1-54_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.13 .
+
+otradata:Ragusa_Op__B.2.13_57-74 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.13_57-74_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.13_57-74_end .
+
+otradata:Ragusa_Op__B.2.13_57-74_end a hdn:Position ;
+    hdn:positionOffset 74 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.13 .
+
+otradata:Ragusa_Op__B.2.13_57-74_start a hdn:Position ;
+    hdn:positionOffset 57 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.13 .
+
+otradata:Ragusa_Op__B.2.13_75-82 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.13_75-82_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.13_75-82_end .
+
+otradata:Ragusa_Op__B.2.13_75-82_end a hdn:Position ;
+    hdn:positionOffset 82 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.13 .
+
+otradata:Ragusa_Op__B.2.13_75-82_start a hdn:Position ;
+    hdn:positionOffset 75 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.13 .
+
+otradata:Ragusa_Op__B.2.14_1-77 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.14_1-77_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.14_1-77_end .
+
+otradata:Ragusa_Op__B.2.14_1-77_end a hdn:Position ;
+    hdn:positionOffset 77 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.14 .
+
+otradata:Ragusa_Op__B.2.14_1-77_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.14 .
+
+otradata:Ragusa_Op__B.2.14_78-97 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.14_78-97_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.14_78-97_end .
+
+otradata:Ragusa_Op__B.2.14_78-97_end a hdn:Position ;
+    hdn:positionOffset 97 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.14 .
+
+otradata:Ragusa_Op__B.2.14_78-97_start a hdn:Position ;
+    hdn:positionOffset 78 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.14 .
+
+otradata:Ragusa_Op__B.2.14_98-171 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.14_98-171_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.14_98-171_end .
+
+otradata:Ragusa_Op__B.2.14_98-171_end a hdn:Position ;
+    hdn:positionOffset 171 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.14 .
+
+otradata:Ragusa_Op__B.2.14_98-171_start a hdn:Position ;
+    hdn:positionOffset 98 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.14 .
+
+otradata:Ragusa_Op__B.2.15_116-225 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.15_116-225_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.15_116-225_end .
+
+otradata:Ragusa_Op__B.2.15_116-225_end a hdn:Position ;
+    hdn:positionOffset 225 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.15 .
+
+otradata:Ragusa_Op__B.2.15_116-225_start a hdn:Position ;
+    hdn:positionOffset 116 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.15 .
+
+otradata:Ragusa_Op__B.2.15_4-35 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.15_4-35_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.15_4-35_end .
+
+otradata:Ragusa_Op__B.2.15_4-35_end a hdn:Position ;
+    hdn:positionOffset 35 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.15 .
+
+otradata:Ragusa_Op__B.2.15_4-35_start a hdn:Position ;
+    hdn:positionOffset 4 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.15 .
+
+otradata:Ragusa_Op__B.2.15_74-115 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.15_74-115_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.15_74-115_end .
+
+otradata:Ragusa_Op__B.2.15_74-115_end a hdn:Position ;
+    hdn:positionOffset 115 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.15 .
+
+otradata:Ragusa_Op__B.2.15_74-115_start a hdn:Position ;
+    hdn:positionOffset 74 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.15 .
+
+otradata:Ragusa_Op__B.2.16_1-68 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.16_1-68_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.16_1-68_end .
+
+otradata:Ragusa_Op__B.2.16_1-68_end a hdn:Position ;
+    hdn:positionOffset 68 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.16 .
+
+otradata:Ragusa_Op__B.2.16_1-68_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.16 .
+
+otradata:Ragusa_Op__B.2.16_22-53 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.16_22-53_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.16_22-53_end .
+
+otradata:Ragusa_Op__B.2.16_22-53_end a hdn:Position ;
+    hdn:positionOffset 53 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.16 .
+
+otradata:Ragusa_Op__B.2.16_22-53_start a hdn:Position ;
+    hdn:positionOffset 22 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.16 .
+
+otradata:Ragusa_Op__B.2.16_69-185 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.16_69-185_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.16_69-185_end .
+
+otradata:Ragusa_Op__B.2.16_69-185_end a hdn:Position ;
+    hdn:positionOffset 185 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.16 .
+
+otradata:Ragusa_Op__B.2.16_69-185_start a hdn:Position ;
+    hdn:positionOffset 69 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.16 .
+
+otradata:Ragusa_Op__B.2.17_1-4 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.17_1-4_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.17_1-4_end .
+
+otradata:Ragusa_Op__B.2.17_1-4_end a hdn:Position ;
+    hdn:positionOffset 4 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.17 .
+
+otradata:Ragusa_Op__B.2.17_1-4_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.17 .
+
+otradata:Ragusa_Op__B.2.17_16-19 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.17_16-19_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.17_16-19_end .
+
+otradata:Ragusa_Op__B.2.17_16-19_end a hdn:Position ;
+    hdn:positionOffset 19 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.17 .
+
+otradata:Ragusa_Op__B.2.17_16-19_start a hdn:Position ;
+    hdn:positionOffset 16 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.17 .
+
+otradata:Ragusa_Op__B.2.17_5-14 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.17_5-14_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.17_5-14_end .
+
+otradata:Ragusa_Op__B.2.17_5-14_end a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.17 .
+
+otradata:Ragusa_Op__B.2.17_5-14_start a hdn:Position ;
+    hdn:positionOffset 5 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.17 .
+
+otradata:Ragusa_Op__B.2.18_180-215 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.18_180-215_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.18_180-215_end .
+
+otradata:Ragusa_Op__B.2.18_180-215_end a hdn:Position ;
+    hdn:positionOffset 215 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_180-215_start a hdn:Position ;
+    hdn:positionOffset 180 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_2-28 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.18_2-28_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.18_2-28_end .
+
+otradata:Ragusa_Op__B.2.18_2-28_end a hdn:Position ;
+    hdn:positionOffset 28 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_2-28_start a hdn:Position ;
+    hdn:positionOffset 2 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_216-225 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.18_216-225_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.18_216-225_end .
+
+otradata:Ragusa_Op__B.2.18_216-225_end a hdn:Position ;
+    hdn:positionOffset 225 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_216-225_start a hdn:Position ;
+    hdn:positionOffset 216 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_29-68 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.18_29-68_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.18_29-68_end .
+
+otradata:Ragusa_Op__B.2.18_29-68_end a hdn:Position ;
+    hdn:positionOffset 68 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_29-68_start a hdn:Position ;
+    hdn:positionOffset 29 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_69-179 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.18_69-179_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.18_69-179_end .
+
+otradata:Ragusa_Op__B.2.18_69-179_end a hdn:Position ;
+    hdn:positionOffset 179 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.18_69-179_start a hdn:Position ;
+    hdn:positionOffset 69 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.18 .
+
+otradata:Ragusa_Op__B.2.19_106-120 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.19_106-120_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.19_106-120_end .
+
+otradata:Ragusa_Op__B.2.19_106-120_end a hdn:Position ;
+    hdn:positionOffset 120 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.19 .
+
+otradata:Ragusa_Op__B.2.19_106-120_start a hdn:Position ;
+    hdn:positionOffset 106 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.19 .
+
+otradata:Ragusa_Op__B.2.19_122-132 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.19_122-132_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.19_122-132_end .
+
+otradata:Ragusa_Op__B.2.19_122-132_end a hdn:Position ;
+    hdn:positionOffset 132 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.19 .
+
+otradata:Ragusa_Op__B.2.19_122-132_start a hdn:Position ;
+    hdn:positionOffset 122 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.19 .
+
+otradata:Ragusa_Op__B.2.19_2-61 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.19_2-61_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.19_2-61_end .
+
+otradata:Ragusa_Op__B.2.19_2-61_end a hdn:Position ;
+    hdn:positionOffset 61 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.19 .
+
+otradata:Ragusa_Op__B.2.19_2-61_start a hdn:Position ;
+    hdn:positionOffset 2 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.19 .
+
+otradata:Ragusa_Op__B.2.19_62-105 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.19_62-105_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.19_62-105_end .
+
+otradata:Ragusa_Op__B.2.19_62-105_end a hdn:Position ;
+    hdn:positionOffset 105 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.19 .
+
+otradata:Ragusa_Op__B.2.19_62-105_start a hdn:Position ;
+    hdn:positionOffset 62 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.19 .
+
+otradata:Ragusa_Op__B.2.1_1-44 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.1_1-44_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.1_1-44_end .
+
+otradata:Ragusa_Op__B.2.1_1-44_end a hdn:Position ;
+    hdn:positionOffset 44 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.1 .
+
+otradata:Ragusa_Op__B.2.1_1-44_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.1 .
+
+otradata:Ragusa_Op__B.2.1_114-140 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.1_114-140_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.1_114-140_end .
+
+otradata:Ragusa_Op__B.2.1_114-140_end a hdn:Position ;
+    hdn:positionOffset 140 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.1 .
+
+otradata:Ragusa_Op__B.2.1_114-140_start a hdn:Position ;
+    hdn:positionOffset 114 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.1 .
+
+otradata:Ragusa_Op__B.2.1_141-208 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.1_141-208_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.1_141-208_end .
+
+otradata:Ragusa_Op__B.2.1_141-208_end a hdn:Position ;
+    hdn:positionOffset 208 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.1 .
+
+otradata:Ragusa_Op__B.2.1_141-208_start a hdn:Position ;
+    hdn:positionOffset 141 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.1 .
+
+otradata:Ragusa_Op__B.2.1_45-113 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.1_45-113_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.1_45-113_end .
+
+otradata:Ragusa_Op__B.2.1_45-113_end a hdn:Position ;
+    hdn:positionOffset 113 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.1 .
+
+otradata:Ragusa_Op__B.2.1_45-113_start a hdn:Position ;
+    hdn:positionOffset 45 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.1 .
+
+otradata:Ragusa_Op__B.2.20_14-34 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.20_14-34_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.20_14-34_end .
+
+otradata:Ragusa_Op__B.2.20_14-34_end a hdn:Position ;
+    hdn:positionOffset 34 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_14-34_start a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_149-198 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.20_149-198_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.20_149-198_end .
+
+otradata:Ragusa_Op__B.2.20_149-198_end a hdn:Position ;
+    hdn:positionOffset 198 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_149-198_start a hdn:Position ;
+    hdn:positionOffset 149 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_210-304 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.20_210-304_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.20_210-304_end .
+
+otradata:Ragusa_Op__B.2.20_210-304_end a hdn:Position ;
+    hdn:positionOffset 304 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_210-304_start a hdn:Position ;
+    hdn:positionOffset 210 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_305-315 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.20_305-315_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.20_305-315_end .
+
+otradata:Ragusa_Op__B.2.20_305-315_end a hdn:Position ;
+    hdn:positionOffset 315 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_305-315_start a hdn:Position ;
+    hdn:positionOffset 305 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_35-62 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.20_35-62_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.20_35-62_end .
+
+otradata:Ragusa_Op__B.2.20_35-62_end a hdn:Position ;
+    hdn:positionOffset 62 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_35-62_start a hdn:Position ;
+    hdn:positionOffset 35 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_63-148 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.20_63-148_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.20_63-148_end .
+
+otradata:Ragusa_Op__B.2.20_63-148_end a hdn:Position ;
+    hdn:positionOffset 148 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.20_63-148_start a hdn:Position ;
+    hdn:positionOffset 63 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.20 .
+
+otradata:Ragusa_Op__B.2.21_1-46 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.21_1-46_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.21_1-46_end .
+
+otradata:Ragusa_Op__B.2.21_1-46_end a hdn:Position ;
+    hdn:positionOffset 46 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.21 .
+
+otradata:Ragusa_Op__B.2.21_1-46_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.21 .
+
+otradata:Ragusa_Op__B.2.21_120-130 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.21_120-130_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.21_120-130_end .
+
+otradata:Ragusa_Op__B.2.21_120-130_end a hdn:Position ;
+    hdn:positionOffset 130 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.21 .
+
+otradata:Ragusa_Op__B.2.21_120-130_start a hdn:Position ;
+    hdn:positionOffset 120 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.21 .
+
+otradata:Ragusa_Op__B.2.21_47-82 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.21_47-82_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.21_47-82_end .
+
+otradata:Ragusa_Op__B.2.21_47-82_end a hdn:Position ;
+    hdn:positionOffset 82 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.21 .
+
+otradata:Ragusa_Op__B.2.21_47-82_start a hdn:Position ;
+    hdn:positionOffset 47 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.21 .
+
+otradata:Ragusa_Op__B.2.21_88-119 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.21_88-119_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.21_88-119_end .
+
+otradata:Ragusa_Op__B.2.21_88-119_end a hdn:Position ;
+    hdn:positionOffset 119 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.21 .
+
+otradata:Ragusa_Op__B.2.21_88-119_start a hdn:Position ;
+    hdn:positionOffset 88 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.21 .
+
+otradata:Ragusa_Op__B.2.22_116-150 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.22_116-150_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.22_116-150_end .
+
+otradata:Ragusa_Op__B.2.22_116-150_end a hdn:Position ;
+    hdn:positionOffset 150 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_116-150_start a hdn:Position ;
+    hdn:positionOffset 116 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_2-52 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.22_2-52_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.22_2-52_end .
+
+otradata:Ragusa_Op__B.2.22_2-52_end a hdn:Position ;
+    hdn:positionOffset 52 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_2-52_start a hdn:Position ;
+    hdn:positionOffset 2 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_55-82 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.22_55-82_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.22_55-82_end .
+
+otradata:Ragusa_Op__B.2.22_55-82_end a hdn:Position ;
+    hdn:positionOffset 82 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_55-82_start a hdn:Position ;
+    hdn:positionOffset 55 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_83-98 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.22_83-98_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.22_83-98_end .
+
+otradata:Ragusa_Op__B.2.22_83-98_end a hdn:Position ;
+    hdn:positionOffset 98 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_83-98_start a hdn:Position ;
+    hdn:positionOffset 83 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_99-115 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.22_99-115_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.22_99-115_end .
+
+otradata:Ragusa_Op__B.2.22_99-115_end a hdn:Position ;
+    hdn:positionOffset 115 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.22_99-115_start a hdn:Position ;
+    hdn:positionOffset 99 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.22 .
+
+otradata:Ragusa_Op__B.2.23_1-14 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.23_1-14_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.23_1-14_end .
+
+otradata:Ragusa_Op__B.2.23_1-14_end a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.23 .
+
+otradata:Ragusa_Op__B.2.23_1-14_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.23 .
+
+otradata:Ragusa_Op__B.2.23_120-278 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.23_120-278_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.23_120-278_end .
+
+otradata:Ragusa_Op__B.2.23_120-278_end a hdn:Position ;
+    hdn:positionOffset 278 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.23 .
+
+otradata:Ragusa_Op__B.2.23_120-278_start a hdn:Position ;
+    hdn:positionOffset 120 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.23 .
+
+otradata:Ragusa_Op__B.2.23_15-69 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.23_15-69_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.23_15-69_end .
+
+otradata:Ragusa_Op__B.2.23_15-69_end a hdn:Position ;
+    hdn:positionOffset 69 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.23 .
+
+otradata:Ragusa_Op__B.2.23_15-69_start a hdn:Position ;
+    hdn:positionOffset 15 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.23 .
+
+otradata:Ragusa_Op__B.2.23_279-397 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.23_279-397_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.23_279-397_end .
+
+otradata:Ragusa_Op__B.2.23_279-397_end a hdn:Position ;
+    hdn:positionOffset 397 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.23 .
+
+otradata:Ragusa_Op__B.2.23_279-397_start a hdn:Position ;
+    hdn:positionOffset 279 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.23 .
+
+otradata:Ragusa_Op__B.2.24_1-36 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.24_1-36_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.24_1-36_end .
+
+otradata:Ragusa_Op__B.2.24_1-36_end a hdn:Position ;
+    hdn:positionOffset 36 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.24 .
+
+otradata:Ragusa_Op__B.2.24_1-36_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.24 .
+
+otradata:Ragusa_Op__B.2.24_37-107 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.24_37-107_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.24_37-107_end .
+
+otradata:Ragusa_Op__B.2.24_37-107_end a hdn:Position ;
+    hdn:positionOffset 107 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.24 .
+
+otradata:Ragusa_Op__B.2.24_37-107_start a hdn:Position ;
+    hdn:positionOffset 37 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.24 .
+
+otradata:Ragusa_Op__B.2.25_1-186 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.25_1-186_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.25_1-186_end .
+
+otradata:Ragusa_Op__B.2.25_1-186_end a hdn:Position ;
+    hdn:positionOffset 186 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.25 .
+
+otradata:Ragusa_Op__B.2.25_1-186_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.25 .
+
+otradata:Ragusa_Op__B.2.25_188-203 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.25_188-203_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.25_188-203_end .
+
+otradata:Ragusa_Op__B.2.25_188-203_end a hdn:Position ;
+    hdn:positionOffset 203 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.25 .
+
+otradata:Ragusa_Op__B.2.25_188-203_start a hdn:Position ;
+    hdn:positionOffset 188 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.25 .
+
+otradata:Ragusa_Op__B.2.25_205-217 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.25_205-217_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.25_205-217_end .
+
+otradata:Ragusa_Op__B.2.25_205-217_end a hdn:Position ;
+    hdn:positionOffset 217 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.25 .
+
+otradata:Ragusa_Op__B.2.25_205-217_start a hdn:Position ;
+    hdn:positionOffset 205 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.25 .
+
+otradata:Ragusa_Op__B.2.25_219-285 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.25_219-285_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.25_219-285_end .
+
+otradata:Ragusa_Op__B.2.25_219-285_end a hdn:Position ;
+    hdn:positionOffset 285 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.25 .
+
+otradata:Ragusa_Op__B.2.25_219-285_start a hdn:Position ;
+    hdn:positionOffset 219 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.25 .
+
+otradata:Ragusa_Op__B.2.26_1-29 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.26_1-29_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.26_1-29_end .
+
+otradata:Ragusa_Op__B.2.26_1-29_end a hdn:Position ;
+    hdn:positionOffset 29 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.26 .
+
+otradata:Ragusa_Op__B.2.26_1-29_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.26 .
+
+otradata:Ragusa_Op__B.2.26_30-51 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.26_30-51_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.26_30-51_end .
+
+otradata:Ragusa_Op__B.2.26_30-51_end a hdn:Position ;
+    hdn:positionOffset 51 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.26 .
+
+otradata:Ragusa_Op__B.2.26_30-51_start a hdn:Position ;
+    hdn:positionOffset 30 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.26 .
+
+otradata:Ragusa_Op__B.2.26_52-76 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.26_52-76_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.26_52-76_end .
+
+otradata:Ragusa_Op__B.2.26_52-76_end a hdn:Position ;
+    hdn:positionOffset 76 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.26 .
+
+otradata:Ragusa_Op__B.2.26_52-76_start a hdn:Position ;
+    hdn:positionOffset 52 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.26 .
+
+otradata:Ragusa_Op__B.2.26_77-169 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.26_77-169_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.26_77-169_end .
+
+otradata:Ragusa_Op__B.2.26_77-169_end a hdn:Position ;
+    hdn:positionOffset 169 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.26 .
+
+otradata:Ragusa_Op__B.2.26_77-169_start a hdn:Position ;
+    hdn:positionOffset 77 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.26 .
+
+otradata:Ragusa_Op__B.2.27_1-33 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.27_1-33_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.27_1-33_end .
+
+otradata:Ragusa_Op__B.2.27_1-33_end a hdn:Position ;
+    hdn:positionOffset 33 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_1-33_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_111-126 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.27_111-126_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.27_111-126_end .
+
+otradata:Ragusa_Op__B.2.27_111-126_end a hdn:Position ;
+    hdn:positionOffset 126 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_111-126_start a hdn:Position ;
+    hdn:positionOffset 111 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_163-177 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.27_163-177_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.27_163-177_end .
+
+otradata:Ragusa_Op__B.2.27_163-177_end a hdn:Position ;
+    hdn:positionOffset 177 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_163-177_start a hdn:Position ;
+    hdn:positionOffset 163 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_178-188 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.27_178-188_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.27_178-188_end .
+
+otradata:Ragusa_Op__B.2.27_178-188_end a hdn:Position ;
+    hdn:positionOffset 188 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_178-188_start a hdn:Position ;
+    hdn:positionOffset 178 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_34-58 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.27_34-58_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.27_34-58_end .
+
+otradata:Ragusa_Op__B.2.27_34-58_end a hdn:Position ;
+    hdn:positionOffset 58 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_34-58_start a hdn:Position ;
+    hdn:positionOffset 34 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_59-110 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.27_59-110_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.27_59-110_end .
+
+otradata:Ragusa_Op__B.2.27_59-110_end a hdn:Position ;
+    hdn:positionOffset 110 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.27_59-110_start a hdn:Position ;
+    hdn:positionOffset 59 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.27 .
+
+otradata:Ragusa_Op__B.2.28_1-13 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.28_1-13_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.28_1-13_end .
+
+otradata:Ragusa_Op__B.2.28_1-13_end a hdn:Position ;
+    hdn:positionOffset 13 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.28 .
+
+otradata:Ragusa_Op__B.2.28_1-13_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.28 .
+
+otradata:Ragusa_Op__B.2.28_14-107 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.28_14-107_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.28_14-107_end .
+
+otradata:Ragusa_Op__B.2.28_14-107_end a hdn:Position ;
+    hdn:positionOffset 107 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.28 .
+
+otradata:Ragusa_Op__B.2.28_14-107_start a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.28 .
+
+otradata:Ragusa_Op__B.2.29_1-18 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.29_1-18_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.29_1-18_end .
+
+otradata:Ragusa_Op__B.2.29_1-18_end a hdn:Position ;
+    hdn:positionOffset 18 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.29 .
+
+otradata:Ragusa_Op__B.2.29_1-18_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.29 .
+
+otradata:Ragusa_Op__B.2.29_19-42 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.29_19-42_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.29_19-42_end .
+
+otradata:Ragusa_Op__B.2.29_19-42_end a hdn:Position ;
+    hdn:positionOffset 42 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.29 .
+
+otradata:Ragusa_Op__B.2.29_19-42_start a hdn:Position ;
+    hdn:positionOffset 19 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.29 .
+
+otradata:Ragusa_Op__B.2.29_43-71 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.29_43-71_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.29_43-71_end .
+
+otradata:Ragusa_Op__B.2.29_43-71_end a hdn:Position ;
+    hdn:positionOffset 71 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.29 .
+
+otradata:Ragusa_Op__B.2.29_43-71_start a hdn:Position ;
+    hdn:positionOffset 43 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.29 .
+
+otradata:Ragusa_Op__B.2.2_1-31 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.2_1-31_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.2_1-31_end .
+
+otradata:Ragusa_Op__B.2.2_1-31_end a hdn:Position ;
+    hdn:positionOffset 31 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.2 .
+
+otradata:Ragusa_Op__B.2.2_1-31_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.2 .
+
+otradata:Ragusa_Op__B.2.2_32-52 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.2_32-52_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.2_32-52_end .
+
+otradata:Ragusa_Op__B.2.2_32-52_end a hdn:Position ;
+    hdn:positionOffset 52 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.2 .
+
+otradata:Ragusa_Op__B.2.2_32-52_start a hdn:Position ;
+    hdn:positionOffset 32 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.2 .
+
+otradata:Ragusa_Op__B.2.2_53-171 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.2_53-171_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.2_53-171_end .
+
+otradata:Ragusa_Op__B.2.2_53-171_end a hdn:Position ;
+    hdn:positionOffset 171 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.2 .
+
+otradata:Ragusa_Op__B.2.2_53-171_start a hdn:Position ;
+    hdn:positionOffset 53 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.2 .
+
+otradata:Ragusa_Op__B.2.30_1-13 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.30_1-13_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.30_1-13_end .
+
+otradata:Ragusa_Op__B.2.30_1-13_end a hdn:Position ;
+    hdn:positionOffset 13 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.30 .
+
+otradata:Ragusa_Op__B.2.30_1-13_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.30 .
+
+otradata:Ragusa_Op__B.2.30_14-50 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.30_14-50_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.30_14-50_end .
+
+otradata:Ragusa_Op__B.2.30_14-50_end a hdn:Position ;
+    hdn:positionOffset 50 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.30 .
+
+otradata:Ragusa_Op__B.2.30_14-50_start a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.30 .
+
+otradata:Ragusa_Op__B.2.30_191-285 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.30_191-285_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.30_191-285_end .
+
+otradata:Ragusa_Op__B.2.30_191-285_end a hdn:Position ;
+    hdn:positionOffset 285 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.30 .
+
+otradata:Ragusa_Op__B.2.30_191-285_start a hdn:Position ;
+    hdn:positionOffset 191 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.30 .
+
+otradata:Ragusa_Op__B.2.30_51-190 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.30_51-190_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.30_51-190_end .
+
+otradata:Ragusa_Op__B.2.30_51-190_end a hdn:Position ;
+    hdn:positionOffset 190 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.30 .
+
+otradata:Ragusa_Op__B.2.30_51-190_start a hdn:Position ;
+    hdn:positionOffset 51 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.30 .
+
+otradata:Ragusa_Op__B.2.31_1-78 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.31_1-78_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.31_1-78_end .
+
+otradata:Ragusa_Op__B.2.31_1-78_end a hdn:Position ;
+    hdn:positionOffset 78 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.31 .
+
+otradata:Ragusa_Op__B.2.31_1-78_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.31 .
+
+otradata:Ragusa_Op__B.2.32_1-70 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.32_1-70_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.32_1-70_end .
+
+otradata:Ragusa_Op__B.2.32_1-70_end a hdn:Position ;
+    hdn:positionOffset 70 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.32 .
+
+otradata:Ragusa_Op__B.2.32_1-70_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.32 .
+
+otradata:Ragusa_Op__B.2.32_125-143 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.32_125-143_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.32_125-143_end .
+
+otradata:Ragusa_Op__B.2.32_125-143_end a hdn:Position ;
+    hdn:positionOffset 143 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.32 .
+
+otradata:Ragusa_Op__B.2.32_125-143_start a hdn:Position ;
+    hdn:positionOffset 125 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.32 .
+
+otradata:Ragusa_Op__B.2.32_144-244 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.32_144-244_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.32_144-244_end .
+
+otradata:Ragusa_Op__B.2.32_144-244_end a hdn:Position ;
+    hdn:positionOffset 244 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.32 .
+
+otradata:Ragusa_Op__B.2.32_144-244_start a hdn:Position ;
+    hdn:positionOffset 144 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.32 .
+
+otradata:Ragusa_Op__B.2.32_71-93 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.32_71-93_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.32_71-93_end .
+
+otradata:Ragusa_Op__B.2.32_71-93_end a hdn:Position ;
+    hdn:positionOffset 93 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.32 .
+
+otradata:Ragusa_Op__B.2.32_71-93_start a hdn:Position ;
+    hdn:positionOffset 71 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.32 .
+
+otradata:Ragusa_Op__B.2.33_1-17 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.33_1-17_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.33_1-17_end .
+
+otradata:Ragusa_Op__B.2.33_1-17_end a hdn:Position ;
+    hdn:positionOffset 17 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_1-17_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_40-62 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.33_40-62_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.33_40-62_end .
+
+otradata:Ragusa_Op__B.2.33_40-62_end a hdn:Position ;
+    hdn:positionOffset 62 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_40-62_start a hdn:Position ;
+    hdn:positionOffset 40 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_64-92 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.33_64-92_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.33_64-92_end .
+
+otradata:Ragusa_Op__B.2.33_64-92_end a hdn:Position ;
+    hdn:positionOffset 92 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_64-92_start a hdn:Position ;
+    hdn:positionOffset 64 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_93-120 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.33_93-120_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.33_93-120_end .
+
+otradata:Ragusa_Op__B.2.33_93-120_end a hdn:Position ;
+    hdn:positionOffset 120 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_93-120_start a hdn:Position ;
+    hdn:positionOffset 93 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_None-None a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.33_None-None_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.33_None-None_end .
+
+otradata:Ragusa_Op__B.2.33_None-None_end a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.33_None-None_start a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.33 .
+
+otradata:Ragusa_Op__B.2.35_1-37 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.35_1-37_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.35_1-37_end .
+
+otradata:Ragusa_Op__B.2.35_1-37_end a hdn:Position ;
+    hdn:positionOffset 37 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_1-37_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_177-195 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.35_177-195_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.35_177-195_end .
+
+otradata:Ragusa_Op__B.2.35_177-195_end a hdn:Position ;
+    hdn:positionOffset 195 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_177-195_start a hdn:Position ;
+    hdn:positionOffset 177 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_207-236 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.35_207-236_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.35_207-236_end .
+
+otradata:Ragusa_Op__B.2.35_207-236_end a hdn:Position ;
+    hdn:positionOffset 236 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_207-236_start a hdn:Position ;
+    hdn:positionOffset 207 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_38-60 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.35_38-60_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.35_38-60_end .
+
+otradata:Ragusa_Op__B.2.35_38-60_end a hdn:Position ;
+    hdn:positionOffset 60 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_38-60_start a hdn:Position ;
+    hdn:positionOffset 38 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_61-176 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.35_61-176_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.35_61-176_end .
+
+otradata:Ragusa_Op__B.2.35_61-176_end a hdn:Position ;
+    hdn:positionOffset 176 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.35_61-176_start a hdn:Position ;
+    hdn:positionOffset 61 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.35 .
+
+otradata:Ragusa_Op__B.2.36_1-74 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.36_1-74_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.36_1-74_end .
+
+otradata:Ragusa_Op__B.2.36_1-74_end a hdn:Position ;
+    hdn:positionOffset 74 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.36 .
+
+otradata:Ragusa_Op__B.2.36_1-74_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.36 .
+
+otradata:Ragusa_Op__B.2.36_157-212 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.36_157-212_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.36_157-212_end .
+
+otradata:Ragusa_Op__B.2.36_157-212_end a hdn:Position ;
+    hdn:positionOffset 212 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.36 .
+
+otradata:Ragusa_Op__B.2.36_157-212_start a hdn:Position ;
+    hdn:positionOffset 157 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.36 .
+
+otradata:Ragusa_Op__B.2.36_213-284 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.36_213-284_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.36_213-284_end .
+
+otradata:Ragusa_Op__B.2.36_213-284_end a hdn:Position ;
+    hdn:positionOffset 284 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.36 .
+
+otradata:Ragusa_Op__B.2.36_213-284_start a hdn:Position ;
+    hdn:positionOffset 213 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.36 .
+
+otradata:Ragusa_Op__B.2.36_75-156 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.36_75-156_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.36_75-156_end .
+
+otradata:Ragusa_Op__B.2.36_75-156_end a hdn:Position ;
+    hdn:positionOffset 156 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.36 .
+
+otradata:Ragusa_Op__B.2.36_75-156_start a hdn:Position ;
+    hdn:positionOffset 75 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.36 .
+
+otradata:Ragusa_Op__B.2.3_121-171 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.3_121-171_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.3_121-171_end .
+
+otradata:Ragusa_Op__B.2.3_121-171_end a hdn:Position ;
+    hdn:positionOffset 171 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.3 .
+
+otradata:Ragusa_Op__B.2.3_121-171_start a hdn:Position ;
+    hdn:positionOffset 121 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.3 .
+
+otradata:Ragusa_Op__B.2.3_17-77 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.3_17-77_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.3_17-77_end .
+
+otradata:Ragusa_Op__B.2.3_17-77_end a hdn:Position ;
+    hdn:positionOffset 77 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.3 .
+
+otradata:Ragusa_Op__B.2.3_17-77_start a hdn:Position ;
+    hdn:positionOffset 17 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.3 .
+
+otradata:Ragusa_Op__B.2.3_78-120 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.3_78-120_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.3_78-120_end .
+
+otradata:Ragusa_Op__B.2.3_78-120_end a hdn:Position ;
+    hdn:positionOffset 120 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.3 .
+
+otradata:Ragusa_Op__B.2.3_78-120_start a hdn:Position ;
+    hdn:positionOffset 78 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.3 .
+
+otradata:Ragusa_Op__B.2.4_1-32 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.4_1-32_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.4_1-32_end .
+
+otradata:Ragusa_Op__B.2.4_1-32_end a hdn:Position ;
+    hdn:positionOffset 32 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.4 .
+
+otradata:Ragusa_Op__B.2.4_1-32_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.4 .
+
+otradata:Ragusa_Op__B.2.4_33-46 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.4_33-46_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.4_33-46_end .
+
+otradata:Ragusa_Op__B.2.4_33-46_end a hdn:Position ;
+    hdn:positionOffset 46 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.4 .
+
+otradata:Ragusa_Op__B.2.4_33-46_start a hdn:Position ;
+    hdn:positionOffset 33 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.4 .
+
+otradata:Ragusa_Op__B.2.5_11-38 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.5_11-38_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.5_11-38_end .
+
+otradata:Ragusa_Op__B.2.5_11-38_end a hdn:Position ;
+    hdn:positionOffset 38 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.5 .
+
+otradata:Ragusa_Op__B.2.5_11-38_start a hdn:Position ;
+    hdn:positionOffset 11 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.5 .
+
+otradata:Ragusa_Op__B.2.5_4-10 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.5_4-10_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.5_4-10_end .
+
+otradata:Ragusa_Op__B.2.5_4-10_end a hdn:Position ;
+    hdn:positionOffset 10 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.5 .
+
+otradata:Ragusa_Op__B.2.5_4-10_start a hdn:Position ;
+    hdn:positionOffset 4 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.5 .
+
+otradata:Ragusa_Op__B.2.6_1-77 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.6_1-77_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.6_1-77_end .
+
+otradata:Ragusa_Op__B.2.6_1-77_end a hdn:Position ;
+    hdn:positionOffset 77 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.6 .
+
+otradata:Ragusa_Op__B.2.6_1-77_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.6 .
+
+otradata:Ragusa_Op__B.2.6_78-104 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.6_78-104_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.6_78-104_end .
+
+otradata:Ragusa_Op__B.2.6_78-104_end a hdn:Position ;
+    hdn:positionOffset 104 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.6 .
+
+otradata:Ragusa_Op__B.2.6_78-104_start a hdn:Position ;
+    hdn:positionOffset 78 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.6 .
+
+otradata:Ragusa_Op__B.2.7_1-45 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.7_1-45_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.7_1-45_end .
+
+otradata:Ragusa_Op__B.2.7_1-45_end a hdn:Position ;
+    hdn:positionOffset 45 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.7 .
+
+otradata:Ragusa_Op__B.2.7_1-45_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.7 .
+
+otradata:Ragusa_Op__B.2.7_186-311 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.7_186-311_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.7_186-311_end .
+
+otradata:Ragusa_Op__B.2.7_186-311_end a hdn:Position ;
+    hdn:positionOffset 311 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.7 .
+
+otradata:Ragusa_Op__B.2.7_186-311_start a hdn:Position ;
+    hdn:positionOffset 186 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.7 .
+
+otradata:Ragusa_Op__B.2.7_88-156 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.7_88-156_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.7_88-156_end .
+
+otradata:Ragusa_Op__B.2.7_88-156_end a hdn:Position ;
+    hdn:positionOffset 156 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.7 .
+
+otradata:Ragusa_Op__B.2.7_88-156_start a hdn:Position ;
+    hdn:positionOffset 88 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.7 .
+
+otradata:Ragusa_Op__B.2.8_14-28 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.8_14-28_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.8_14-28_end .
+
+otradata:Ragusa_Op__B.2.8_14-28_end a hdn:Position ;
+    hdn:positionOffset 28 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.8 .
+
+otradata:Ragusa_Op__B.2.8_14-28_start a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.8 .
+
+otradata:Ragusa_Op__B.2.8_29-86 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.8_29-86_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.8_29-86_end .
+
+otradata:Ragusa_Op__B.2.8_29-86_end a hdn:Position ;
+    hdn:positionOffset 86 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.8 .
+
+otradata:Ragusa_Op__B.2.8_29-86_start a hdn:Position ;
+    hdn:positionOffset 29 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.8 .
+
+otradata:Ragusa_Op__B.2.9_1-136 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.9_1-136_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.9_1-136_end .
+
+otradata:Ragusa_Op__B.2.9_1-136_end a hdn:Position ;
+    hdn:positionOffset 136 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.9 .
+
+otradata:Ragusa_Op__B.2.9_1-136_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.9 .
+
+otradata:Ragusa_Op__B.2.9_142-236 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Ragusa_Op__B.2.9_142-236_start ;
+    hdn:toPosition otradata:Ragusa_Op__B.2.9_142-236_end .
+
+otradata:Ragusa_Op__B.2.9_142-236_end a hdn:Position ;
+    hdn:positionOffset 236 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.9 .
+
+otradata:Ragusa_Op__B.2.9_142-236_start a hdn:Position ;
+    hdn:positionOffset 142 ;
+    hdn:positionUnit otradata:Ragusa_Op__B.2.9 .
+
+otradata:Ragusa_Op__S.1.1.0 a otracon:claim ;
+    rdfs:label "" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.1_None-None .
+
+otradata:Ragusa_Op__S.1.1.1 a otracon:claim ;
+    rdfs:label "therefore, one has to profess his name." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.1_1-33 .
+
+otradata:Ragusa_Op__S.1.10.0 a otracon:claim ;
+    rdfs:label "The Quran does not prescribe the baptism" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.10_3-8 .
+
+otradata:Ragusa_Op__S.1.10.1 a otracon:claim ;
+    rdfs:label "the baptism is necessary for salvation" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.10_20-50 .
+
+otradata:Ragusa_Op__S.1.10.2 a otracon:claim ;
+    rdfs:label "Baptism and eucharist are necessary according to scriptural proof (Io 6,55)" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.10_51-86 .
+
+otradata:Ragusa_Op__S.1.10.3 a otracon:claim ;
+    rdfs:label "therefore, the Qur'an leads away from salvation" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.10_9-19 .
+
+otradata:Ragusa_Op__S.1.11.0 a otracon:claim ;
+    rdfs:label "it would be useless to get on the path, but not stay on it" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.11_1-24 .
+
+otradata:Ragusa_Op__S.1.11.1 a otracon:claim ;
+    rdfs:label "The Gospel has been extremely effective in instilling good deeds, as exemplified in the Ten Commandments" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.11_26-210 .
+
+otradata:Ragusa_Op__S.1.12.0 a otracon:claim ;
+    rdfs:label "The Gospel is also great at instilling virtues, offering remedies to the Seven Deadly Sins." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.12_1-122 .
+
+otradata:Ragusa_Op__S.1.12.1 a otracon:claim ;
+    rdfs:label "the Christian virtues can be summarized by the commandment to love God, oneself, and one's neighor" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.12_123-233 .
+
+otradata:Ragusa_Op__S.1.13.0 a otracon:claim ;
+    rdfs:label "The Quranic paradise consists in carnal pleasures" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.13_31-86 .
+
+otradata:Ragusa_Op__S.1.13.1 a otracon:claim ;
+    rdfs:label "the Christian paradise consists in the absence of worldly desires and needs" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.13_87-379 .
+
+otradata:Ragusa_Op__S.1.14.0 a otracon:claim ;
+    rdfs:label "As the society will be perfect in the Christian afterlife, so shall be the individual's state" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.14_1-14 .
+
+otradata:Ragusa_Op__S.1.14.1 a otracon:claim ;
+    rdfs:label "in the afterlife, individuals will be devoid of suffering and passions and perfectly at peace." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.14_15-272 .
+
+otradata:Ragusa_Op__S.1.15.0 a otracon:claim ;
+    rdfs:label "The Christian vision of bliss is convincing, as it caused many to forsake worldly goods to become missionaries and martyrs." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.15_29-160 .
+
+otradata:Ragusa_Op__S.1.2.0 a otracon:claim ;
+    rdfs:label "True love for God necessitates a commitment to the salvation and happiness of one's neighbor, as commanded in scripture" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.2_1-37 .
+
+otradata:Ragusa_Op__S.1.3.0 a otracon:claim ;
+    rdfs:label "The Gospel is true." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.3_32-82 .
+
+otradata:Ragusa_Op__S.1.3.1 a otracon:claim ;
+    rdfs:label "The truth of the Gospel is proven by the way it was announced, by miracles, the work of Jesus and his apostles, and the example of saints. Spiritual values are superior to worldly ones." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.3_83-228 .
+
+otradata:Ragusa_Op__S.1.3.2 a otracon:claim ;
+    rdfs:label "The Gospel's authority is even recognized in the Quran (Sura 5,46)." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.3_229-241 .
+
+otradata:Ragusa_Op__S.1.5.0 a otracon:claim ;
+    rdfs:label "Christ is the true son of God" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.5_12-16 .
+
+otradata:Ragusa_Op__S.1.5.1 a otracon:claim ;
+    rdfs:label "Christ is the true God" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.5_17-18 .
+
+otradata:Ragusa_Op__S.1.5.2 a otracon:claim ;
+    rdfs:label "Christ is the true man" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.5_20-22 .
+
+otradata:Ragusa_Op__S.1.5.3 a otracon:claim ;
+    rdfs:label "Christ is the only path to true salvation." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.5_23-133 .
+
+otradata:Ragusa_Op__S.1.6.0 a otracon:claim ;
+    rdfs:label "The way to salvation is contained in the Gospel" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.6_1-10 .
+
+otradata:Ragusa_Op__S.1.6.1 a otracon:claim ;
+    rdfs:label "the way to salvation consists of three parts: recognizing it, stepping on it, following it." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.6_18-156 .
+
+otradata:Ragusa_Op__S.1.7.0 a otracon:claim ;
+    rdfs:label "The Qur'an contains correct statements about God" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.7_69-116 .
+
+otradata:Ragusa_Op__S.1.7.1 a otracon:claim ;
+    rdfs:label "the Qur'an contains correct praise of Christ" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.7_256-333 .
+
+otradata:Ragusa_Op__S.1.7.2 a otracon:claim ;
+    rdfs:label "the Qur'an is wrong in denying Trinity" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.7_117-205 .
+
+otradata:Ragusa_Op__S.1.8.0 a otracon:claim ;
+    rdfs:label "" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_None-None .
+
+otradata:Ragusa_Op__S.1.8.1 a otracon:claim ;
+    rdfs:label "" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_56-79 .
+
+otradata:Ragusa_Op__S.1.8.10 a otracon:claim ;
+    rdfs:label "Christ is the true man" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_213-214 .
+
+otradata:Ragusa_Op__S.1.8.2 a otracon:claim ;
+    rdfs:label "Christ is the One-Begotten son of God" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_90-94 .
+
+otradata:Ragusa_Op__S.1.8.3 a otracon:claim ;
+    rdfs:label "Christ is one with God in everything" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_95-121 .
+
+otradata:Ragusa_Op__S.1.8.4 a otracon:claim ;
+    rdfs:label "Christ was truly born a human" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_128-141 .
+
+otradata:Ragusa_Op__S.1.8.5 a otracon:claim ;
+    rdfs:label "Christ was truly crucified and died" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_146-157 .
+
+otradata:Ragusa_Op__S.1.8.6 a otracon:claim ;
+    rdfs:label "Christ truly ascended to heaven, by his own power" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_158-172 .
+
+otradata:Ragusa_Op__S.1.8.7 a otracon:claim ;
+    rdfs:label "The Qur'an falsely claims that Christ ascended through the power above" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_173-180 .
+
+otradata:Ragusa_Op__S.1.8.8 a otracon:claim ;
+    rdfs:label "Christ will come from the Right of God to judge the living and the dead" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_181-198 .
+
+otradata:Ragusa_Op__S.1.8.9 a otracon:claim ;
+    rdfs:label "Christ is the true son of God" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.8_208-212 .
+
+otradata:Ragusa_Op__S.1.9.0 a otracon:claim ;
+    rdfs:label "Salvation does not only require insight, but actually walking the path" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.1.9_21-160 .
+
+otradata:Ragusa_Op__S.2.0.0 a otracon:claim ;
+    rdfs:label "Humans are rational due to the sayings of the bible and due to Aristotle" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.0_1-98 .
+
+otradata:Ragusa_Op__S.2.0.1 a otracon:claim ;
+    rdfs:label "philosophers and wise men agree that a conflict is best resolve by going through the conflicting opinions." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.0_158-192 .
+
+otradata:Ragusa_Op__S.2.0.2 a otracon:claim ;
+    rdfs:label "to properly compare two laws claiming to be the law of God, they need to be compared according to messenger, content, and their concept of salvation" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.0_193-254 .
+
+otradata:Ragusa_Op__S.2.1.0 a otracon:claim ;
+    rdfs:label "A holy and perfect law requires a legislator who is holy and perfect" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.1_1-44 .
+
+otradata:Ragusa_Op__S.2.1.1 a otracon:claim ;
+    rdfs:label "Christ was a perfect, holy man, even according to the Qur'an" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.1_45-113 .
+
+otradata:Ragusa_Op__S.2.1.2 a otracon:claim ;
+    rdfs:label "Muhammad's life, as known from his biography and teachings, shows him engaged in acts deemed immoral" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.1_114-140 .
+
+otradata:Ragusa_Op__S.2.1.3 a otracon:claim ;
+    rdfs:label "the counter-argument that David and Moses also sinned is invalid" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.1_141-208 .
+
+otradata:Ragusa_Op__S.2.10.0 a otracon:claim ;
+    rdfs:label "If Muhammad were a divine prophet, previous scriptures would have mentioned him and his law" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.10_1-43 .
+
+otradata:Ragusa_Op__S.2.10.1 a otracon:claim ;
+    rdfs:label "Christ's declaration that the law and prophets ended with John the Baptist precludes the coming of any general prophets after him" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.10_65-195 .
+
+otradata:Ragusa_Op__S.2.10.2 a otracon:claim ;
+    rdfs:label "Muhammad is not mentioned in previous scriptures, indicating that his law is not the Law of God" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.10_44-64 .
+
+otradata:Ragusa_Op__S.2.11.0 a otracon:claim ;
+    rdfs:label "Muhammad's directive to verify doubts with Jews and Christians implies he recognized the authenticity of their scriptures" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.11_1-155 .
+
+otradata:Ragusa_Op__S.2.11.1 a otracon:claim ;
+    rdfs:label "the scriptures could therefore not have been altered before Muhammad's time" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.11_156-212 .
+
+otradata:Ragusa_Op__S.2.12.0 a otracon:claim ;
+    rdfs:label "Muhammad did not predict or warn about the corruption of scriptures, suggesting he did not foresee it" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.12_5-85 .
+
+otradata:Ragusa_Op__S.2.12.1 a otracon:claim ;
+    rdfs:label "God's promised to protect the divine message, which contradicts the idea of scripture corruption." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.12_150-232 .
+
+otradata:Ragusa_Op__S.2.12.2 a otracon:claim ;
+    rdfs:label "Muhammad relies on external sources for religious knowledge, questioning his prophetic claim" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.12_86-149 .
+
+otradata:Ragusa_Op__S.2.12.3 a otracon:claim ;
+    rdfs:label "The scriptures of Jews and Christians were not corrupted after Muhammad's time" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.12_1-4 .
+
+otradata:Ragusa_Op__S.2.13.0 a otracon:claim ;
+    rdfs:label "Muhammad recognized divine justice in the Old Testament" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.13_1-54 .
+
+otradata:Ragusa_Op__S.2.13.1 a otracon:claim ;
+    rdfs:label "He accepted the scriptures as valid when making judgments" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.13_57-74 .
+
+otradata:Ragusa_Op__S.2.13.2 a otracon:claim ;
+    rdfs:label "The scriptures of Jews and Christians were not corrupted before Muhammad's time" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.13_75-82 .
+
+otradata:Ragusa_Op__S.2.14.0 a otracon:claim ;
+    rdfs:label "The Quran instructs followers to fulfill the Law and the Gospel" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.14_1-77 .
+
+otradata:Ragusa_Op__S.2.14.1 a otracon:claim ;
+    rdfs:label "Muhammad's instructions suggest he viewed these scriptures as unaltered" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.14_78-97 .
+
+otradata:Ragusa_Op__S.2.14.2 a otracon:claim ;
+    rdfs:label "The Quran does not distinguish between corrupted and uncorrupted scriptures, making alterations unlikely." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.14_98-171 .
+
+otradata:Ragusa_Op__S.2.15.0 a otracon:claim ;
+    rdfs:label "From the time of Christ, the Old Testament was equally accepted by Jews and Christians" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.15_4-35 .
+
+otradata:Ragusa_Op__S.2.15.1 a otracon:claim ;
+    rdfs:label "If the testament was falsified after the arrival of Christ, it either happened by Christians or Jews on their own, or by both cooperation" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.15_74-115 .
+
+otradata:Ragusa_Op__S.2.15.2 a otracon:claim ;
+    rdfs:label "If only one party had falsified scripture, it would have been noticed - therefore, it is impossible" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.15_116-225 .
+
+otradata:Ragusa_Op__S.2.16.0 a otracon:claim ;
+    rdfs:label "The Muslims accept at least some truths about Christ" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.16_22-53 .
+
+otradata:Ragusa_Op__S.2.16.1 a otracon:claim ;
+    rdfs:label "The Jews label Christ as a seductor" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.16_1-68 .
+
+otradata:Ragusa_Op__S.2.16.2 a otracon:claim ;
+    rdfs:label "Due to the disagreements between Jews and Christians, it would be highly absurd if they cooperated in falsifying the Bible after Christ's time" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.16_69-185 .
+
+otradata:Ragusa_Op__S.2.17.0 a otracon:claim ;
+    rdfs:label "No changes have been made to the Old Testament" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.17_1-4 .
+
+otradata:Ragusa_Op__S.2.17.1 a otracon:claim ;
+    rdfs:label "The Old Testament remains true and strong" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.17_5-14 .
+
+otradata:Ragusa_Op__S.2.17.2 a otracon:claim ;
+    rdfs:label "The Old Testament is the same as it was in Christ's time" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.17_16-19 .
+
+otradata:Ragusa_Op__S.2.18.0 a otracon:claim ;
+    rdfs:label "After Christ's ascension, various false prophets and heresies emerged" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.18_2-28 .
+
+otradata:Ragusa_Op__S.2.18.1 a otracon:claim ;
+    rdfs:label "These sects, such as Nicolaitans, Cerinthians, Arians, and Nestorians, were deeply divided and hostile to each other" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.18_29-68 .
+
+otradata:Ragusa_Op__S.2.18.2 a otracon:claim ;
+    rdfs:label "These opposing sects could not have conspired to corrupt the Gospels uniformly" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.18_69-179 .
+
+otradata:Ragusa_Op__S.2.18.3 a otracon:claim ;
+    rdfs:label "The Gospels are found consistent among all Christian groups and languages" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.18_180-215 .
+
+otradata:Ragusa_Op__S.2.18.4 a otracon:claim ;
+    rdfs:label "This consistency would be impossible if the Gospels had been corrupted" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.18_216-225 .
+
+otradata:Ragusa_Op__S.2.19.0 a otracon:claim ;
+    rdfs:label "The four Gospels were written by different persons, in different places, in different languages and then spread in the world" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.19_2-61 .
+
+otradata:Ragusa_Op__S.2.19.1 a otracon:claim ;
+    rdfs:label "A corruption of the Gospels would have required a concerted effort to destroy the Gospels in all lands and languages, which is totally impossible" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.19_62-105 .
+
+otradata:Ragusa_Op__S.2.19.2 a otracon:claim ;
+    rdfs:label "Therefore, none such corruption of the Gospel could have happened" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.19_106-120 .
+
+otradata:Ragusa_Op__S.2.19.3 a otracon:claim ;
+    rdfs:label "The Gospels remain today as they were written by their authors" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.19_122-132 .
+
+otradata:Ragusa_Op__S.2.2.0 a otracon:claim ;
+    rdfs:label "Muhammad did not repent his sins" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.2_1-31 .
+
+otradata:Ragusa_Op__S.2.2.1 a otracon:claim ;
+    rdfs:label "Muhammad justified his sins with unjust laws" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.2_32-52 .
+
+otradata:Ragusa_Op__S.2.2.2 a otracon:claim ;
+    rdfs:label "Muhammad ascribed to God that he condoned adultery" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.2_53-171 .
+
+otradata:Ragusa_Op__S.2.20.0 a otracon:claim ;
+    rdfs:label "Each sect or religion aims to attract more followers" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.20_14-34 .
+
+otradata:Ragusa_Op__S.2.20.1 a otracon:claim ;
+    rdfs:label "Any changes to the Gospel would favor the growth of Christianity" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.20_35-62 .
+
+otradata:Ragusa_Op__S.2.20.2 a otracon:claim ;
+    rdfs:label "The difficult and incredible beliefs about Jesus would not have been added to attract followers" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.20_63-148 .
+
+otradata:Ragusa_Op__S.2.20.3 a otracon:claim ;
+    rdfs:label "These beliefs led to persecution and rejection by rulers for 300 years" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.20_149-198 .
+
+otradata:Ragusa_Op__S.2.20.4 a otracon:claim ;
+    rdfs:label "The Gospel's challenging content suggests it was not corrupted as claimed" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.20_210-304 .
+
+otradata:Ragusa_Op__S.2.20.5 a otracon:claim ;
+    rdfs:label "Therefore, it is impossible and implausible that the Gospel has been corrupted." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.20_305-315 .
+
+otradata:Ragusa_Op__S.2.21.0 a otracon:claim ;
+    rdfs:label "People follow and defend laws for present or future benefits" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.21_1-46 .
+
+otradata:Ragusa_Op__S.2.21.1 a otracon:claim ;
+    rdfs:label "Christians preaching the Gospel did not gain present benefits but lost their temporal goods and lives" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.21_47-82 .
+
+otradata:Ragusa_Op__S.2.21.2 a otracon:claim ;
+    rdfs:label "It is unlikely that many wise individuals would die for a falsehood" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.21_88-119 .
+
+otradata:Ragusa_Op__S.2.21.3 a otracon:claim ;
+    rdfs:label "Therefore, it is impossible that the Gospel of Christ has been corrupted or altered" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.21_120-130 .
+
+otradata:Ragusa_Op__S.2.22.0 a otracon:claim ;
+    rdfs:label "There is no reason Christians would remove Muhammad's name from the Gospel when other adversaries of Christ, such as the devil, Pilate, and Judas, remain mentioned" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.22_2-52 .
+
+otradata:Ragusa_Op__S.2.22.1 a otracon:claim ;
+    rdfs:label "Muhammad praised Christ, Mary, and the Gospel" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.22_55-82 .
+
+otradata:Ragusa_Op__S.2.22.2 a otracon:claim ;
+    rdfs:label "The Quran praises the Gospel" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.22_83-98 .
+
+otradata:Ragusa_Op__S.2.22.3 a otracon:claim ;
+    rdfs:label "The Gospel remains unchanged and uncorrupted" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.22_99-115 .
+
+otradata:Ragusa_Op__S.2.22.4 a otracon:claim ;
+    rdfs:label "as the Quran lacks scriptural testimony, it is not the law of God, but simply permitted by him" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.22_116-150 .
+
+otradata:Ragusa_Op__S.2.23.0 a otracon:claim ;
+    rdfs:label "The law of Muhammad cannot be the law of God as it is not confirmed by miracles" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.23_1-14 .
+
+otradata:Ragusa_Op__S.2.23.1 a otracon:claim ;
+    rdfs:label "God performs miracles to display truths that are unattainable for human reason" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.23_15-69 .
+
+otradata:Ragusa_Op__S.2.23.2 a otracon:claim ;
+    rdfs:label "God performed great miracles to support, among others, Moses, Joshua, Elias, and Elishah." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.23_120-278 .
+
+otradata:Ragusa_Op__S.2.23.3 a otracon:claim ;
+    rdfs:label "The greatest miracles were performed by Jesus Christ, and this by his own power." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.23_279-397 .
+
+otradata:Ragusa_Op__S.2.24.0 a otracon:claim ;
+    rdfs:label "Jesus's Acolytes also performed miracles based on his power." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.24_1-36 .
+
+otradata:Ragusa_Op__S.2.24.1 a otracon:claim ;
+    rdfs:label "If all previous prophets were sent with miracles, how could Muhammad be a prophet of God if he was not accompagnied by them?" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.24_37-107 .
+
+otradata:Ragusa_Op__S.2.25.0 a otracon:claim ;
+    rdfs:label "Muhammad himself confirmed in multiple places that he did not perform any miracles." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.25_1-186 .
+
+otradata:Ragusa_Op__S.2.25.1 a otracon:claim ;
+    rdfs:label "Muhammad is lying in claiming that miracles would have led to himself not being believed in." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.25_188-203 .
+
+otradata:Ragusa_Op__S.2.25.2 a otracon:claim ;
+    rdfs:label "It is a flawed argument to claim that people would have disbelieved someone with miracles, if they believed in them without." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.25_205-217 .
+
+otradata:Ragusa_Op__S.2.25.3 a otracon:claim ;
+    rdfs:label "Miracles add to the believability of the speaker, especially in matters that seem impossible to humans." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.25_219-285 .
+
+otradata:Ragusa_Op__S.2.26.0 a otracon:claim ;
+    rdfs:label "The Saracens could argue that it was the greatest miracle of all that Muhammad was believed without miracles" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.26_1-29 .
+
+otradata:Ragusa_Op__S.2.26.1 a otracon:claim ;
+    rdfs:label "Being believed without miracles is similar to having the whole world rapidly adopting Christianity." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.26_30-51 .
+
+otradata:Ragusa_Op__S.2.26.2 a otracon:claim ;
+    rdfs:label "The comparison between the adoption of the Qur'an and the Bible is flawed, as the former can hardly be considered a miracle." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.26_52-76 .
+
+otradata:Ragusa_Op__S.2.26.3 a otracon:claim ;
+    rdfs:label "The comparison is flawed as the Saracen law hardly offers any teachings that go beyond human reason and, despite incorporating the Old Testament and the Gospel, hardly retains any of their teachings." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.26_77-169 .
+
+otradata:Ragusa_Op__S.2.27.0 a otracon:claim ;
+    rdfs:label "The Christian law proposes doctrines that are difficult to believe and go far beyond what humans can think or do." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.27_1-33 .
+
+otradata:Ragusa_Op__S.2.27.1 a otracon:claim ;
+    rdfs:label "It is no miracle that carnal people are attracted to carnal pleasures." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.27_34-58 .
+
+otradata:Ragusa_Op__S.2.27.2 a otracon:claim ;
+    rdfs:label "It is a miracle that carnal people abandon their carnal pleasures to propagate the Christian faith" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.27_59-110 .
+
+otradata:Ragusa_Op__S.2.27.3 a otracon:claim ;
+    rdfs:label "It is no miracle that carnal people are attracted to carnal pleasures." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.27_111-126 .
+
+otradata:Ragusa_Op__S.2.27.4 a otracon:claim ;
+    rdfs:label "It is a miracle that carnal people abandon their carnal pleasures to propagate the Christian faith" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.27_163-177 .
+
+otradata:Ragusa_Op__S.2.27.5 a otracon:claim ;
+    rdfs:label "It is a special miracle if the successful propagation of Christianity happend through simple and poor people, and without miracles." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.27_178-188 .
+
+otradata:Ragusa_Op__S.2.28.0 a otracon:claim ;
+    rdfs:label "The law of Muhammad is not the law of God as it promotes violence." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.28_1-13 .
+
+otradata:Ragusa_Op__S.2.28.1 a otracon:claim ;
+    rdfs:label "According to the Qur'an and the apostle Paul, there can be no violence in promoting the law of God." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.28_14-107 .
+
+otradata:Ragusa_Op__S.2.29.0 a otracon:claim ;
+    rdfs:label "The divine law attracts its followers through love, not through threat and punishment." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.29_1-18 .
+
+otradata:Ragusa_Op__S.2.29.1 a otracon:claim ;
+    rdfs:label "Although the Old Law is sometimes called a law of servitude, the servitude does not imply bodily punishment, but rather temporal and spiritual reward." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.29_19-42 .
+
+otradata:Ragusa_Op__S.2.29.2 a otracon:claim ;
+    rdfs:label "The New Law does not attract through fear or promise of rewards, but purely by love." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.29_43-71 .
+
+otradata:Ragusa_Op__S.2.3.0 a otracon:claim ;
+    rdfs:label "Prophetic ability is linked to purity and distance from carnal desires" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.3_17-77 .
+
+otradata:Ragusa_Op__S.2.3.1 a otracon:claim ;
+    rdfs:label "The Holy Spirit does not dwell in those engaged in sexual immorality" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.3_78-120 .
+
+otradata:Ragusa_Op__S.2.3.2 a otracon:claim ;
+    rdfs:label "Muhammad's actions and desires conflict with the criteria for being a divine lawgiver." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.3_121-171 .
+
+otradata:Ragusa_Op__S.2.30.0 a otracon:claim ;
+    rdfs:label "The most striking way of compelling to believe is through the threat of death." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.30_1-13 .
+
+otradata:Ragusa_Op__S.2.30.1 a otracon:claim ;
+    rdfs:label "The law of Muhammad consistently uses the threat of death to force adherence." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.30_14-50 .
+
+otradata:Ragusa_Op__S.2.30.2 a otracon:claim ;
+    rdfs:label "It is wholly irrational to force belief through the threat of death, which even Muhammad admitted to multiple times." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.30_51-190 .
+
+otradata:Ragusa_Op__S.2.30.3 a otracon:claim ;
+    rdfs:label "Yet, Muhammad used the sword multiple times, and even on his relatives, to force adherence to his law" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.30_191-285 .
+
+otradata:Ragusa_Op__S.2.31.0 a otracon:claim ;
+    rdfs:label "God's law is not one of fear, killing, or the sword, as testified to by David in the Psalms." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.31_1-78 .
+
+otradata:Ragusa_Op__S.2.32.0 a otracon:claim ;
+    rdfs:label "It would be most desirable that the Saracen law matched God's proper law to ensure salvation for everyone, but sadly, the Saracen law is far from it." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.32_1-70 .
+
+otradata:Ragusa_Op__S.2.32.1 a otracon:claim ;
+    rdfs:label "God's law converts souls without killing bodies, while the Saracen law kills bodies and coerces souls" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.32_71-93 .
+
+otradata:Ragusa_Op__S.2.32.2 a otracon:claim ;
+    rdfs:label "Muhammad's mode of conversion sharply differs from that of Christ" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.32_125-143 .
+
+otradata:Ragusa_Op__S.2.32.3 a otracon:claim ;
+    rdfs:label "Christ attracted disciples through holiness, truth, and miracles, not through force or promises of earthly rewards" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.32_144-244 .
+
+otradata:Ragusa_Op__S.2.33.0 a otracon:claim ;
+    rdfs:label "The Quran cannot be the law of God because its style is not consistent with God's law" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.33_1-17 .
+
+otradata:Ragusa_Op__S.2.33.1 a otracon:claim ;
+    rdfs:label "" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.33_None-None .
+
+otradata:Ragusa_Op__S.2.33.2 a otracon:claim ;
+    rdfs:label "" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.33_40-62 .
+
+otradata:Ragusa_Op__S.2.33.3 a otracon:claim ;
+    rdfs:label "The Old and New Testaments are written in simple words, not rhythmic or metric style, which even Muhammad affirms." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.33_64-92 .
+
+otradata:Ragusa_Op__S.2.33.4 a otracon:claim ;
+    rdfs:label "The prophets also did not use metric language, and such language has been rejected by philosophers." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.33_93-120 .
+
+otradata:Ragusa_Op__S.2.35.0 a otracon:claim ;
+    rdfs:label "The Quran acknowledges Jesus as sinless and divine, born of the Virgin Mary" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.35_1-37 .
+
+otradata:Ragusa_Op__S.2.35.1 a otracon:claim ;
+    rdfs:label "Jesus is described as the Word of God, embodying wisdom and truth" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.35_38-60 .
+
+otradata:Ragusa_Op__S.2.35.2 a otracon:claim ;
+    rdfs:label "Christ is hailed in the Qur'an as being wise, while speaking the truth and according to previous scriptures." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.35_61-176 .
+
+otradata:Ragusa_Op__S.2.35.3 a otracon:claim ;
+    rdfs:label "If Christ was taught his law by God, he must speak true wisdom and the true law." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.35_177-195 .
+
+otradata:Ragusa_Op__S.2.35.4 a otracon:claim ;
+    rdfs:label "Christ is the most apt giver of laws, as he taught so that everyone could understand." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.35_207-236 .
+
+otradata:Ragusa_Op__S.2.36.0 a otracon:claim ;
+    rdfs:label "When Muhammad was caught committing adultery by his wives, he promised not to do it again." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.36_1-74 .
+
+otradata:Ragusa_Op__S.2.36.1 a otracon:claim ;
+    rdfs:label "When he could not keep away from her (Maria Iacobina), he made up a divine law that sanctioned his actions." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.36_75-156 .
+
+otradata:Ragusa_Op__S.2.36.2 a otracon:claim ;
+    rdfs:label "When he was confronted by his wives again, he turned around the argument and made them repent, since they went against divine law." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.36_157-212 .
+
+otradata:Ragusa_Op__S.2.36.3 a otracon:claim ;
+    rdfs:label "When Muhammad desired the wive of Zero, he also claimed that God allowed him to." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.36_213-284 .
+
+otradata:Ragusa_Op__S.2.4.0 a otracon:claim ;
+    rdfs:label "Muhammad admits to not knowing if he and his followers are guided rightly" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.4_1-32 .
+
+otradata:Ragusa_Op__S.2.4.1 a otracon:claim ;
+    rdfs:label "Muhammad expresses uncertainty about his parents' spiritual status." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.4_33-46 .
+
+otradata:Ragusa_Op__S.2.5.0 a otracon:claim ;
+    rdfs:label "True wisdom doesn't live in someone who constantly sins" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.5_4-10 .
+
+otradata:Ragusa_Op__S.2.5.1 a otracon:claim ;
+    rdfs:label "A very sinful person cannot be the wise creator of a perfect and holy law." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.5_11-38 .
+
+otradata:Ragusa_Op__S.2.6.0 a otracon:claim ;
+    rdfs:label "The Quran's prophecies are vague, with one notable exception being the predicted damnation of Saracens" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.6_1-77 .
+
+otradata:Ragusa_Op__S.2.6.1 a otracon:claim ;
+    rdfs:label "True prophecy should be clear and confident, unlike Muhammad’s doubtful statements." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.6_78-104 .
+
+otradata:Ragusa_Op__S.2.7.0 a otracon:claim ;
+    rdfs:label "Muhammad was uneducated and lacked the capacity for deep thought, unlikely as a lawgiver of a perfect law" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.7_1-45 .
+
+otradata:Ragusa_Op__S.2.7.1 a otracon:claim ;
+    rdfs:label "The Quran's style and complexity argue against its divine origin" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.7_88-156 .
+
+otradata:Ragusa_Op__S.2.7.2 a otracon:claim ;
+    rdfs:label "Rational individuals following a law leading to destruction, attributed to a profoundly flawed figure, raises questions about the law's validity" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.7_186-311 .
+
+otradata:Ragusa_Op__S.2.8.0 a otracon:claim ;
+    rdfs:label "Muhammad delivered the Quran without support from divine scriptures or miracles" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.8_14-28 .
+
+otradata:Ragusa_Op__S.2.8.1 a otracon:claim ;
+    rdfs:label "Jesus Christ's life and teachings were validated by prophecies and miracles, as documented in the Old Testament." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.8_29-86 .
+
+otradata:Ragusa_Op__S.2.9.0 a otracon:claim ;
+    rdfs:label "Jesus instructed to examine the scriptures that foretell his coming and deeds" ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.9_1-136 .
+
+otradata:Ragusa_Op__S.2.9.1 a otracon:claim ;
+    rdfs:label "The divine law is depicted as a continuous chain where the Old Testament links with the New, showing a coherent and unified message across the scriptures." ;
+    lrmoo:R3_realised_in otradata:Ragusa_Op__B.2.9_142-236 .
+
+otradata:Ragusa_Op__B.1.15 a doco:Paragraph ;
+    otracon:has_explicit "scripta nostra cum ratione discutiatis." ;
+    otracon:has_incipit "Talis profecto est felicitas Christianorum," ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.15.0 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.2 a doco:Paragraph ;
+    otracon:has_explicit "et eandem ei procures salutem." ;
+    otracon:has_incipit "Ad secundum incitat nos zelus" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.2.0 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.9 a doco:Paragraph ;
+    otracon:has_explicit "potest introire in regnum dei'." ;
+    otracon:has_incipit "Haec et multa alia tradit" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.9.0 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.31 a doco:Paragraph ;
+    otracon:has_explicit "in custodiendis illis retributio multa.'“" ;
+    otracon:has_incipit "Non est igitur lex dei" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.31.0 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.1 a doco:Paragraph ;
+    otracon:has_explicit "et patris et sanctorum angelorum.'" ;
+    otracon:has_incipit "Ad primum cogit nos divinus" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.1.0,
+        otradata:Ragusa_Op__S.1.1.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.11 a doco:Paragraph ;
+    otracon:has_explicit "persequentibus et | calumniantibus nos?" ;
+    otracon:has_incipit "Ulterius, quia frustra est, quoad" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.11.0,
+        otradata:Ragusa_Op__S.1.11.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.12 a doco:Paragraph ;
+    otracon:has_explicit "quod deus praeparavit diligentibus se." ;
+    otracon:has_incipit "Et, ut ad virtutes veniamus," ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.12.0,
+        otradata:Ragusa_Op__S.1.12.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.13 a doco:Paragraph ;
+    otracon:has_explicit "sol in regno patris eorum.'“" ;
+    otracon:has_incipit "Nihilominus, ut nos mortales possumus," ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.13.0,
+        otradata:Ragusa_Op__S.1.13.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.14 a doco:Paragraph ;
+    otracon:has_explicit "mea exultaverunt in deum vivum.'“" ;
+    otracon:has_incipit "Et sicut de societate ita" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.14.0,
+        otradata:Ragusa_Op__S.1.14.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.6 a doco:Paragraph ;
+    otracon:has_explicit "suam vitam ordinet et operetur." ;
+    otracon:has_incipit "Haec est via, quam lex" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.6.0,
+        otradata:Ragusa_Op__S.1.6.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.11 a doco:Paragraph ;
+    otracon:has_explicit "mendacem velitis facere et dicere." ;
+    otracon:has_incipit "Sed dicitis, quod Iudaei et" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.11.0,
+        otradata:Ragusa_Op__S.2.11.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.24 a doco:Paragraph ;
+    otracon:has_explicit "facietis et maiora horum facietis.'“" ;
+    otracon:has_incipit "Quae et maiora horum suam" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.24.0,
+        otradata:Ragusa_Op__S.2.24.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.28 a doco:Paragraph ;
+    otracon:has_explicit "lege dei non est compulsio'“." ;
+    otracon:has_incipit "Ulterius quod lex Mahumeti non" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.28.0,
+        otradata:Ragusa_Op__S.2.28.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.4 a doco:Paragraph ;
+    otracon:has_explicit "scirem, quod est opus eorum.'“" ;
+    otracon:has_incipit "Unde ut paulo ante dictum" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.4.0,
+        otradata:Ragusa_Op__S.2.4.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.5 a doco:Paragraph ;
+    otracon:has_explicit "legis, ut dicitis, esse lator." ;
+    otracon:has_incipit "Et cum ulterius sapientia non" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.5.0,
+        otradata:Ragusa_Op__S.2.5.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.6 a doco:Paragraph ;
+    otracon:has_explicit "carnalis homo esse propheta domini." ;
+    otracon:has_incipit "Sed fortasse dicetis, quod, sive" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.6.0,
+        otradata:Ragusa_Op__S.2.6.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.8 a doco:Paragraph ;
+    otracon:has_explicit "pietate legentibus utriusque [testamenti? …]" ;
+    otracon:has_incipit "Ulterius, quod Alchoranus non sit" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.8.0,
+        otradata:Ragusa_Op__S.2.8.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.9 a doco:Paragraph ;
+    otracon:has_explicit "est, una in alia continetur." ;
+    otracon:has_incipit "Ait: „'Scrutamini | scripturas, in" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.9.0,
+        otradata:Ragusa_Op__S.2.9.1 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.3 a doco:Paragraph ;
+    otracon:has_explicit "et lux et veritas manifestata'“." ;
+    otracon:has_incipit "Notum itaque sit vobis, dilectissimi," ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.3.0,
+        otradata:Ragusa_Op__S.1.3.1,
+        otradata:Ragusa_Op__S.1.3.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.7 a doco:Paragraph ;
+    otracon:has_explicit "quaedam prius prohibita licitis annumeraverit." ;
+    otracon:has_incipit "Oportet igitur, dilectissimi, pro vestra" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.7.0,
+        otradata:Ragusa_Op__S.1.7.1,
+        otradata:Ragusa_Op__S.1.7.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.0 a doco:Paragraph ;
+    otracon:has_explicit "ministri et modo tradendi ipsam." ;
+    otracon:has_incipit "Quia vero inter bestias et" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.0.0,
+        otradata:Ragusa_Op__S.2.0.1,
+        otradata:Ragusa_Op__S.2.0.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.10 a doco:Paragraph ;
+    otracon:has_explicit "pseudoprophetarum impietatem, malitiam et iniquitatem." ;
+    otracon:has_incipit "Si igitur Mahumet fuisset propheta" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.10.0,
+        otradata:Ragusa_Op__S.2.10.1,
+        otradata:Ragusa_Op__S.2.10.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.13 a doco:Paragraph ;
+    otracon:has_explicit "ipsum erant vitiati, sed recti." ;
+    otracon:has_incipit "Item 'in capitulo Elmeyde, quod" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.13.0,
+        otradata:Ragusa_Op__S.2.13.1,
+        otradata:Ragusa_Op__S.2.13.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.14 a doco:Paragraph ;
+    otracon:has_explicit "quod multis viis ostendemus. |" ;
+    otracon:has_incipit "Item in supradicto capitulo Elmeide" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.14.0,
+        otradata:Ragusa_Op__S.2.14.1,
+        otradata:Ragusa_Op__S.2.14.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.15 a doco:Paragraph ;
+    otracon:has_explicit "posteris, quod tamen non est." ;
+    otracon:has_incipit "Et primo sic: Manifestum est," ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.15.0,
+        otradata:Ragusa_Op__S.2.15.1,
+        otradata:Ragusa_Op__S.2.15.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.16 a doco:Paragraph ;
+    otracon:has_explicit "corruptione suae legis […] |" ;
+    otracon:has_incipit "Item cum Christiani et Iudaei" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.16.0,
+        otradata:Ragusa_Op__S.2.16.1,
+        otradata:Ragusa_Op__S.2.16.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.17 a doco:Paragraph ;
+    otracon:has_explicit "robore, sicut erat tempore Christi." ;
+    otracon:has_incipit "Nulla mutatio facta fuerit. Archa" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.17.0,
+        otradata:Ragusa_Op__S.2.17.1,
+        otradata:Ragusa_Op__S.2.17.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.2 a doco:Paragraph ;
+    otracon:has_explicit "quanta erat in quadraginta hominibus." ;
+    otracon:has_incipit "Sed de Mahumeto non legitur," ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.2.0,
+        otradata:Ragusa_Op__S.2.2.1,
+        otradata:Ragusa_Op__S.2.2.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.29 a doco:Paragraph ;
+    otracon:has_explicit "suos traxit et trahit cultore[s]." ;
+    otracon:has_incipit "Unde et omnis lex divina" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.29.0,
+        otradata:Ragusa_Op__S.2.29.1,
+        otradata:Ragusa_Op__S.2.29.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.3 a doco:Paragraph ;
+    otracon:has_explicit "dicitis, legis lator et minister?" ;
+    otracon:has_incipit "Ex praedicta sua libidine et" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.3.0,
+        otradata:Ragusa_Op__S.2.3.1,
+        otradata:Ragusa_Op__S.2.3.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.7 a doco:Paragraph ;
+    otracon:has_explicit "proximum diligere sicut nosmet ipsos." ;
+    otracon:has_incipit "Sed neque secundum acquisitam scientiam" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.7.0,
+        otradata:Ragusa_Op__S.2.7.1,
+        otradata:Ragusa_Op__S.2.7.2 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.10 a doco:Paragraph ;
+    otracon:has_explicit "iuxta exigentiam imbuatur ecclesiasticis sacramentis." ;
+    otracon:has_incipit "Cum ergo Alchoranus prohibeat omnino" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.10.0,
+        otradata:Ragusa_Op__S.1.10.1,
+        otradata:Ragusa_Op__S.1.10.2,
+        otradata:Ragusa_Op__S.1.10.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.5 a doco:Paragraph ;
+    otracon:has_explicit "terminum salutis et felicitatis aeternae." ;
+    otracon:has_incipit "Quantum ad secundum annuntiamus, praedicamus" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.5.0,
+        otradata:Ragusa_Op__S.1.5.1,
+        otradata:Ragusa_Op__S.1.5.2,
+        otradata:Ragusa_Op__S.1.5.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.1 a doco:Paragraph ;
+    otracon:has_explicit "et fraternae caritatis illud commisit." ;
+    otracon:has_incipit "Et quoad conditionem ministri omnino" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.1.0,
+        otradata:Ragusa_Op__S.2.1.1,
+        otradata:Ragusa_Op__S.2.1.2,
+        otradata:Ragusa_Op__S.2.1.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.12 a doco:Paragraph ;
+    otracon:has_explicit "verba autem mea non transibunt.'“" ;
+    otracon:has_incipit "Sed neque post ipsum. Quia" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.12.0,
+        otradata:Ragusa_Op__S.2.12.1,
+        otradata:Ragusa_Op__S.2.12.2,
+        otradata:Ragusa_Op__S.2.12.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.19 a doco:Paragraph ;
+    otracon:has_explicit "ita usque in hodiernum perseverant." ;
+    otracon:has_incipit "Item: Cum quattuor evangelia scripta" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.19.0,
+        otradata:Ragusa_Op__S.2.19.1,
+        otradata:Ragusa_Op__S.2.19.2,
+        otradata:Ragusa_Op__S.2.19.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.21 a doco:Paragraph ;
+    otracon:has_explicit "Christi corruptum esse et immutatum." ;
+    otracon:has_incipit "Item: Omnes aut propter praesentia" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.21.0,
+        otradata:Ragusa_Op__S.2.21.1,
+        otradata:Ragusa_Op__S.2.21.2,
+        otradata:Ragusa_Op__S.2.21.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.23 a doco:Paragraph ;
+    otracon:has_explicit "alius fecit, peccatum non haberent.'“" ;
+    otracon:has_incipit "Ulterius lex Mahumeti non potest" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.23.0,
+        otradata:Ragusa_Op__S.2.23.1,
+        otradata:Ragusa_Op__S.2.23.2,
+        otradata:Ragusa_Op__S.2.23.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.25 a doco:Paragraph ;
+    otracon:has_explicit "tanto obstinatiores et duriores fiebant." ;
+    otracon:has_incipit "Quod autem ipse Mahumet nullum" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.25.0,
+        otradata:Ragusa_Op__S.2.25.1,
+        otradata:Ragusa_Op__S.2.25.2,
+        otradata:Ragusa_Op__S.2.25.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.26 a doco:Paragraph ;
+    otracon:has_explicit "coerceri, ut in sequentibus patebit." ;
+    otracon:has_incipit "Sed dicetis forte, sicut et" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.26.0,
+        otradata:Ragusa_Op__S.2.26.1,
+        otradata:Ragusa_Op__S.2.26.2,
+        otradata:Ragusa_Op__S.2.26.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.30 a doco:Paragraph ;
+    otracon:has_explicit "ut caverent violentiam doctrinae ipsius.'" ;
+    otracon:has_incipit "Qualis autem potest esse maior" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.30.0,
+        otradata:Ragusa_Op__S.2.30.1,
+        otradata:Ragusa_Op__S.2.30.2,
+        otradata:Ragusa_Op__S.2.30.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.32 a doco:Paragraph ;
+    otracon:has_explicit "vitam veram et aeternam vivificaverint." ;
+    otracon:has_incipit "O utinam, propter salutem vestram" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.32.0,
+        otradata:Ragusa_Op__S.2.32.1,
+        otradata:Ragusa_Op__S.2.32.2,
+        otradata:Ragusa_Op__S.2.32.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.36 a doco:Paragraph ;
+    otracon:has_explicit "maritaverat eam' sibi et cetera.“" ;
+    otracon:has_incipit "Nota historiam de Maria Iacobina!" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.36.0,
+        otradata:Ragusa_Op__S.2.36.1,
+        otradata:Ragusa_Op__S.2.36.2,
+        otradata:Ragusa_Op__S.2.36.3 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.18 a doco:Paragraph ;
+    otracon:has_explicit "si corrupta et vitiata fuissent." ;
+    otracon:has_incipit "Item: Cum statim quasi post" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.18.0,
+        otradata:Ragusa_Op__S.2.18.1,
+        otradata:Ragusa_Op__S.2.18.2,
+        otradata:Ragusa_Op__S.2.18.3,
+        otradata:Ragusa_Op__S.2.18.4 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.22 a doco:Paragraph ;
+    otracon:has_explicit "mundo eveniunt permissive a deo." ;
+    otracon:has_incipit "Item: Non videtur nec apparet" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.22.0,
+        otradata:Ragusa_Op__S.2.22.1,
+        otradata:Ragusa_Op__S.2.22.2,
+        otradata:Ragusa_Op__S.2.22.3,
+        otradata:Ragusa_Op__S.2.22.4 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.33 a doco:Paragraph ;
+    otracon:has_explicit "detestantur sapientes et philosophi saeculi." ;
+    otracon:has_incipit "Ulterius quod Alchoranum non sit" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.33.0,
+        otradata:Ragusa_Op__S.2.33.1,
+        otradata:Ragusa_Op__S.2.33.2,
+        otradata:Ragusa_Op__S.2.33.3,
+        otradata:Ragusa_Op__S.2.33.4 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.35 a doco:Paragraph ;
+    otracon:has_explicit "uniuscuiusque capacitatem et necessitatem intelligeretur." ;
+    otracon:has_incipit "Unde idem 'in capitulo Elmeyde" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.35.0,
+        otradata:Ragusa_Op__S.2.35.1,
+        otradata:Ragusa_Op__S.2.35.2,
+        otradata:Ragusa_Op__S.2.35.3,
+        otradata:Ragusa_Op__S.2.35.4 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.20 a doco:Paragraph ;
+    otracon:has_explicit "talis corruptio evangelii, quam fingitis." ;
+    otracon:has_incipit "Haec etiam manifestius declaratur ex" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.20.0,
+        otradata:Ragusa_Op__S.2.20.1,
+        otradata:Ragusa_Op__S.2.20.2,
+        otradata:Ragusa_Op__S.2.20.3,
+        otradata:Ragusa_Op__S.2.20.4,
+        otradata:Ragusa_Op__S.2.20.5 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.2.27 a doco:Paragraph ;
+    otracon:has_explicit "et pauperibus hominibus inductus fuisset." ;
+    otracon:has_incipit "Lex autem Christiana tam alta" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.2.27.0,
+        otradata:Ragusa_Op__S.2.27.1,
+        otradata:Ragusa_Op__S.2.27.2,
+        otradata:Ragusa_Op__S.2.27.3,
+        otradata:Ragusa_Op__S.2.27.4,
+        otradata:Ragusa_Op__S.2.27.5 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Ragusa_Op__B.1.8 a doco:Paragraph ;
+    otracon:has_explicit "pater futuri saeculi, princeps pacis'." ;
+    otracon:has_incipit "Haec utique et plura alia" ;
+    crm:P67_refers_to otradata:Ragusa_Op__S.1.8.0,
+        otradata:Ragusa_Op__S.1.8.1,
+        otradata:Ragusa_Op__S.1.8.10,
+        otradata:Ragusa_Op__S.1.8.2,
+        otradata:Ragusa_Op__S.1.8.3,
+        otradata:Ragusa_Op__S.1.8.4,
+        otradata:Ragusa_Op__S.1.8.5,
+        otradata:Ragusa_Op__S.1.8.6,
+        otradata:Ragusa_Op__S.1.8.7,
+        otradata:Ragusa_Op__S.1.8.8,
+        otradata:Ragusa_Op__S.1.8.9 ;
+    crm:R15i_is_fragment_of otradata:Works_of_John_of_Ragusa_on_Islam .
+
+otradata:Works_of_John_of_Ragusa_on_Islam a lrmoo:F2_Expression .
+

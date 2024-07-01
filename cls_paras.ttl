@@ -1,0 +1,1668 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix doco: <http://purl.org/spar/doco/> .
+@prefix lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> .
+@prefix otracon: <http://otra-ontologies.com/ConnectiveOntology#> .
+@prefix otradata: <http://otra-ontologies.com/data/> .
+
+otradata:Ricc_CLS__B.0.1 a doco:Paragraph ;
+    otracon:has_explicit "contra legem Sarracenorum" ;
+    otracon:has_incipit "Incipit libellus quem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.10 a doco:Paragraph ;
+    otracon:has_explicit "illius legis errores." ;
+    otracon:has_incipit "Primum capitulum, continet" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.11 a doco:Paragraph ;
+    otracon:has_explicit "est cum eis." ;
+    otracon:has_incipit "Secundum est, quis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.12 a doco:Paragraph ;
+    otracon:has_explicit "testamenti et Euangelii." ;
+    otracon:has_incipit "Tertium est, ostendere" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.13 a doco:Paragraph ;
+    otracon:has_explicit "modum aliis consonum." ;
+    otracon:has_incipit "Quartum est, quia" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.14 a doco:Paragraph ;
+    otracon:has_explicit "cum aliquo alio." ;
+    otracon:has_incipit "Quintum, quia non" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.15 a doco:Paragraph ;
+    otracon:has_explicit "etiam sibi ipsi." ;
+    otracon:has_incipit "Sextum est, quia" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.16 a doco:Paragraph ;
+    otracon:has_explicit "ei aliquod miraculum." ;
+    otracon:has_incipit "Septimum est, quia" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.17 a doco:Paragraph ;
+    otracon:has_explicit "non est rationabilis." ;
+    otracon:has_incipit "Octauum, quia non" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.18 a doco:Paragraph ;
+    otracon:has_explicit "continet falsitates apertas." ;
+    otracon:has_incipit "Nonum est, quia" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.19 a doco:Paragraph ;
+    otracon:has_explicit "ad ipsam legem." ;
+    otracon:has_incipit "Decimum, quia uiolenta," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.2 a doco:Paragraph ;
+    otracon:has_explicit "sunt me 1." ;
+    otracon:has_incipit "Quot sunt dies" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.20 a doco:Paragraph ;
+    otracon:has_explicit "Undecimum, quia inordinata." ;
+    otracon:has_incipit "Undecimum, quia inordinata." ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.21 a doco:Paragraph ;
+    otracon:has_explicit "Duodecimum, quia mala." ;
+    otracon:has_incipit "Duodecimum, quia mala." ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.22 a doco:Paragraph ;
+    otracon:has_explicit "inuentor illius legis." ;
+    otracon:has_incipit "Tertiumdecimum, de institutione" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.23 a doco:Paragraph ;
+    otracon:has_explicit "fictione improbabilissime uisionis." ;
+    otracon:has_incipit "Quartumdecimum est, de" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.24 a doco:Paragraph ;
+    otracon:has_explicit "Christi ad Mahometum." ;
+    otracon:has_incipit "Quintumdecimum, continet sex" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.25 a doco:Paragraph ;
+    otracon:has_explicit "Euangelii ad Alchoranum." ;
+    otracon:has_incipit "Sextumdecimum est, de" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.26 a doco:Paragraph ;
+    otracon:has_explicit "Saracenorum ad predicta." ;
+    otracon:has_incipit "Septimumdecimum est, responsio" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.3 a doco:Paragraph ;
+    otracon:has_explicit "generaliter reducuntur 3." ;
+    otracon:has_incipit "Verba sunt ecclesie" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.4 a doco:Paragraph ;
+    otracon:has_explicit "triumphales duces 9." ;
+    otracon:has_incipit "Primo namque passa" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.5 a doco:Paragraph ;
+    otracon:has_explicit "iniqua » 14." ;
+    otracon:has_incipit "Sed statim surrexit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.6 a doco:Paragraph ;
+    otracon:has_explicit "adiuuante diuino auxilio." ;
+    otracon:has_incipit "Sed statim post," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.7 a doco:Paragraph ;
+    otracon:has_explicit "hominum » 22." ;
+    otracon:has_incipit "In hoc igitur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.8 a doco:Paragraph ;
+    otracon:has_explicit "amaricati animi 30" ;
+    otracon:has_incipit "Ego igitur, minimus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.0.9 a doco:Paragraph ;
+    otracon:has_explicit "capitula certa distinxi." ;
+    otracon:has_incipit "Nunc autem est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum primum" ;
+    otracon:has_incipit "Capitulum primum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.10 a doco:Paragraph ;
+    otracon:has_explicit "cum Iudeis 19." ;
+    otracon:has_incipit "Addit etiam quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.11 a doco:Paragraph ;
+    otracon:has_explicit "cum Manicheo 21." ;
+    otracon:has_incipit "Asserit etiam quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.12 a doco:Paragraph ;
+    otracon:has_explicit "eum mori 23." ;
+    otracon:has_incipit "Addit etiam quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.13 a doco:Paragraph ;
+    otracon:has_explicit "Donatistis hereticis 26." ;
+    otracon:has_incipit "Et quia negat" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.14 a doco:Paragraph ;
+    otracon:has_explicit "demones saluabuntur 28." ;
+    otracon:has_incipit "Dicit etiam quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.15 a doco:Paragraph ;
+    otracon:has_explicit "Deum corporeum 30." ;
+    otracon:has_incipit "Dicit quod quando" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.16 a doco:Paragraph ;
+    otracon:has_explicit "cum Macedonio 31." ;
+    otracon:has_incipit "Videtur ponere Spiritum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.17 a doco:Paragraph ;
+    otracon:has_explicit "omnino neminem imitatur." ;
+    otracon:has_incipit "Dicit quod angeli" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.18 a doco:Paragraph ;
+    otracon:has_explicit "antiquis paganis 34." ;
+    otracon:has_incipit "Ponit etiam Machometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.19 a doco:Paragraph ;
+    otracon:has_explicit "Ebione heretico 36." ;
+    otracon:has_incipit "Dicit etiam circumcisionem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.2 a doco:Paragraph ;
+    otracon:has_explicit "principales errores Alcorania" ;
+    otracon:has_incipit "Qui sunt principales" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.20 a doco:Paragraph ;
+    otracon:has_explicit "Nicolaitis hereticis 38." ;
+    otracon:has_incipit "Concedit pluralitatem uxorum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.21 a doco:Paragraph ;
+    otracon:has_explicit "soluant tributum 39" ;
+    otracon:has_incipit "Dicit etiam occidendos" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.22 a doco:Paragraph ;
+    otracon:has_explicit "honestis expositionibus *." ;
+    otracon:has_incipit "Videtur etiam concedere" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.23 a doco:Paragraph ;
+    otracon:has_explicit "contrarium occideretur 43." ;
+    otracon:has_incipit "Hec autem fuit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.24 a doco:Paragraph ;
+    otracon:has_explicit "ad dexteram 46." ;
+    otracon:has_incipit "Ipse tamen multum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.25 a doco:Paragraph ;
+    otracon:has_explicit "uirtute armorum 47." ;
+    otracon:has_incipit "Ad hec autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.26 a doco:Paragraph ;
+    otracon:has_explicit "capitulo nono 48." ;
+    otracon:has_incipit "Hec autem que" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.3 a doco:Paragraph ;
+    otracon:has_explicit "in Machometum reuomuit." ;
+    otracon:has_incipit "Primo igitur oportet" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.4 a doco:Paragraph ;
+    otracon:has_explicit "creaturam, licet excellentissimam." ;
+    otracon:has_incipit "Ipse namque Machometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.5 a doco:Paragraph ;
+    otracon:has_explicit "creasset » 9" ;
+    otracon:has_incipit "« Et uidetur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.6 a doco:Paragraph ;
+    otracon:has_explicit "uestrum >> 13." ;
+    otracon:has_incipit "Machometus itaque ponit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.7 a doco:Paragraph ;
+    otracon:has_explicit "nec bonus homo." ;
+    otracon:has_incipit "Hec igitur prolixius" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.8 a doco:Paragraph ;
+    otracon:has_explicit "Carpocrate heretico 16." ;
+    otracon:has_incipit "Summa uero intentio" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.1.9 a doco:Paragraph ;
+    otracon:has_explicit "Carpocrate heretico 17." ;
+    otracon:has_incipit "Asserit etiam Machometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum decimum" ;
+    otracon:has_incipit "Capitulum decimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.10 a doco:Paragraph ;
+    otracon:has_explicit "nisi gladium formidarent." ;
+    otracon:has_incipit "Prima pars ingressa" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.11 a doco:Paragraph ;
+    otracon:has_explicit "que falsa sunt." ;
+    otracon:has_incipit "Alia pars intrauit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.12 a doco:Paragraph ;
+    otracon:has_explicit "sine dubio elegerunt." ;
+    otracon:has_incipit "Tertia uero pars" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.13 a doco:Paragraph ;
+    otracon:has_explicit "predicta uiolentia retrahatur." ;
+    otracon:has_incipit "Quarta pars est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.14 a doco:Paragraph ;
+    otracon:has_explicit "Occidite » 16." ;
+    otracon:has_incipit "Tria uero sunt" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.15 a doco:Paragraph ;
+    otracon:has_explicit "euidentia miraculorum 19." ;
+    otracon:has_incipit "Unum est quia" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.16 a doco:Paragraph ;
+    otracon:has_explicit "luporum » 22." ;
+    otracon:has_incipit "Secundum signum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.17 a doco:Paragraph ;
+    otracon:has_explicit "legem nature 25." ;
+    otracon:has_incipit "Tertium uero signum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.18 a doco:Paragraph ;
+    otracon:has_explicit "dicit Aristotiles 26." ;
+    otracon:has_incipit "Ex his igitur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.19 a doco:Paragraph ;
+    otracon:has_explicit "est lex Dei." ;
+    otracon:has_incipit "Et ex consequenti" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.2 a doco:Paragraph ;
+    otracon:has_explicit "et lex mortis" ;
+    otracon:has_incipit "Quod Alcoranum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.3 a doco:Paragraph ;
+    otracon:has_explicit "dicitur 2. 204₸" ;
+    otracon:has_incipit "Decimo, considerare debemus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.4 a doco:Paragraph ;
+    otracon:has_explicit "occidite » 6." ;
+    otracon:has_incipit "In Alchorano autem," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.5 a doco:Paragraph ;
+    otracon:has_explicit "preparauit in mundo." ;
+    otracon:has_incipit "Hec est plane" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.6 a doco:Paragraph ;
+    otracon:has_explicit "et timore gladii." ;
+    otracon:has_incipit "Que uia et" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.7 a doco:Paragraph ;
+    otracon:has_explicit "nisi timore gladii." ;
+    otracon:has_incipit "Homar 11 etiam," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.8 a doco:Paragraph ;
+    otracon:has_explicit "ipsius » 13." ;
+    otracon:has_incipit "Etiam filius Eby" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.10.9 a doco:Paragraph ;
+    otracon:has_explicit "tenentium Mahometi errorem." ;
+    otracon:has_incipit "Notandum autem quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum undecimum" ;
+    otracon:has_incipit "Capitulum undecimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.2 a doco:Paragraph ;
+    otracon:has_explicit "est lex inordinata" ;
+    otracon:has_incipit "Quod Alcoranum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.3 a doco:Paragraph ;
+    otracon:has_explicit "dicit Apostolus 2." ;
+    otracon:has_incipit "Vndecimo, considerandum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.4 a doco:Paragraph ;
+    otracon:has_explicit "in scripturis sacris." ;
+    otracon:has_incipit "Et hoc uidemus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.5 a doco:Paragraph ;
+    otracon:has_explicit "ordinata sunt 4." ;
+    otracon:has_incipit "Certissimum enim est," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.6 a doco:Paragraph ;
+    otracon:has_explicit "hystorie totum Pentateuchum." ;
+    otracon:has_incipit "Nam Moyses ordinatissime" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.7 a doco:Paragraph ;
+    otracon:has_explicit "et ascensione Christi." ;
+    otracon:has_incipit "Alii etiam prophete" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.8 a doco:Paragraph ;
+    otracon:has_explicit "et conuenienti ordine." ;
+    otracon:has_incipit "In Alchorano autem," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.11.9 a doco:Paragraph ;
+    otracon:has_explicit "Deo non competit." ;
+    otracon:has_incipit "Ordo autem uerborum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum duodecimum" ;
+    otracon:has_incipit "Capitulum duodecimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.10 a doco:Paragraph ;
+    otracon:has_explicit "falsa et fatua." ;
+    otracon:has_incipit "De periurio uero," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.11 a doco:Paragraph ;
+    otracon:has_explicit "mundum quam mali." ;
+    otracon:has_incipit "Dicit enim quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.12 a doco:Paragraph ;
+    otracon:has_explicit "truffatiue creasset mundum?" ;
+    otracon:has_incipit "Inducit etiam Deum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.13 a doco:Paragraph ;
+    otracon:has_explicit "ueritatem » 24" ;
+    otracon:has_incipit "Item quia Mahometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.14 a doco:Paragraph ;
+    otracon:has_explicit "fidem in promissis." ;
+    otracon:has_incipit "Breuiter, quicquid uoluit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.15 a doco:Paragraph ;
+    otracon:has_explicit "ad mala inducit." ;
+    otracon:has_incipit "Est igitur hec" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.16 a doco:Paragraph ;
+    otracon:has_explicit "non nisi bonum." ;
+    otracon:has_incipit "Ergo non est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.2 a doco:Paragraph ;
+    otracon:has_explicit "est lex mala" ;
+    otracon:has_incipit "Quod est lex" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.3 a doco:Paragraph ;
+    otracon:has_explicit "quia est mala." ;
+    otracon:has_incipit "Duodecimo, considerandum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.4 a doco:Paragraph ;
+    otracon:has_explicit "secundum Dyonisium 1." ;
+    otracon:has_incipit "Deus enim est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.5 a doco:Paragraph ;
+    otracon:has_explicit "Alchoranum est malum." ;
+    otracon:has_incipit "Quod autem lex" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.6 a doco:Paragraph ;
+    otracon:has_explicit "non occidantur 6." ;
+    otracon:has_incipit "Preterea Alchoranum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.7 a doco:Paragraph ;
+    otracon:has_explicit "consortem in bono." ;
+    otracon:has_incipit "Preterea, sicut in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.8 a doco:Paragraph ;
+    otracon:has_explicit "de facili 12." ;
+    otracon:has_incipit "Preterea, licet Alchoranum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.12.9 a doco:Paragraph ;
+    otracon:has_explicit "capitulo 13. 207₸" ;
+    otracon:has_incipit "De rapina autem," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum tertium decimum" ;
+    otracon:has_incipit "Capitulum tertium decimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.10 a doco:Paragraph ;
+    otracon:has_explicit "condempnat alteram 35." ;
+    otracon:has_incipit "Sed et in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.11 a doco:Paragraph ;
+    otracon:has_explicit "ipsum Alchoranum 37." ;
+    otracon:has_incipit "Quidam enim secuntur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.12 a doco:Paragraph ;
+    otracon:has_explicit "nono capitulo 42." ;
+    otracon:has_incipit "Quod aduertens quidam" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.2 a doco:Paragraph ;
+    otracon:has_explicit "institutione Alcorani 1" ;
+    otracon:has_incipit "De discipulis Maccometti" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.3 a doco:Paragraph ;
+    otracon:has_explicit "institutione Alchorani predicti." ;
+    otracon:has_incipit "Cum igitur ostensum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.4 a doco:Paragraph ;
+    otracon:has_explicit "efficaciter perfidiam Antichristi." ;
+    otracon:has_incipit "Et sciendum quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.5 a doco:Paragraph ;
+    otracon:has_explicit "talem legis latorem." ;
+    otracon:has_incipit "Videns igitur diabolus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.6 a doco:Paragraph ;
+    otracon:has_explicit "et Christianos hereticos." ;
+    otracon:has_incipit "Deuicto igitur Cosdrohe" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.7 a doco:Paragraph ;
+    otracon:has_explicit "habuit Alchoranum 16" ;
+    otracon:has_incipit "Adhesit enim ei" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.8 a doco:Paragraph ;
+    otracon:has_explicit "combussit alios Alchoranos." ;
+    otracon:has_incipit "« Narratur tamen" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.13.9 a doco:Paragraph ;
+    otracon:has_explicit "autem combussit 31." ;
+    otracon:has_incipit "Et tunc etiam" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.14.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum quartum decimum" ;
+    otracon:has_incipit "Capitulum quartum decimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.14.2 a doco:Paragraph ;
+    otracon:has_explicit "narrant de Mahometto" ;
+    otracon:has_incipit "Visio derisibilis quam" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.14.3 a doco:Paragraph ;
+    otracon:has_explicit "cuiusdam Alchorani 1." ;
+    otracon:has_incipit "Quartodecimo considerare oportet" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.14.4 a doco:Paragraph ;
+    otracon:has_explicit "quam quod narrauimus." ;
+    otracon:has_incipit "« Dicitur enim" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.14.5 a doco:Paragraph ;
+    otracon:has_explicit "hominum et nuncius?" ;
+    otracon:has_incipit "Cumque hanc fictionem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.14.6 a doco:Paragraph ;
+    otracon:has_explicit "nullum fecisse miraculum." ;
+    otracon:has_incipit "Sic et in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.14.7 a doco:Paragraph ;
+    otracon:has_explicit "et fecit Machometus." ;
+    otracon:has_incipit "Longe autem plures" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.14.8 a doco:Paragraph ;
+    otracon:has_explicit "corporali dimensione sitos." ;
+    otracon:has_incipit "Nam, sicut sepe" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum quintum decimum" ;
+    otracon:has_incipit "Capitulum quintum decimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.10 a doco:Paragraph ;
+    otracon:has_explicit "in personis 13." ;
+    otracon:has_incipit "Et certe talis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.11 a doco:Paragraph ;
+    otracon:has_explicit "se loquitur pluraliter." ;
+    otracon:has_incipit "Et Alchoranum idem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.12 a doco:Paragraph ;
+    otracon:has_explicit "Secunda questio." ;
+    otracon:has_incipit "Secunda questio." ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.13 a doco:Paragraph ;
+    otracon:has_explicit "\"nostro\" et \"sancto\"?" ;
+    otracon:has_incipit "Secunda questio est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.14 a doco:Paragraph ;
+    otracon:has_explicit "nostro » 27." ;
+    otracon:has_incipit "Et preterea non" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.15 a doco:Paragraph ;
+    otracon:has_explicit "non essentialiter 29." ;
+    otracon:has_incipit "Cum igitur diuina" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.16 a doco:Paragraph ;
+    otracon:has_explicit "diuinis personis 30." ;
+    otracon:has_incipit "Et sic solis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.17 a doco:Paragraph ;
+    otracon:has_explicit "Tertia questio." ;
+    otracon:has_incipit "Tertia questio." ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.18 a doco:Paragraph ;
+    otracon:has_explicit "Verbo Dei 31." ;
+    otracon:has_incipit "Eandem omnino questionem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.19 a doco:Paragraph ;
+    otracon:has_explicit "sit uerbum Dei." ;
+    otracon:has_incipit "« Dicitur enim" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.2 a doco:Paragraph ;
+    otracon:has_explicit "Questiones super Alcoranum" ;
+    otracon:has_incipit "Questiones super Alcoranum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.20 a doco:Paragraph ;
+    otracon:has_explicit "incorruptibile et eternum." ;
+    otracon:has_incipit "Queritur ergo quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.21 a doco:Paragraph ;
+    otracon:has_explicit "simplicitatem et perfectionem." ;
+    otracon:has_incipit "Quicquid autem ex" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.22 a doco:Paragraph ;
+    otracon:has_explicit "Dei est Deus." ;
+    otracon:has_incipit "Machometus igitur, quando" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.23 a doco:Paragraph ;
+    otracon:has_explicit "de tertia questione." ;
+    otracon:has_incipit "Alchoranum autem non" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.24 a doco:Paragraph ;
+    otracon:has_explicit "Quarta questio." ;
+    otracon:has_incipit "Quarta questio." ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.25 a doco:Paragraph ;
+    otracon:has_explicit "et ueraces legerent." ;
+    otracon:has_incipit "Quarta questio est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.26 a doco:Paragraph ;
+    otracon:has_explicit "non disputarent 72." ;
+    otracon:has_incipit "Vnde et Alchoran" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.27 a doco:Paragraph ;
+    otracon:has_explicit "ea habere 74." ;
+    otracon:has_incipit "Tertium quia prohibuit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.28 a doco:Paragraph ;
+    otracon:has_explicit "unum alteri 77." ;
+    otracon:has_incipit "Quartum est quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.29 a doco:Paragraph ;
+    otracon:has_explicit "de quarta questione." ;
+    otracon:has_incipit "Et hoc sufficit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.3 a doco:Paragraph ;
+    otracon:has_explicit "conuiuium 2 ueritatis." ;
+    otracon:has_incipit "Consequenter mouenda sunt" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.30 a doco:Paragraph ;
+    otracon:has_explicit "Quinta questio." ;
+    otracon:has_incipit "Quinta questio." ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.31 a doco:Paragraph ;
+    otracon:has_explicit "eum » 81." ;
+    otracon:has_incipit "Quinta questio est," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.32 a doco:Paragraph ;
+    otracon:has_explicit "participem et consortem." ;
+    otracon:has_incipit "Videtur igitur Machometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.33 a doco:Paragraph ;
+    otracon:has_explicit "Sexta questio." ;
+    otracon:has_incipit "Sexta questio." ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.34 a doco:Paragraph ;
+    otracon:has_explicit "de Machometo 84." ;
+    otracon:has_incipit "Sexta questio est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.35 a doco:Paragraph ;
+    otracon:has_explicit "potuit ignorare 88." ;
+    otracon:has_incipit "Queritur quare Saraceni" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.36 a doco:Paragraph ;
+    otracon:has_explicit "minutione » 91." ;
+    otracon:has_incipit "Machometus autem fuit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.37 a doco:Paragraph ;
+    otracon:has_explicit "» etc. 94." ;
+    otracon:has_incipit "Item Christus descendit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.38 a doco:Paragraph ;
+    otracon:has_explicit "essent omnibus patentia." ;
+    otracon:has_incipit "Preterea Christus nullum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.39 a doco:Paragraph ;
+    otracon:has_explicit "Alchorani » 101." ;
+    otracon:has_incipit "Preterea Christus fuit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.4 a doco:Paragraph ;
+    otracon:has_explicit "Questio prima ª." ;
+    otracon:has_incipit "Questio prima ª." ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.40 a doco:Paragraph ;
+    otracon:has_explicit "Christo ponit Euangelium." ;
+    otracon:has_incipit "Preterea Christus, secundum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.41 a doco:Paragraph ;
+    otracon:has_explicit "Euangelium quam Alchoranum." ;
+    otracon:has_incipit "Mirum est igitur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.42 a doco:Paragraph ;
+    otracon:has_explicit "capitulo etc. 104" ;
+    otracon:has_incipit "Maxime cum sit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.5 a doco:Paragraph ;
+    otracon:has_explicit "pluraliter loquentem 3?" ;
+    otracon:has_incipit "Prima questio est:" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.6 a doco:Paragraph ;
+    otracon:has_explicit "sed ad angelos." ;
+    otracon:has_incipit "Dicitur enim in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.7 a doco:Paragraph ;
+    otracon:has_explicit "Adorate Adam b." ;
+    otracon:has_incipit "Preterea in capitulo" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.8 a doco:Paragraph ;
+    otracon:has_explicit "concreatrix cum Deo." ;
+    otracon:has_incipit "Preterea, in multis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.15.9 a doco:Paragraph ;
+    otracon:has_explicit "in eis faciant." ;
+    otracon:has_incipit "Preterea non potest" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum sextum decimum" ;
+    otracon:has_incipit "Capitulum sextum decimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.10 a doco:Paragraph ;
+    otracon:has_explicit "ulterius insistere 16." ;
+    otracon:has_incipit "Sane contradictio in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.11 a doco:Paragraph ;
+    otracon:has_explicit "nono capitulo 18." ;
+    otracon:has_incipit "Non est autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.12 a doco:Paragraph ;
+    otracon:has_explicit "legis malorum peruersitas." ;
+    otracon:has_incipit "Violentiam uero nullam" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.13 a doco:Paragraph ;
+    otracon:has_explicit "credatur contrarium asserentibus." ;
+    otracon:has_incipit "Ordinatissima uero est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.2 a doco:Paragraph ;
+    otracon:has_explicit "Evangelium excellit Alcoranum" ;
+    otracon:has_incipit "In quo Evangelium" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.3 a doco:Paragraph ;
+    otracon:has_explicit "sunt de Alchorano." ;
+    otracon:has_incipit "Preminentia uero Euangelii" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.4 a doco:Paragraph ;
+    otracon:has_explicit "euangelica manifeste patent." ;
+    otracon:has_incipit "Ostensum est enim" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.5 a doco:Paragraph ;
+    otracon:has_explicit "uirtutem miraculorum 7." ;
+    otracon:has_incipit "Nam et Machometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.6 a doco:Paragraph ;
+    otracon:has_explicit "linguam arabicam 10?" ;
+    otracon:has_incipit "Alchoranum autem dicit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.7 a doco:Paragraph ;
+    otracon:has_explicit "ostensa de Alchorano." ;
+    otracon:has_incipit "Lex autem Christianorum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.8 a doco:Paragraph ;
+    otracon:has_explicit "omnium aliorum 13" ;
+    otracon:has_incipit "Inuenient quod attestatur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.16.9 a doco:Paragraph ;
+    otracon:has_explicit "contrarium nisi falsum." ;
+    otracon:has_incipit "Inuenient etiam in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum septimum decimum" ;
+    otracon:has_incipit "Capitulum septimum decimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.10 a doco:Paragraph ;
+    otracon:has_explicit "8 capitulo 10." ;
+    otracon:has_incipit "Preterea si Alcoranum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.11 a doco:Paragraph ;
+    otracon:has_explicit "confirmata miraculis 11." ;
+    otracon:has_incipit "Continet etiam difficultatem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.12 a doco:Paragraph ;
+    otracon:has_explicit "paucissimi Sarraceni seruant." ;
+    otracon:has_incipit "Continet iterum difficultatem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.13 a doco:Paragraph ;
+    otracon:has_explicit "non possunt seruare." ;
+    otracon:has_incipit "Igitur sicut fuit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.14 a doco:Paragraph ;
+    otracon:has_explicit "osseruabilis mundo 13." ;
+    otracon:has_incipit "Quod si hoc" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.2 a doco:Paragraph ;
+    otracon:has_explicit "Sarracenorum ad predicta" ;
+    otracon:has_incipit "Responsio Sarracenorum ad" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.3 a doco:Paragraph ;
+    otracon:has_explicit "opus Euangelio 3." ;
+    otracon:has_incipit "Ad hec nituntur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.4 a doco:Paragraph ;
+    otracon:has_explicit "continent manifestam falsitatem." ;
+    otracon:has_incipit "Euacuatio positionis. Set" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.5 a doco:Paragraph ;
+    otracon:has_explicit "directio » 4." ;
+    otracon:has_incipit "Non enim potest" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.6 a doco:Paragraph ;
+    otracon:has_explicit "solum Euangelium e." ;
+    otracon:has_incipit "Preterea non potest" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.7 a doco:Paragraph ;
+    otracon:has_explicit "poterat comuniter osseruari?" ;
+    otracon:has_incipit "Preterea quomodo posset" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.8 a doco:Paragraph ;
+    otracon:has_explicit "ad salutem 6?" ;
+    otracon:has_incipit "Preterea, si Euangelium" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.17.9 a doco:Paragraph ;
+    otracon:has_explicit "magis stricta. 218₸" ;
+    otracon:has_incipit "Preterea quanto lex" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.1 a doco:Paragraph ;
+    otracon:has_explicit "Secundum capitulum" ;
+    otracon:has_incipit "Secundum capitulum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.2 a doco:Paragraph ;
+    otracon:has_explicit "seruari cum eis" ;
+    otracon:has_incipit "Quis modus debet" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.3 a doco:Paragraph ;
+    otracon:has_explicit "sed derident 4." ;
+    otracon:has_incipit "Secundo notandum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.4 a doco:Paragraph ;
+    otracon:has_explicit "et habemus miracula." ;
+    otracon:has_incipit "Nam sicut dicitur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.5 a doco:Paragraph ;
+    otracon:has_explicit "non possimus soluere." ;
+    otracon:has_incipit "Ipsi tamen nec" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.6 a doco:Paragraph ;
+    otracon:has_explicit "ad defensionem fidei." ;
+    otracon:has_incipit "Et hoc sufficit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.7 a doco:Paragraph ;
+    otracon:has_explicit "plurilitatem personarum 16." ;
+    otracon:has_incipit "Magis autemª querendum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.8 a doco:Paragraph ;
+    otracon:has_explicit "sit incarnatus 19." ;
+    otracon:has_incipit "De mysterio autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.2.9 a doco:Paragraph ;
+    otracon:has_explicit "gladio iuguletur 26." ;
+    otracon:has_incipit "Est autem hec" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum tertium" ;
+    otracon:has_incipit "Capitulum tertium" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.10 a doco:Paragraph ;
+    otracon:has_explicit "sanctissimum hominem 27." ;
+    otracon:has_incipit "Preterea quomodo Christiani" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.11 a doco:Paragraph ;
+    otracon:has_explicit "apud nos 32." ;
+    otracon:has_incipit "Preterea Christiani ante" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.12 a doco:Paragraph ;
+    otracon:has_explicit "qui prodidit 34?" ;
+    otracon:has_incipit "Preterea 4, nomen" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.13 a doco:Paragraph ;
+    otracon:has_explicit "et uere mortuus?" ;
+    otracon:has_incipit "Preterea & quare" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.14 a doco:Paragraph ;
+    otracon:has_explicit "ueteris testamenti 41." ;
+    otracon:has_incipit "Preterea \" dato" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.15 a doco:Paragraph ;
+    otracon:has_explicit "eis k 46." ;
+    otracon:has_incipit "Preterea in Alchorano," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.16 a doco:Paragraph ;
+    otracon:has_explicit "ei, sed contrariantur." ;
+    otracon:has_incipit "Patet igitur quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.2 a doco:Paragraph ;
+    otracon:has_explicit "et Euangelii 1" ;
+    otracon:has_incipit "Quod Alcoranum non" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.3 a doco:Paragraph ;
+    otracon:has_explicit "testimonium perhibet 4." ;
+    otracon:has_incipit "Tertio sciendum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.4 a doco:Paragraph ;
+    otracon:has_explicit "tempore sequerentur 10." ;
+    otracon:has_incipit "Nos enim inuenimus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.5 a doco:Paragraph ;
+    otracon:has_explicit "ut dicunt 17?" ;
+    otracon:has_incipit "Ad hoc autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.6 a doco:Paragraph ;
+    otracon:has_explicit "iustitia\"? »> 20." ;
+    otracon:has_incipit "Non erant igitur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.7 a doco:Paragraph ;
+    otracon:has_explicit "modo scripta ." ;
+    otracon:has_incipit "Preterea talis corruptio" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.8 a doco:Paragraph ;
+    otracon:has_explicit "manifeste sciretur 24" ;
+    otracon:has_incipit "Preterea quatuor euangelia" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.3.9 a doco:Paragraph ;
+    otracon:has_explicit "quam e contrario." ;
+    otracon:has_incipit "Preterea nichil est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum quartum" ;
+    otracon:has_incipit "Capitulum quartum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.10 a doco:Paragraph ;
+    otracon:has_explicit "quo ad posse." ;
+    otracon:has_incipit "Item in capitulo" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.11 a doco:Paragraph ;
+    otracon:has_explicit "diem iudicii 23." ;
+    otracon:has_incipit "Item ipse Machometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.12 a doco:Paragraph ;
+    otracon:has_explicit "per tales fabulas." ;
+    otracon:has_incipit "Hec et his" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.2 a doco:Paragraph ;
+    otracon:has_explicit "modum aliis consonum" ;
+    otracon:has_incipit "Quod non habet" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.3 a doco:Paragraph ;
+    otracon:has_explicit "fabulosa in sententiis." ;
+    otracon:has_incipit "Quarto sciendum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.4 a doco:Paragraph ;
+    otracon:has_explicit "contrarium manifeste apparet." ;
+    otracon:has_incipit "Quod autem sit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.5 a doco:Paragraph ;
+    otracon:has_explicit "etiam / propheticus." ;
+    otracon:has_incipit "Videmus enim in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.6 a doco:Paragraph ;
+    otracon:has_explicit "repetere c 16?" ;
+    otracon:has_incipit "Vlterius etiam est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.7 a doco:Paragraph ;
+    otracon:has_explicit "magis notabilia referam." ;
+    otracon:has_incipit "Sed quicquid sit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.8 a doco:Paragraph ;
+    otracon:has_explicit "», etc 17." ;
+    otracon:has_incipit "Dicitur enim in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.4.9 a doco:Paragraph ;
+    otracon:has_explicit "ipse integrauit eam." ;
+    otracon:has_incipit "« Item in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.1 a doco:Paragraph ;
+    otracon:has_explicit "<Capitulum quintum>" ;
+    otracon:has_incipit "<Capitulum quintum>" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.2 a doco:Paragraph ;
+    otracon:has_explicit "aliquo alio> ª" ;
+    otracon:has_incipit "<Quia non concordat" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.3 a doco:Paragraph ;
+    otracon:has_explicit "fine hominis tractauerunt." ;
+    otracon:has_incipit "Quinto sciendum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.4 a doco:Paragraph ;
+    otracon:has_explicit "non intelligerent perfecte." ;
+    otracon:has_incipit "Posuerunt enim philosophi" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.5 a doco:Paragraph ;
+    otracon:has_explicit "gloriam Dei etc9." ;
+    otracon:has_incipit "Christus autem hec" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.6 a doco:Paragraph ;
+    otracon:has_explicit "prophete ipsorum patet." ;
+    otracon:has_incipit "Machometus autem de" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.7 a doco:Paragraph ;
+    otracon:has_explicit "aut permittit 25." ;
+    otracon:has_incipit "Preterea Alchoranum non" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.8 a doco:Paragraph ;
+    otracon:has_explicit "bello ceperunt 29." ;
+    otracon:has_incipit "Preterea non concordat" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.5.9 a doco:Paragraph ;
+    otracon:has_explicit "salute omnium 30." ;
+    otracon:has_incipit "Constat igitur hanc" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum sextum" ;
+    otracon:has_incipit "Capitulum sextum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.10 a doco:Paragraph ;
+    otracon:has_explicit "compulsio quam occisio?" ;
+    otracon:has_incipit "Item ipse in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.11 a doco:Paragraph ;
+    otracon:has_explicit "insuetum » 20." ;
+    otracon:has_incipit "Item in capitulo" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.12 a doco:Paragraph ;
+    otracon:has_explicit "Saracenus » 21?" ;
+    otracon:has_incipit "Amplius ipse dicit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.13 a doco:Paragraph ;
+    otracon:has_explicit "ante legem Moysi." ;
+    otracon:has_incipit "Preterea constat quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.14 a doco:Paragraph ;
+    otracon:has_explicit "sit » 24." ;
+    otracon:has_incipit "Item ipse dicit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.15 a doco:Paragraph ;
+    otracon:has_explicit "et omnibus gentibus." ;
+    otracon:has_incipit "Item ipse dicit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.16 a doco:Paragraph ;
+    otracon:has_explicit "tot contrarietas inueniuntur." ;
+    otracon:has_incipit "Non igitur est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.2 a doco:Paragraph ;
+    otracon:has_explicit "contraria sibi ipsi" ;
+    otracon:has_incipit "Quod lex Sarracenorum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.3 a doco:Paragraph ;
+    otracon:has_explicit "conuenit sibi ipsi." ;
+    otracon:has_incipit "Sexto considerandum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.4 a doco:Paragraph ;
+    otracon:has_explicit "contradictiones inueniuntur 2." ;
+    otracon:has_incipit "Et hec est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.5 a doco:Paragraph ;
+    otracon:has_explicit "peccata sua 7." ;
+    otracon:has_incipit "Nam ipse in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.6 a doco:Paragraph ;
+    otracon:has_explicit "nisi arabicam 10" ;
+    otracon:has_incipit "Item dicit se" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.7 a doco:Paragraph ;
+    otracon:has_explicit "in lege Saracenorum12." ;
+    otracon:has_incipit "Item dicit in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.8 a doco:Paragraph ;
+    otracon:has_explicit "soluant tributum 14." ;
+    otracon:has_incipit "Item ipse mandat" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.6.9 a doco:Paragraph ;
+    otracon:has_explicit "soli Deo reseruantur." ;
+    otracon:has_incipit "Preterea ipse dicit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum septimum" ;
+    otracon:has_incipit "Capitulum septimum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.2 a doco:Paragraph ;
+    otracon:has_explicit "est confirmata miraculis" ;
+    otracon:has_incipit "Quod lex Sarracenorum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.3 a doco:Paragraph ;
+    otracon:has_explicit "aliquod miraculum 1." ;
+    otracon:has_incipit "Septimum est considerare" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.4 a doco:Paragraph ;
+    otracon:has_explicit "penis ualeant coherceri." ;
+    otracon:has_incipit "Quando enim misit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.5 a doco:Paragraph ;
+    otracon:has_explicit "et facies collisa." ;
+    otracon:has_incipit "Quod autem inducit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.6 a doco:Paragraph ;
+    otracon:has_explicit "ipsi, sed Christiani." ;
+    otracon:has_incipit "Ex quo etiam" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.7 a doco:Paragraph ;
+    otracon:has_explicit "minorem mulo nomine" ;
+    otracon:has_incipit "Cum autem plurimi" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.8 a doco:Paragraph ;
+    otracon:has_explicit "aut sine miraculo." ;
+    otracon:has_incipit "24, que loquebatur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.7.9 a doco:Paragraph ;
+    otracon:has_explicit "adhibent fidem 28." ;
+    otracon:has_incipit "Maius autem miraculum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum octauum" ;
+    otracon:has_incipit "Capitulum octauum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.10 a doco:Paragraph ;
+    otracon:has_explicit "dedit quod intelligature?" ;
+    otracon:has_incipit "Nec etiam est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.11 a doco:Paragraph ;
+    otracon:has_explicit "soli Deo debetur." ;
+    otracon:has_incipit "Non est rationabilis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.12 a doco:Paragraph ;
+    otracon:has_explicit "de necessitate saluetur?" ;
+    otracon:has_incipit "Item non est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.13 a doco:Paragraph ;
+    otracon:has_explicit "subiici diuersis erroribus." ;
+    otracon:has_incipit "Preterea Mahometus in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.14 a doco:Paragraph ;
+    otracon:has_explicit "» 33. 197%" ;
+    otracon:has_incipit "Preterea Mahometus mandat" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.15 a doco:Paragraph ;
+    otracon:has_explicit "decimo capitulo 34." ;
+    otracon:has_incipit "De hoc autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.16 a doco:Paragraph ;
+    otracon:has_explicit "et fumo 35?" ;
+    otracon:has_incipit "Est etiam irrationabilis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.17 a doco:Paragraph ;
+    otracon:has_explicit "et audaces 1." ;
+    otracon:has_incipit "Item dicit quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.18 a doco:Paragraph ;
+    otracon:has_explicit "inconueniens et irrationabilis." ;
+    otracon:has_incipit "Preterea lex ipsa" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.19 a doco:Paragraph ;
+    otracon:has_explicit "omnia rationabiliter 40." ;
+    otracon:has_incipit "Maxime autem uidetur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.2 a doco:Paragraph ;
+    otracon:has_explicit "est lex irrationabilis" ;
+    otracon:has_incipit "Quod est lex" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.20 a doco:Paragraph ;
+    otracon:has_explicit "sequeretur >> 43" ;
+    otracon:has_incipit "Maxime autem irrationabilis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.21 a doco:Paragraph ;
+    otracon:has_explicit "que desiderabat promisit." ;
+    otracon:has_incipit "In hoc autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.22 a doco:Paragraph ;
+    otracon:has_explicit "non possunt 49." ;
+    otracon:has_incipit "In hoc enim" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.23 a doco:Paragraph ;
+    otracon:has_explicit "erunt ibi. 198₸" ;
+    otracon:has_incipit "Fiat igitur ratio" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.24 a doco:Paragraph ;
+    otracon:has_explicit "essent imperfectiones magne." ;
+    otracon:has_incipit "Constat enim quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.25 a doco:Paragraph ;
+    otracon:has_explicit "naturam » 55" ;
+    otracon:has_incipit "« Amplius, si" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.26 a doco:Paragraph ;
+    otracon:has_explicit "erit regnum feminarum." ;
+    otracon:has_incipit "Preterea, si beatitudo" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.27 a doco:Paragraph ;
+    otracon:has_explicit "beneficium conferatur resurrectionis." ;
+    otracon:has_incipit "« Preterea, si" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.28 a doco:Paragraph ;
+    otracon:has_explicit "omnino mentionem facit." ;
+    otracon:has_incipit "Preterea ipse Mahometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.29 a doco:Paragraph ;
+    otracon:has_explicit "non omnes expectentur." ;
+    otracon:has_incipit "Preterea non uidetur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.3 a doco:Paragraph ;
+    otracon:has_explicit "et ratione finis." ;
+    otracon:has_incipit "Octauo considerandum est" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.30 a doco:Paragraph ;
+    otracon:has_explicit "dici » 61" ;
+    otracon:has_incipit "« Si quis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.31 a doco:Paragraph ;
+    otracon:has_explicit "comunicant 64? 199₸" ;
+    otracon:has_incipit "« Primo quidem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.32 a doco:Paragraph ;
+    otracon:has_explicit "maxime laudant 65." ;
+    otracon:has_incipit "Preterea, si in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.33 a doco:Paragraph ;
+    otracon:has_explicit "erunt et miseri\"." ;
+    otracon:has_incipit "Sed quia forte" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.34 a doco:Paragraph ;
+    otracon:has_explicit "premii quod promittit." ;
+    otracon:has_incipit "Hec quasi per" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.35 a doco:Paragraph ;
+    otracon:has_explicit "et irrationabile 1." ;
+    otracon:has_incipit "Est etiam irrationabilis" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.36 a doco:Paragraph ;
+    otracon:has_explicit "generaliter intemperati '." ;
+    otracon:has_incipit "Item ipse prohibet" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.4 a doco:Paragraph ;
+    otracon:has_explicit "scientibus patent 2." ;
+    otracon:has_incipit "Primo igitur patet" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.5 a doco:Paragraph ;
+    otracon:has_explicit "aliquando peccator fuerit." ;
+    otracon:has_incipit "Et respondent Saraceni" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.6 a doco:Paragraph ;
+    otracon:has_explicit "Penitemus » 14" ;
+    otracon:has_incipit "Sed hec responsio" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.7 a doco:Paragraph ;
+    otracon:has_explicit "mendacium » 16." ;
+    otracon:has_incipit "Simile fecit quando" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.8 a doco:Paragraph ;
+    otracon:has_explicit "filiam legitur habuisse." ;
+    otracon:has_incipit "Preterea si aliud" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.8.9 a doco:Paragraph ;
+    otracon:has_explicit "uel non 20." ;
+    otracon:has_incipit "Non est igitur" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.1 a doco:Paragraph ;
+    otracon:has_explicit "Capitulum nonum" ;
+    otracon:has_incipit "Capitulum nonum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.10 a doco:Paragraph ;
+    otracon:has_explicit "uocarent eos deos." ;
+    otracon:has_incipit "Preterea dicit in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.11 a doco:Paragraph ;
+    otracon:has_explicit "mulierem » 23." ;
+    otracon:has_incipit "Preterea ipse dicit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.12 a doco:Paragraph ;
+    otracon:has_explicit "non habent 27." ;
+    otracon:has_incipit "Preterea, ipse inducit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.13 a doco:Paragraph ;
+    otracon:has_explicit "filium dicunt 29." ;
+    otracon:has_incipit "De Iudeis autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.14 a doco:Paragraph ;
+    otracon:has_explicit "peccato blasphemie 31." ;
+    otracon:has_incipit "Preterea, in capitulo" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.15 a doco:Paragraph ;
+    otracon:has_explicit "primus. .- \"" ;
+    otracon:has_incipit "De Apostolis autem," ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.16 a doco:Paragraph ;
+    otracon:has_explicit "ipsi renuerunt 37." ;
+    otracon:has_incipit "De Patriarchis autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.17 a doco:Paragraph ;
+    otracon:has_explicit "ideo non insisto." ;
+    otracon:has_incipit "Istud est aperte" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.18 a doco:Paragraph ;
+    otracon:has_explicit "ostendi aliquo argumento." ;
+    otracon:has_incipit "De demonibus autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.19 a doco:Paragraph ;
+    otracon:has_explicit "nisi diabolus 45" ;
+    otracon:has_incipit "De Angelis autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.2 a doco:Paragraph ;
+    otracon:has_explicit "continet falsitates apertas" ;
+    otracon:has_incipit "Quod lex Sarracenorum" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.20 a doco:Paragraph ;
+    otracon:has_explicit "se asserit 46." ;
+    otracon:has_incipit "Preterea dicit idem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.21 a doco:Paragraph ;
+    otracon:has_explicit "sicut infra patebit." ;
+    otracon:has_incipit "Preterea, uidetur de" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.22 a doco:Paragraph ;
+    otracon:has_explicit "annos et amplius." ;
+    otracon:has_incipit "De Virgine autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.23 a doco:Paragraph ;
+    otracon:has_explicit "nisi Cesarem 54." ;
+    otracon:has_incipit "Jesus Christus autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.24 a doco:Paragraph ;
+    otracon:has_explicit "Hystoriis Romanorum 56" ;
+    otracon:has_incipit "Nota ergo quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.25 a doco:Paragraph ;
+    otracon:has_explicit "faciliter aduerteret falsitatem." ;
+    otracon:has_incipit "Permisit igitur Spiritus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.26 a doco:Paragraph ;
+    otracon:has_explicit "ante Alchoranum 62." ;
+    otracon:has_incipit "De Christo uero" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.27 a doco:Paragraph ;
+    otracon:has_explicit "longum esset prosequi." ;
+    otracon:has_incipit "Preterea dicit de" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.28 a doco:Paragraph ;
+    otracon:has_explicit "non combureretur 70." ;
+    otracon:has_incipit "De Deo uero" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.29 a doco:Paragraph ;
+    otracon:has_explicit "mysterio Trinitatis 76." ;
+    otracon:has_incipit "Dicunt igitur Christiani" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.3 a doco:Paragraph ;
+    otracon:has_explicit "dici aliqua falsitas." ;
+    otracon:has_incipit "Nonum considerare oportet" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.30 a doco:Paragraph ;
+    otracon:has_explicit "conceptio contradicit ei." ;
+    otracon:has_incipit "Preterea dicit Mahometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.31 a doco:Paragraph ;
+    otracon:has_explicit "distinctionem aliquam personarum." ;
+    otracon:has_incipit "Preterea, Mahometus dicit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.32 a doco:Paragraph ;
+    otracon:has_explicit "patentes continet falsitates." ;
+    otracon:has_incipit "Ponit e etiam" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.33 a doco:Paragraph ;
+    otracon:has_explicit "hic pauca referam." ;
+    otracon:has_incipit "Inueniuntur preterea quedam" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.34 a doco:Paragraph ;
+    otracon:has_explicit "et sustinet celum." ;
+    otracon:has_incipit "Vnum est quia" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.35 a doco:Paragraph ;
+    otracon:has_explicit "sicut modo cernimus." ;
+    otracon:has_incipit "Dicit etiam quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.36 a doco:Paragraph ;
+    otracon:has_explicit "porci est illicita." ;
+    otracon:has_incipit "Preterea, dicit quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.37 a doco:Paragraph ;
+    otracon:has_explicit "omnia etc. 86." ;
+    otracon:has_incipit "Dicit iterum in" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.38 a doco:Paragraph ;
+    otracon:has_explicit "et uanum 88." ;
+    otracon:has_incipit "Ipse etiam Mahometus" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.39 a doco:Paragraph ;
+    otracon:has_explicit "litteras transferatur 90." ;
+    otracon:has_incipit "Ego autem pro" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.4 a doco:Paragraph ;
+    otracon:has_explicit "sine Deo 4." ;
+    otracon:has_incipit "In Alchorano autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.40 a doco:Paragraph ;
+    otracon:has_explicit "ignominia reputatur 92." ;
+    otracon:has_incipit "Scimus autem quod" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.5 a doco:Paragraph ;
+    otracon:has_explicit "eius »> 8." ;
+    otracon:has_incipit "Nam sicut dicit" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.6 a doco:Paragraph ;
+    otracon:has_explicit "et de Deo." ;
+    otracon:has_incipit "Reducuntur autem principales" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.7 a doco:Paragraph ;
+    otracon:has_explicit "non paruam 12." ;
+    otracon:has_incipit "De se quidem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.8 a doco:Paragraph ;
+    otracon:has_explicit "est manifesta blasphemia." ;
+    otracon:has_incipit "De se etiam" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Ricc_CLS__B.9.9 a doco:Paragraph ;
+    otracon:has_explicit "15 et simplicissimus." ;
+    otracon:has_incipit "De Christianis autem" ;
+    crm:R15i_is_fragment_of otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum .
+
+otradata:Riccoldo_da_Monte_di_Croce__Contra_Legem_Sarracenorum a lrmoo:F2_Expression .
+

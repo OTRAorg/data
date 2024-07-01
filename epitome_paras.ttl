@@ -1,0 +1,2912 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix doco: <http://purl.org/spar/doco/> .
+@prefix hdn: <https://hdn.dantenetwork.it/ontology#> .
+@prefix lrmoo: <http://iflastandards.info/ns/lrm/lrmoo/> .
+@prefix otracon: <http://otra-ontologies.com/ConnectiveOntology#> .
+@prefix otradata: <http://otra-ontologies.com/data/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+otradata:Epitome_bellorum__B.0.0_30-40 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.0_30-40_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.0_30-40_end .
+
+otradata:Epitome_bellorum__B.0.0_30-40_end a hdn:Position ;
+    hdn:positionOffset 40 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.0 .
+
+otradata:Epitome_bellorum__B.0.0_30-40_start a hdn:Position ;
+    hdn:positionOffset 30 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.0 .
+
+otradata:Epitome_bellorum__B.0.0_41-48 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.0_41-48_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.0_41-48_end .
+
+otradata:Epitome_bellorum__B.0.0_41-48_end a hdn:Position ;
+    hdn:positionOffset 48 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.0 .
+
+otradata:Epitome_bellorum__B.0.0_41-48_start a hdn:Position ;
+    hdn:positionOffset 41 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.0 .
+
+otradata:Epitome_bellorum__B.0.1_16-30 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.1_16-30_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.1_16-30_end .
+
+otradata:Epitome_bellorum__B.0.1_16-30_end a hdn:Position ;
+    hdn:positionOffset 30 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.1 .
+
+otradata:Epitome_bellorum__B.0.1_16-30_start a hdn:Position ;
+    hdn:positionOffset 16 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.1 .
+
+otradata:Epitome_bellorum__B.0.1_31-70 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.1_31-70_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.1_31-70_end .
+
+otradata:Epitome_bellorum__B.0.1_31-70_end a hdn:Position ;
+    hdn:positionOffset 70 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.1 .
+
+otradata:Epitome_bellorum__B.0.1_31-70_start a hdn:Position ;
+    hdn:positionOffset 31 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.1 .
+
+otradata:Epitome_bellorum__B.0.1_71-112 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.1_71-112_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.1_71-112_end .
+
+otradata:Epitome_bellorum__B.0.1_71-112_end a hdn:Position ;
+    hdn:positionOffset 112 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.1 .
+
+otradata:Epitome_bellorum__B.0.1_71-112_start a hdn:Position ;
+    hdn:positionOffset 71 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.1 .
+
+otradata:Epitome_bellorum__B.0.2_1-60 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.2_1-60_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.2_1-60_end .
+
+otradata:Epitome_bellorum__B.0.2_1-60_end a hdn:Position ;
+    hdn:positionOffset 60 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.2 .
+
+otradata:Epitome_bellorum__B.0.2_1-60_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.2 .
+
+otradata:Epitome_bellorum__B.0.2_61-80 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.2_61-80_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.2_61-80_end .
+
+otradata:Epitome_bellorum__B.0.2_61-80_end a hdn:Position ;
+    hdn:positionOffset 80 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.2 .
+
+otradata:Epitome_bellorum__B.0.2_61-80_start a hdn:Position ;
+    hdn:positionOffset 61 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.2 .
+
+otradata:Epitome_bellorum__B.0.2_81-92 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.2_81-92_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.2_81-92_end .
+
+otradata:Epitome_bellorum__B.0.2_81-92_end a hdn:Position ;
+    hdn:positionOffset 92 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.2 .
+
+otradata:Epitome_bellorum__B.0.2_81-92_start a hdn:Position ;
+    hdn:positionOffset 81 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.2 .
+
+otradata:Epitome_bellorum__B.0.3_1-21 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.3_1-21_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.3_1-21_end .
+
+otradata:Epitome_bellorum__B.0.3_1-21_end a hdn:Position ;
+    hdn:positionOffset 21 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_1-21_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_119-140 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.3_119-140_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.3_119-140_end .
+
+otradata:Epitome_bellorum__B.0.3_119-140_end a hdn:Position ;
+    hdn:positionOffset 140 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_119-140_start a hdn:Position ;
+    hdn:positionOffset 119 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_141-180 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.3_141-180_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.3_141-180_end .
+
+otradata:Epitome_bellorum__B.0.3_141-180_end a hdn:Position ;
+    hdn:positionOffset 180 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_141-180_start a hdn:Position ;
+    hdn:positionOffset 141 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_181-204 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.3_181-204_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.3_181-204_end .
+
+otradata:Epitome_bellorum__B.0.3_181-204_end a hdn:Position ;
+    hdn:positionOffset 204 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_181-204_start a hdn:Position ;
+    hdn:positionOffset 181 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_205-264 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.3_205-264_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.3_205-264_end .
+
+otradata:Epitome_bellorum__B.0.3_205-264_end a hdn:Position ;
+    hdn:positionOffset 264 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_205-264_start a hdn:Position ;
+    hdn:positionOffset 205 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_22-64 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.3_22-64_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.3_22-64_end .
+
+otradata:Epitome_bellorum__B.0.3_22-64_end a hdn:Position ;
+    hdn:positionOffset 64 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_22-64_start a hdn:Position ;
+    hdn:positionOffset 22 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_81-118 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.3_81-118_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.3_81-118_end .
+
+otradata:Epitome_bellorum__B.0.3_81-118_end a hdn:Position ;
+    hdn:positionOffset 118 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.3_81-118_start a hdn:Position ;
+    hdn:positionOffset 81 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.3 .
+
+otradata:Epitome_bellorum__B.0.4_1-34 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.4_1-34_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.4_1-34_end .
+
+otradata:Epitome_bellorum__B.0.4_1-34_end a hdn:Position ;
+    hdn:positionOffset 34 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.4 .
+
+otradata:Epitome_bellorum__B.0.4_1-34_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.4 .
+
+otradata:Epitome_bellorum__B.0.4_35-85 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.4_35-85_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.4_35-85_end .
+
+otradata:Epitome_bellorum__B.0.4_35-85_end a hdn:Position ;
+    hdn:positionOffset 85 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.4 .
+
+otradata:Epitome_bellorum__B.0.4_35-85_start a hdn:Position ;
+    hdn:positionOffset 35 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.4 .
+
+otradata:Epitome_bellorum__B.0.4_87-113 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.4_87-113_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.4_87-113_end .
+
+otradata:Epitome_bellorum__B.0.4_87-113_end a hdn:Position ;
+    hdn:positionOffset 113 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.4 .
+
+otradata:Epitome_bellorum__B.0.4_87-113_start a hdn:Position ;
+    hdn:positionOffset 87 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.4 .
+
+otradata:Epitome_bellorum__B.0.5_1-58 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.5_1-58_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.5_1-58_end .
+
+otradata:Epitome_bellorum__B.0.5_1-58_end a hdn:Position ;
+    hdn:positionOffset 58 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.5 .
+
+otradata:Epitome_bellorum__B.0.5_1-58_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.5 .
+
+otradata:Epitome_bellorum__B.0.5_59-81 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.5_59-81_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.5_59-81_end .
+
+otradata:Epitome_bellorum__B.0.5_59-81_end a hdn:Position ;
+    hdn:positionOffset 81 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.5 .
+
+otradata:Epitome_bellorum__B.0.5_59-81_start a hdn:Position ;
+    hdn:positionOffset 59 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.5 .
+
+otradata:Epitome_bellorum__B.0.5_82-97 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.5_82-97_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.5_82-97_end .
+
+otradata:Epitome_bellorum__B.0.5_82-97_end a hdn:Position ;
+    hdn:positionOffset 97 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.5 .
+
+otradata:Epitome_bellorum__B.0.5_82-97_start a hdn:Position ;
+    hdn:positionOffset 82 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.5 .
+
+otradata:Epitome_bellorum__B.0.6_1-38 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_1-38_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_1-38_end .
+
+otradata:Epitome_bellorum__B.0.6_1-38_end a hdn:Position ;
+    hdn:positionOffset 38 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_1-38_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_142-198 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_142-198_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_142-198_end .
+
+otradata:Epitome_bellorum__B.0.6_142-198_end a hdn:Position ;
+    hdn:positionOffset 198 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_142-198_start a hdn:Position ;
+    hdn:positionOffset 142 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_199-248 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_199-248_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_199-248_end .
+
+otradata:Epitome_bellorum__B.0.6_199-248_end a hdn:Position ;
+    hdn:positionOffset 248 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_199-248_start a hdn:Position ;
+    hdn:positionOffset 199 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_249-268 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_249-268_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_249-268_end .
+
+otradata:Epitome_bellorum__B.0.6_249-268_end a hdn:Position ;
+    hdn:positionOffset 268 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_249-268_start a hdn:Position ;
+    hdn:positionOffset 249 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_269-283 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_269-283_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_269-283_end .
+
+otradata:Epitome_bellorum__B.0.6_269-283_end a hdn:Position ;
+    hdn:positionOffset 283 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_269-283_start a hdn:Position ;
+    hdn:positionOffset 269 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_284-301 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_284-301_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_284-301_end .
+
+otradata:Epitome_bellorum__B.0.6_284-301_end a hdn:Position ;
+    hdn:positionOffset 301 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_284-301_start a hdn:Position ;
+    hdn:positionOffset 284 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_302-401 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_302-401_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_302-401_end .
+
+otradata:Epitome_bellorum__B.0.6_302-401_end a hdn:Position ;
+    hdn:positionOffset 401 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_302-401_start a hdn:Position ;
+    hdn:positionOffset 302 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_39-63 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_39-63_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_39-63_end .
+
+otradata:Epitome_bellorum__B.0.6_39-63_end a hdn:Position ;
+    hdn:positionOffset 63 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_39-63_start a hdn:Position ;
+    hdn:positionOffset 39 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_402-417 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_402-417_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_402-417_end .
+
+otradata:Epitome_bellorum__B.0.6_402-417_end a hdn:Position ;
+    hdn:positionOffset 417 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_402-417_start a hdn:Position ;
+    hdn:positionOffset 402 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_418-423 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_418-423_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_418-423_end .
+
+otradata:Epitome_bellorum__B.0.6_418-423_end a hdn:Position ;
+    hdn:positionOffset 423 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_418-423_start a hdn:Position ;
+    hdn:positionOffset 418 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_64-73 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_64-73_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_64-73_end .
+
+otradata:Epitome_bellorum__B.0.6_64-73_end a hdn:Position ;
+    hdn:positionOffset 73 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_64-73_start a hdn:Position ;
+    hdn:positionOffset 64 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_74-141 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.6_74-141_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.6_74-141_end .
+
+otradata:Epitome_bellorum__B.0.6_74-141_end a hdn:Position ;
+    hdn:positionOffset 141 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.6_74-141_start a hdn:Position ;
+    hdn:positionOffset 74 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.6 .
+
+otradata:Epitome_bellorum__B.0.7_1-33 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.7_1-33_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.7_1-33_end .
+
+otradata:Epitome_bellorum__B.0.7_1-33_end a hdn:Position ;
+    hdn:positionOffset 33 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_1-33_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_103-115 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.7_103-115_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.7_103-115_end .
+
+otradata:Epitome_bellorum__B.0.7_103-115_end a hdn:Position ;
+    hdn:positionOffset 115 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_103-115_start a hdn:Position ;
+    hdn:positionOffset 103 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_117-139 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.7_117-139_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.7_117-139_end .
+
+otradata:Epitome_bellorum__B.0.7_117-139_end a hdn:Position ;
+    hdn:positionOffset 139 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_117-139_start a hdn:Position ;
+    hdn:positionOffset 117 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_34-79 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.7_34-79_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.7_34-79_end .
+
+otradata:Epitome_bellorum__B.0.7_34-79_end a hdn:Position ;
+    hdn:positionOffset 79 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_34-79_start a hdn:Position ;
+    hdn:positionOffset 34 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_80-102 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.7_80-102_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.7_80-102_end .
+
+otradata:Epitome_bellorum__B.0.7_80-102_end a hdn:Position ;
+    hdn:positionOffset 102 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.7_80-102_start a hdn:Position ;
+    hdn:positionOffset 80 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.7 .
+
+otradata:Epitome_bellorum__B.0.8_1-24 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.8_1-24_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.8_1-24_end .
+
+otradata:Epitome_bellorum__B.0.8_1-24_end a hdn:Position ;
+    hdn:positionOffset 24 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_1-24_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_26-40 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.8_26-40_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.8_26-40_end .
+
+otradata:Epitome_bellorum__B.0.8_26-40_end a hdn:Position ;
+    hdn:positionOffset 40 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_26-40_start a hdn:Position ;
+    hdn:positionOffset 26 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_42-62 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.8_42-62_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.8_42-62_end .
+
+otradata:Epitome_bellorum__B.0.8_42-62_end a hdn:Position ;
+    hdn:positionOffset 62 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_42-62_start a hdn:Position ;
+    hdn:positionOffset 42 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_63-90 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.8_63-90_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.8_63-90_end .
+
+otradata:Epitome_bellorum__B.0.8_63-90_end a hdn:Position ;
+    hdn:positionOffset 90 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_63-90_start a hdn:Position ;
+    hdn:positionOffset 63 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_91-99 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.0.8_91-99_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.0.8_91-99_end .
+
+otradata:Epitome_bellorum__B.0.8_91-99_end a hdn:Position ;
+    hdn:positionOffset 99 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.0.8_91-99_start a hdn:Position ;
+    hdn:positionOffset 91 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.0.8 .
+
+otradata:Epitome_bellorum__B.1.0_1-28 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.0_1-28_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.0_1-28_end .
+
+otradata:Epitome_bellorum__B.1.0_1-28_end a hdn:Position ;
+    hdn:positionOffset 28 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.0 .
+
+otradata:Epitome_bellorum__B.1.0_1-28_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.0 .
+
+otradata:Epitome_bellorum__B.1.0_30-39 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.0_30-39_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.0_30-39_end .
+
+otradata:Epitome_bellorum__B.1.0_30-39_end a hdn:Position ;
+    hdn:positionOffset 39 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.0 .
+
+otradata:Epitome_bellorum__B.1.0_30-39_start a hdn:Position ;
+    hdn:positionOffset 30 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.0 .
+
+otradata:Epitome_bellorum__B.1.0_40-64 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.0_40-64_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.0_40-64_end .
+
+otradata:Epitome_bellorum__B.1.0_40-64_end a hdn:Position ;
+    hdn:positionOffset 64 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.0 .
+
+otradata:Epitome_bellorum__B.1.0_40-64_start a hdn:Position ;
+    hdn:positionOffset 40 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.0 .
+
+otradata:Epitome_bellorum__B.1.0_65-80 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.0_65-80_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.0_65-80_end .
+
+otradata:Epitome_bellorum__B.1.0_65-80_end a hdn:Position ;
+    hdn:positionOffset 80 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.0 .
+
+otradata:Epitome_bellorum__B.1.0_65-80_start a hdn:Position ;
+    hdn:positionOffset 65 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.0 .
+
+otradata:Epitome_bellorum__B.1.10_1-16 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.10_1-16_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.10_1-16_end .
+
+otradata:Epitome_bellorum__B.1.10_1-16_end a hdn:Position ;
+    hdn:positionOffset 16 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.10 .
+
+otradata:Epitome_bellorum__B.1.10_1-16_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.10 .
+
+otradata:Epitome_bellorum__B.1.11_1-14 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.11_1-14_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.11_1-14_end .
+
+otradata:Epitome_bellorum__B.1.11_1-14_end a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.11 .
+
+otradata:Epitome_bellorum__B.1.11_1-14_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.11 .
+
+otradata:Epitome_bellorum__B.1.12_1-15 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.12_1-15_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.12_1-15_end .
+
+otradata:Epitome_bellorum__B.1.12_1-15_end a hdn:Position ;
+    hdn:positionOffset 15 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_1-15_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_16-37 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.12_16-37_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.12_16-37_end .
+
+otradata:Epitome_bellorum__B.1.12_16-37_end a hdn:Position ;
+    hdn:positionOffset 37 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_16-37_start a hdn:Position ;
+    hdn:positionOffset 16 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_38-53 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.12_38-53_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.12_38-53_end .
+
+otradata:Epitome_bellorum__B.1.12_38-53_end a hdn:Position ;
+    hdn:positionOffset 53 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_38-53_start a hdn:Position ;
+    hdn:positionOffset 38 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_55-73 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.12_55-73_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.12_55-73_end .
+
+otradata:Epitome_bellorum__B.1.12_55-73_end a hdn:Position ;
+    hdn:positionOffset 73 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_55-73_start a hdn:Position ;
+    hdn:positionOffset 55 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_74-90 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.12_74-90_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.12_74-90_end .
+
+otradata:Epitome_bellorum__B.1.12_74-90_end a hdn:Position ;
+    hdn:positionOffset 90 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_74-90_start a hdn:Position ;
+    hdn:positionOffset 74 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_92-119 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.12_92-119_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.12_92-119_end .
+
+otradata:Epitome_bellorum__B.1.12_92-119_end a hdn:Position ;
+    hdn:positionOffset 119 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.12_92-119_start a hdn:Position ;
+    hdn:positionOffset 92 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.12 .
+
+otradata:Epitome_bellorum__B.1.13_1-36 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.13_1-36_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.13_1-36_end .
+
+otradata:Epitome_bellorum__B.1.13_1-36_end a hdn:Position ;
+    hdn:positionOffset 36 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.13 .
+
+otradata:Epitome_bellorum__B.1.13_1-36_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.13 .
+
+otradata:Epitome_bellorum__B.1.13_37-57 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.13_37-57_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.13_37-57_end .
+
+otradata:Epitome_bellorum__B.1.13_37-57_end a hdn:Position ;
+    hdn:positionOffset 57 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.13 .
+
+otradata:Epitome_bellorum__B.1.13_37-57_start a hdn:Position ;
+    hdn:positionOffset 37 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.13 .
+
+otradata:Epitome_bellorum__B.1.13_67-91 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.13_67-91_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.13_67-91_end .
+
+otradata:Epitome_bellorum__B.1.13_67-91_end a hdn:Position ;
+    hdn:positionOffset 91 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.13 .
+
+otradata:Epitome_bellorum__B.1.13_67-91_start a hdn:Position ;
+    hdn:positionOffset 67 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.13 .
+
+otradata:Epitome_bellorum__B.1.13_92-120 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.13_92-120_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.13_92-120_end .
+
+otradata:Epitome_bellorum__B.1.13_92-120_end a hdn:Position ;
+    hdn:positionOffset 120 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.13 .
+
+otradata:Epitome_bellorum__B.1.13_92-120_start a hdn:Position ;
+    hdn:positionOffset 92 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.13 .
+
+otradata:Epitome_bellorum__B.1.14_1-12 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.14_1-12_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.14_1-12_end .
+
+otradata:Epitome_bellorum__B.1.14_1-12_end a hdn:Position ;
+    hdn:positionOffset 12 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.14 .
+
+otradata:Epitome_bellorum__B.1.14_1-12_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.14 .
+
+otradata:Epitome_bellorum__B.1.14_13-38 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.14_13-38_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.14_13-38_end .
+
+otradata:Epitome_bellorum__B.1.14_13-38_end a hdn:Position ;
+    hdn:positionOffset 38 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.14 .
+
+otradata:Epitome_bellorum__B.1.14_13-38_start a hdn:Position ;
+    hdn:positionOffset 13 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.14 .
+
+otradata:Epitome_bellorum__B.1.14_39-49 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.14_39-49_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.14_39-49_end .
+
+otradata:Epitome_bellorum__B.1.14_39-49_end a hdn:Position ;
+    hdn:positionOffset 49 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.14 .
+
+otradata:Epitome_bellorum__B.1.14_39-49_start a hdn:Position ;
+    hdn:positionOffset 39 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.14 .
+
+otradata:Epitome_bellorum__B.1.14_53-62 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.14_53-62_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.14_53-62_end .
+
+otradata:Epitome_bellorum__B.1.14_53-62_end a hdn:Position ;
+    hdn:positionOffset 62 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.14 .
+
+otradata:Epitome_bellorum__B.1.14_53-62_start a hdn:Position ;
+    hdn:positionOffset 53 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.14 .
+
+otradata:Epitome_bellorum__B.1.15_1-54 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.15_1-54_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.15_1-54_end .
+
+otradata:Epitome_bellorum__B.1.15_1-54_end a hdn:Position ;
+    hdn:positionOffset 54 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.15 .
+
+otradata:Epitome_bellorum__B.1.15_1-54_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.15 .
+
+otradata:Epitome_bellorum__B.1.15_55-68 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.15_55-68_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.15_55-68_end .
+
+otradata:Epitome_bellorum__B.1.15_55-68_end a hdn:Position ;
+    hdn:positionOffset 68 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.15 .
+
+otradata:Epitome_bellorum__B.1.15_55-68_start a hdn:Position ;
+    hdn:positionOffset 55 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.15 .
+
+otradata:Epitome_bellorum__B.1.16_1-11 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.16_1-11_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.16_1-11_end .
+
+otradata:Epitome_bellorum__B.1.16_1-11_end a hdn:Position ;
+    hdn:positionOffset 11 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_1-11_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_102-121 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.16_102-121_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.16_102-121_end .
+
+otradata:Epitome_bellorum__B.1.16_102-121_end a hdn:Position ;
+    hdn:positionOffset 121 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_102-121_start a hdn:Position ;
+    hdn:positionOffset 102 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_123-131 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.16_123-131_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.16_123-131_end .
+
+otradata:Epitome_bellorum__B.1.16_123-131_end a hdn:Position ;
+    hdn:positionOffset 131 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_123-131_start a hdn:Position ;
+    hdn:positionOffset 123 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_13-20 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.16_13-20_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.16_13-20_end .
+
+otradata:Epitome_bellorum__B.1.16_13-20_end a hdn:Position ;
+    hdn:positionOffset 20 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_13-20_start a hdn:Position ;
+    hdn:positionOffset 13 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_33-61 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.16_33-61_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.16_33-61_end .
+
+otradata:Epitome_bellorum__B.1.16_33-61_end a hdn:Position ;
+    hdn:positionOffset 61 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_33-61_start a hdn:Position ;
+    hdn:positionOffset 33 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_62-100 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.16_62-100_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.16_62-100_end .
+
+otradata:Epitome_bellorum__B.1.16_62-100_end a hdn:Position ;
+    hdn:positionOffset 100 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.16_62-100_start a hdn:Position ;
+    hdn:positionOffset 62 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.16 .
+
+otradata:Epitome_bellorum__B.1.17_1-16 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.17_1-16_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.17_1-16_end .
+
+otradata:Epitome_bellorum__B.1.17_1-16_end a hdn:Position ;
+    hdn:positionOffset 16 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.17 .
+
+otradata:Epitome_bellorum__B.1.17_1-16_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.17 .
+
+otradata:Epitome_bellorum__B.1.17_18-35 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.17_18-35_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.17_18-35_end .
+
+otradata:Epitome_bellorum__B.1.17_18-35_end a hdn:Position ;
+    hdn:positionOffset 35 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.17 .
+
+otradata:Epitome_bellorum__B.1.17_18-35_start a hdn:Position ;
+    hdn:positionOffset 18 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.17 .
+
+otradata:Epitome_bellorum__B.1.17_36-85 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.17_36-85_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.17_36-85_end .
+
+otradata:Epitome_bellorum__B.1.17_36-85_end a hdn:Position ;
+    hdn:positionOffset 85 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.17 .
+
+otradata:Epitome_bellorum__B.1.17_36-85_start a hdn:Position ;
+    hdn:positionOffset 36 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.17 .
+
+otradata:Epitome_bellorum__B.1.17_87-103 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.17_87-103_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.17_87-103_end .
+
+otradata:Epitome_bellorum__B.1.17_87-103_end a hdn:Position ;
+    hdn:positionOffset 103 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.17 .
+
+otradata:Epitome_bellorum__B.1.17_87-103_start a hdn:Position ;
+    hdn:positionOffset 87 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.17 .
+
+otradata:Epitome_bellorum__B.1.18_1-20 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.18_1-20_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.18_1-20_end .
+
+otradata:Epitome_bellorum__B.1.18_1-20_end a hdn:Position ;
+    hdn:positionOffset 20 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.18 .
+
+otradata:Epitome_bellorum__B.1.18_1-20_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.18 .
+
+otradata:Epitome_bellorum__B.1.18_34-41 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.18_34-41_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.18_34-41_end .
+
+otradata:Epitome_bellorum__B.1.18_34-41_end a hdn:Position ;
+    hdn:positionOffset 41 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.18 .
+
+otradata:Epitome_bellorum__B.1.18_34-41_start a hdn:Position ;
+    hdn:positionOffset 34 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.18 .
+
+otradata:Epitome_bellorum__B.1.19_1-19 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.19_1-19_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.19_1-19_end .
+
+otradata:Epitome_bellorum__B.1.19_1-19_end a hdn:Position ;
+    hdn:positionOffset 19 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.19 .
+
+otradata:Epitome_bellorum__B.1.19_1-19_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.19 .
+
+otradata:Epitome_bellorum__B.1.19_20-31 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.19_20-31_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.19_20-31_end .
+
+otradata:Epitome_bellorum__B.1.19_20-31_end a hdn:Position ;
+    hdn:positionOffset 31 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.19 .
+
+otradata:Epitome_bellorum__B.1.19_20-31_start a hdn:Position ;
+    hdn:positionOffset 20 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.19 .
+
+otradata:Epitome_bellorum__B.1.19_33-51 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.19_33-51_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.19_33-51_end .
+
+otradata:Epitome_bellorum__B.1.19_33-51_end a hdn:Position ;
+    hdn:positionOffset 51 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.19 .
+
+otradata:Epitome_bellorum__B.1.19_33-51_start a hdn:Position ;
+    hdn:positionOffset 33 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.19 .
+
+otradata:Epitome_bellorum__B.1.19_52-67 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.19_52-67_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.19_52-67_end .
+
+otradata:Epitome_bellorum__B.1.19_52-67_end a hdn:Position ;
+    hdn:positionOffset 67 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.19 .
+
+otradata:Epitome_bellorum__B.1.19_52-67_start a hdn:Position ;
+    hdn:positionOffset 52 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.19 .
+
+otradata:Epitome_bellorum__B.1.1_1-32 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.1_1-32_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.1_1-32_end .
+
+otradata:Epitome_bellorum__B.1.1_1-32_end a hdn:Position ;
+    hdn:positionOffset 32 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.1 .
+
+otradata:Epitome_bellorum__B.1.1_1-32_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.1 .
+
+otradata:Epitome_bellorum__B.1.1_33-65 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.1_33-65_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.1_33-65_end .
+
+otradata:Epitome_bellorum__B.1.1_33-65_end a hdn:Position ;
+    hdn:positionOffset 65 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.1 .
+
+otradata:Epitome_bellorum__B.1.1_33-65_start a hdn:Position ;
+    hdn:positionOffset 33 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.1 .
+
+otradata:Epitome_bellorum__B.1.20_1-16 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.20_1-16_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.20_1-16_end .
+
+otradata:Epitome_bellorum__B.1.20_1-16_end a hdn:Position ;
+    hdn:positionOffset 16 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.20 .
+
+otradata:Epitome_bellorum__B.1.20_1-16_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.20 .
+
+otradata:Epitome_bellorum__B.1.20_17-31 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.20_17-31_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.20_17-31_end .
+
+otradata:Epitome_bellorum__B.1.20_17-31_end a hdn:Position ;
+    hdn:positionOffset 31 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.20 .
+
+otradata:Epitome_bellorum__B.1.20_17-31_start a hdn:Position ;
+    hdn:positionOffset 17 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.20 .
+
+otradata:Epitome_bellorum__B.1.21_1-37 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.21_1-37_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.21_1-37_end .
+
+otradata:Epitome_bellorum__B.1.21_1-37_end a hdn:Position ;
+    hdn:positionOffset 37 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.21 .
+
+otradata:Epitome_bellorum__B.1.21_1-37_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.21 .
+
+otradata:Epitome_bellorum__B.1.21_38-58 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.21_38-58_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.21_38-58_end .
+
+otradata:Epitome_bellorum__B.1.21_38-58_end a hdn:Position ;
+    hdn:positionOffset 58 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.21 .
+
+otradata:Epitome_bellorum__B.1.21_38-58_start a hdn:Position ;
+    hdn:positionOffset 38 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.21 .
+
+otradata:Epitome_bellorum__B.1.21_59-64 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.21_59-64_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.21_59-64_end .
+
+otradata:Epitome_bellorum__B.1.21_59-64_end a hdn:Position ;
+    hdn:positionOffset 64 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.21 .
+
+otradata:Epitome_bellorum__B.1.21_59-64_start a hdn:Position ;
+    hdn:positionOffset 59 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.21 .
+
+otradata:Epitome_bellorum__B.1.22_1-59 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.22_1-59_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.22_1-59_end .
+
+otradata:Epitome_bellorum__B.1.22_1-59_end a hdn:Position ;
+    hdn:positionOffset 59 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.22 .
+
+otradata:Epitome_bellorum__B.1.22_1-59_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.22 .
+
+otradata:Epitome_bellorum__B.1.22_60-62 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.22_60-62_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.22_60-62_end .
+
+otradata:Epitome_bellorum__B.1.22_60-62_end a hdn:Position ;
+    hdn:positionOffset 62 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.22 .
+
+otradata:Epitome_bellorum__B.1.22_60-62_start a hdn:Position ;
+    hdn:positionOffset 60 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.22 .
+
+otradata:Epitome_bellorum__B.1.23_1-21 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.23_1-21_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.23_1-21_end .
+
+otradata:Epitome_bellorum__B.1.23_1-21_end a hdn:Position ;
+    hdn:positionOffset 21 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.23 .
+
+otradata:Epitome_bellorum__B.1.23_1-21_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.23 .
+
+otradata:Epitome_bellorum__B.1.23_22-89 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.23_22-89_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.23_22-89_end .
+
+otradata:Epitome_bellorum__B.1.23_22-89_end a hdn:Position ;
+    hdn:positionOffset 89 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.23 .
+
+otradata:Epitome_bellorum__B.1.23_22-89_start a hdn:Position ;
+    hdn:positionOffset 22 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.23 .
+
+otradata:Epitome_bellorum__B.1.23_None-None a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.23_None-None_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.23_None-None_end .
+
+otradata:Epitome_bellorum__B.1.23_None-None_end a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.23 .
+
+otradata:Epitome_bellorum__B.1.23_None-None_start a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.23 .
+
+otradata:Epitome_bellorum__B.1.24_1-14 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.24_1-14_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.24_1-14_end .
+
+otradata:Epitome_bellorum__B.1.24_1-14_end a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.24 .
+
+otradata:Epitome_bellorum__B.1.24_1-14_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.24 .
+
+otradata:Epitome_bellorum__B.1.24_15-66 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.24_15-66_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.24_15-66_end .
+
+otradata:Epitome_bellorum__B.1.24_15-66_end a hdn:Position ;
+    hdn:positionOffset 66 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.24 .
+
+otradata:Epitome_bellorum__B.1.24_15-66_start a hdn:Position ;
+    hdn:positionOffset 15 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.24 .
+
+otradata:Epitome_bellorum__B.1.24_67-72 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.24_67-72_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.24_67-72_end .
+
+otradata:Epitome_bellorum__B.1.24_67-72_end a hdn:Position ;
+    hdn:positionOffset 72 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.24 .
+
+otradata:Epitome_bellorum__B.1.24_67-72_start a hdn:Position ;
+    hdn:positionOffset 67 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.24 .
+
+otradata:Epitome_bellorum__B.1.24_None-None a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.24_None-None_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.24_None-None_end .
+
+otradata:Epitome_bellorum__B.1.24_None-None_end a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.24 .
+
+otradata:Epitome_bellorum__B.1.24_None-None_start a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.24 .
+
+otradata:Epitome_bellorum__B.1.25_1-14 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.25_1-14_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.25_1-14_end .
+
+otradata:Epitome_bellorum__B.1.25_1-14_end a hdn:Position ;
+    hdn:positionOffset 14 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.25 .
+
+otradata:Epitome_bellorum__B.1.25_1-14_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.25 .
+
+otradata:Epitome_bellorum__B.1.25_110-143 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.25_110-143_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.25_110-143_end .
+
+otradata:Epitome_bellorum__B.1.25_110-143_end a hdn:Position ;
+    hdn:positionOffset 143 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.25 .
+
+otradata:Epitome_bellorum__B.1.25_110-143_start a hdn:Position ;
+    hdn:positionOffset 110 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.25 .
+
+otradata:Epitome_bellorum__B.1.25_18-83 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.25_18-83_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.25_18-83_end .
+
+otradata:Epitome_bellorum__B.1.25_18-83_end a hdn:Position ;
+    hdn:positionOffset 83 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.25 .
+
+otradata:Epitome_bellorum__B.1.25_18-83_start a hdn:Position ;
+    hdn:positionOffset 18 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.25 .
+
+otradata:Epitome_bellorum__B.1.25_84-109 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.25_84-109_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.25_84-109_end .
+
+otradata:Epitome_bellorum__B.1.25_84-109_end a hdn:Position ;
+    hdn:positionOffset 109 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.25 .
+
+otradata:Epitome_bellorum__B.1.25_84-109_start a hdn:Position ;
+    hdn:positionOffset 84 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.25 .
+
+otradata:Epitome_bellorum__B.1.26_1-9 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.26_1-9_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.26_1-9_end .
+
+otradata:Epitome_bellorum__B.1.26_1-9_end a hdn:Position ;
+    hdn:positionOffset 9 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.26 .
+
+otradata:Epitome_bellorum__B.1.26_1-9_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.26 .
+
+otradata:Epitome_bellorum__B.1.26_11-30 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.26_11-30_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.26_11-30_end .
+
+otradata:Epitome_bellorum__B.1.26_11-30_end a hdn:Position ;
+    hdn:positionOffset 30 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.26 .
+
+otradata:Epitome_bellorum__B.1.26_11-30_start a hdn:Position ;
+    hdn:positionOffset 11 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.26 .
+
+otradata:Epitome_bellorum__B.1.27_1-15 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.27_1-15_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.27_1-15_end .
+
+otradata:Epitome_bellorum__B.1.27_1-15_end a hdn:Position ;
+    hdn:positionOffset 15 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.27 .
+
+otradata:Epitome_bellorum__B.1.27_1-15_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.27 .
+
+otradata:Epitome_bellorum__B.1.28_1-60 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.28_1-60_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.28_1-60_end .
+
+otradata:Epitome_bellorum__B.1.28_1-60_end a hdn:Position ;
+    hdn:positionOffset 60 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_1-60_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_134-201 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.28_134-201_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.28_134-201_end .
+
+otradata:Epitome_bellorum__B.1.28_134-201_end a hdn:Position ;
+    hdn:positionOffset 201 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_134-201_start a hdn:Position ;
+    hdn:positionOffset 134 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_199-283 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.28_199-283_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.28_199-283_end .
+
+otradata:Epitome_bellorum__B.1.28_199-283_end a hdn:Position ;
+    hdn:positionOffset 283 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_199-283_start a hdn:Position ;
+    hdn:positionOffset 199 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_284-303 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.28_284-303_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.28_284-303_end .
+
+otradata:Epitome_bellorum__B.1.28_284-303_end a hdn:Position ;
+    hdn:positionOffset 303 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_284-303_start a hdn:Position ;
+    hdn:positionOffset 284 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_61-133 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.28_61-133_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.28_61-133_end .
+
+otradata:Epitome_bellorum__B.1.28_61-133_end a hdn:Position ;
+    hdn:positionOffset 133 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.28_61-133_start a hdn:Position ;
+    hdn:positionOffset 61 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.28 .
+
+otradata:Epitome_bellorum__B.1.29_1-24 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.29_1-24_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.29_1-24_end .
+
+otradata:Epitome_bellorum__B.1.29_1-24_end a hdn:Position ;
+    hdn:positionOffset 24 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.29 .
+
+otradata:Epitome_bellorum__B.1.29_1-24_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.29 .
+
+otradata:Epitome_bellorum__B.1.29_25-31 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.29_25-31_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.29_25-31_end .
+
+otradata:Epitome_bellorum__B.1.29_25-31_end a hdn:Position ;
+    hdn:positionOffset 31 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.29 .
+
+otradata:Epitome_bellorum__B.1.29_25-31_start a hdn:Position ;
+    hdn:positionOffset 25 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.29 .
+
+otradata:Epitome_bellorum__B.1.29_32-64 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.29_32-64_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.29_32-64_end .
+
+otradata:Epitome_bellorum__B.1.29_32-64_end a hdn:Position ;
+    hdn:positionOffset 64 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.29 .
+
+otradata:Epitome_bellorum__B.1.29_32-64_start a hdn:Position ;
+    hdn:positionOffset 32 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.29 .
+
+otradata:Epitome_bellorum__B.1.29_65-93 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.29_65-93_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.29_65-93_end .
+
+otradata:Epitome_bellorum__B.1.29_65-93_end a hdn:Position ;
+    hdn:positionOffset 93 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.29 .
+
+otradata:Epitome_bellorum__B.1.29_65-93_start a hdn:Position ;
+    hdn:positionOffset 65 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.29 .
+
+otradata:Epitome_bellorum__B.1.2_1-55 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.2_1-55_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.2_1-55_end .
+
+otradata:Epitome_bellorum__B.1.2_1-55_end a hdn:Position ;
+    hdn:positionOffset 55 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.2 .
+
+otradata:Epitome_bellorum__B.1.2_1-55_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.2 .
+
+otradata:Epitome_bellorum__B.1.30_1-9 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.30_1-9_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.30_1-9_end .
+
+otradata:Epitome_bellorum__B.1.30_1-9_end a hdn:Position ;
+    hdn:positionOffset 9 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.30 .
+
+otradata:Epitome_bellorum__B.1.30_1-9_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.30 .
+
+otradata:Epitome_bellorum__B.1.31_1-12 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.31_1-12_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.31_1-12_end .
+
+otradata:Epitome_bellorum__B.1.31_1-12_end a hdn:Position ;
+    hdn:positionOffset 12 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_1-12_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_13-48 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.31_13-48_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.31_13-48_end .
+
+otradata:Epitome_bellorum__B.1.31_13-48_end a hdn:Position ;
+    hdn:positionOffset 48 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_13-48_start a hdn:Position ;
+    hdn:positionOffset 13 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_49-65 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.31_49-65_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.31_49-65_end .
+
+otradata:Epitome_bellorum__B.1.31_49-65_end a hdn:Position ;
+    hdn:positionOffset 65 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_49-65_start a hdn:Position ;
+    hdn:positionOffset 49 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_66-83 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.31_66-83_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.31_66-83_end .
+
+otradata:Epitome_bellorum__B.1.31_66-83_end a hdn:Position ;
+    hdn:positionOffset 83 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_66-83_start a hdn:Position ;
+    hdn:positionOffset 66 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_84-189 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.31_84-189_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.31_84-189_end .
+
+otradata:Epitome_bellorum__B.1.31_84-189_end a hdn:Position ;
+    hdn:positionOffset 189 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.31_84-189_start a hdn:Position ;
+    hdn:positionOffset 84 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.31 .
+
+otradata:Epitome_bellorum__B.1.32_1-28 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.32_1-28_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.32_1-28_end .
+
+otradata:Epitome_bellorum__B.1.32_1-28_end a hdn:Position ;
+    hdn:positionOffset 28 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.32 .
+
+otradata:Epitome_bellorum__B.1.32_1-28_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.32 .
+
+otradata:Epitome_bellorum__B.1.32_29-49 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.32_29-49_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.32_29-49_end .
+
+otradata:Epitome_bellorum__B.1.32_29-49_end a hdn:Position ;
+    hdn:positionOffset 49 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.32 .
+
+otradata:Epitome_bellorum__B.1.32_29-49_start a hdn:Position ;
+    hdn:positionOffset 29 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.32 .
+
+otradata:Epitome_bellorum__B.1.32_50-70 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.32_50-70_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.32_50-70_end .
+
+otradata:Epitome_bellorum__B.1.32_50-70_end a hdn:Position ;
+    hdn:positionOffset 70 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.32 .
+
+otradata:Epitome_bellorum__B.1.32_50-70_start a hdn:Position ;
+    hdn:positionOffset 50 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.32 .
+
+otradata:Epitome_bellorum__B.1.32_71-93 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.32_71-93_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.32_71-93_end .
+
+otradata:Epitome_bellorum__B.1.32_71-93_end a hdn:Position ;
+    hdn:positionOffset 93 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.32 .
+
+otradata:Epitome_bellorum__B.1.32_71-93_start a hdn:Position ;
+    hdn:positionOffset 71 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.32 .
+
+otradata:Epitome_bellorum__B.1.33_1-24 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.33_1-24_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.33_1-24_end .
+
+otradata:Epitome_bellorum__B.1.33_1-24_end a hdn:Position ;
+    hdn:positionOffset 24 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_1-24_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_121-136 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.33_121-136_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.33_121-136_end .
+
+otradata:Epitome_bellorum__B.1.33_121-136_end a hdn:Position ;
+    hdn:positionOffset 136 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_121-136_start a hdn:Position ;
+    hdn:positionOffset 121 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_137-160 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.33_137-160_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.33_137-160_end .
+
+otradata:Epitome_bellorum__B.1.33_137-160_end a hdn:Position ;
+    hdn:positionOffset 160 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_137-160_start a hdn:Position ;
+    hdn:positionOffset 137 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_161-175 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.33_161-175_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.33_161-175_end .
+
+otradata:Epitome_bellorum__B.1.33_161-175_end a hdn:Position ;
+    hdn:positionOffset 175 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_161-175_start a hdn:Position ;
+    hdn:positionOffset 161 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_35-55 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.33_35-55_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.33_35-55_end .
+
+otradata:Epitome_bellorum__B.1.33_35-55_end a hdn:Position ;
+    hdn:positionOffset 55 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_35-55_start a hdn:Position ;
+    hdn:positionOffset 35 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_56-78 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.33_56-78_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.33_56-78_end .
+
+otradata:Epitome_bellorum__B.1.33_56-78_end a hdn:Position ;
+    hdn:positionOffset 78 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_56-78_start a hdn:Position ;
+    hdn:positionOffset 56 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_79-120 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.33_79-120_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.33_79-120_end .
+
+otradata:Epitome_bellorum__B.1.33_79-120_end a hdn:Position ;
+    hdn:positionOffset 120 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.33_79-120_start a hdn:Position ;
+    hdn:positionOffset 79 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.33 .
+
+otradata:Epitome_bellorum__B.1.3_1-29 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.3_1-29_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.3_1-29_end .
+
+otradata:Epitome_bellorum__B.1.3_1-29_end a hdn:Position ;
+    hdn:positionOffset 29 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_1-29_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_118-134 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.3_118-134_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.3_118-134_end .
+
+otradata:Epitome_bellorum__B.1.3_118-134_end a hdn:Position ;
+    hdn:positionOffset 134 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_118-134_start a hdn:Position ;
+    hdn:positionOffset 118 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_31-71 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.3_31-71_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.3_31-71_end .
+
+otradata:Epitome_bellorum__B.1.3_31-71_end a hdn:Position ;
+    hdn:positionOffset 71 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_31-71_start a hdn:Position ;
+    hdn:positionOffset 31 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_73-86 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.3_73-86_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.3_73-86_end .
+
+otradata:Epitome_bellorum__B.1.3_73-86_end a hdn:Position ;
+    hdn:positionOffset 86 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_73-86_start a hdn:Position ;
+    hdn:positionOffset 73 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_88-116 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.3_88-116_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.3_88-116_end .
+
+otradata:Epitome_bellorum__B.1.3_88-116_end a hdn:Position ;
+    hdn:positionOffset 116 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_88-116_start a hdn:Position ;
+    hdn:positionOffset 88 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_None-None a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.3_None-None_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.3_None-None_end .
+
+otradata:Epitome_bellorum__B.1.3_None-None_end a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.3_None-None_start a hdn:Position ;
+    hdn:positionOffset "None"^^xsd:integer ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.3 .
+
+otradata:Epitome_bellorum__B.1.4_1-33 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.4_1-33_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.4_1-33_end .
+
+otradata:Epitome_bellorum__B.1.4_1-33_end a hdn:Position ;
+    hdn:positionOffset 33 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_1-33_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_34-53 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.4_34-53_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.4_34-53_end .
+
+otradata:Epitome_bellorum__B.1.4_34-53_end a hdn:Position ;
+    hdn:positionOffset 53 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_34-53_start a hdn:Position ;
+    hdn:positionOffset 34 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_54-66 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.4_54-66_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.4_54-66_end .
+
+otradata:Epitome_bellorum__B.1.4_54-66_end a hdn:Position ;
+    hdn:positionOffset 66 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_54-66_start a hdn:Position ;
+    hdn:positionOffset 54 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_68-79 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.4_68-79_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.4_68-79_end .
+
+otradata:Epitome_bellorum__B.1.4_68-79_end a hdn:Position ;
+    hdn:positionOffset 79 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_68-79_start a hdn:Position ;
+    hdn:positionOffset 68 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_81-101 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.4_81-101_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.4_81-101_end .
+
+otradata:Epitome_bellorum__B.1.4_81-101_end a hdn:Position ;
+    hdn:positionOffset 101 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.4_81-101_start a hdn:Position ;
+    hdn:positionOffset 81 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.4 .
+
+otradata:Epitome_bellorum__B.1.5_1-28 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.5_1-28_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.5_1-28_end .
+
+otradata:Epitome_bellorum__B.1.5_1-28_end a hdn:Position ;
+    hdn:positionOffset 28 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_1-28_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_37-55 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.5_37-55_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.5_37-55_end .
+
+otradata:Epitome_bellorum__B.1.5_37-55_end a hdn:Position ;
+    hdn:positionOffset 55 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_37-55_start a hdn:Position ;
+    hdn:positionOffset 37 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_56-75 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.5_56-75_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.5_56-75_end .
+
+otradata:Epitome_bellorum__B.1.5_56-75_end a hdn:Position ;
+    hdn:positionOffset 75 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_56-75_start a hdn:Position ;
+    hdn:positionOffset 56 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_76-96 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.5_76-96_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.5_76-96_end .
+
+otradata:Epitome_bellorum__B.1.5_76-96_end a hdn:Position ;
+    hdn:positionOffset 96 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_76-96_start a hdn:Position ;
+    hdn:positionOffset 76 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_97-148 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.5_97-148_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.5_97-148_end .
+
+otradata:Epitome_bellorum__B.1.5_97-148_end a hdn:Position ;
+    hdn:positionOffset 148 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.5_97-148_start a hdn:Position ;
+    hdn:positionOffset 97 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.5 .
+
+otradata:Epitome_bellorum__B.1.6_1-25 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.6_1-25_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.6_1-25_end .
+
+otradata:Epitome_bellorum__B.1.6_1-25_end a hdn:Position ;
+    hdn:positionOffset 25 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.6 .
+
+otradata:Epitome_bellorum__B.1.6_1-25_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.6 .
+
+otradata:Epitome_bellorum__B.1.6_26-46 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.6_26-46_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.6_26-46_end .
+
+otradata:Epitome_bellorum__B.1.6_26-46_end a hdn:Position ;
+    hdn:positionOffset 46 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.6 .
+
+otradata:Epitome_bellorum__B.1.6_26-46_start a hdn:Position ;
+    hdn:positionOffset 26 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.6 .
+
+otradata:Epitome_bellorum__B.1.7_1-12 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.7_1-12_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.7_1-12_end .
+
+otradata:Epitome_bellorum__B.1.7_1-12_end a hdn:Position ;
+    hdn:positionOffset 12 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_1-12_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_1-27 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.7_1-27_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.7_1-27_end .
+
+otradata:Epitome_bellorum__B.1.7_1-27_end a hdn:Position ;
+    hdn:positionOffset 27 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_1-27_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_13-45 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.7_13-45_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.7_13-45_end .
+
+otradata:Epitome_bellorum__B.1.7_13-45_end a hdn:Position ;
+    hdn:positionOffset 45 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_13-45_start a hdn:Position ;
+    hdn:positionOffset 13 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_28-48 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.7_28-48_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.7_28-48_end .
+
+otradata:Epitome_bellorum__B.1.7_28-48_end a hdn:Position ;
+    hdn:positionOffset 48 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_28-48_start a hdn:Position ;
+    hdn:positionOffset 28 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_47-64 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.7_47-64_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.7_47-64_end .
+
+otradata:Epitome_bellorum__B.1.7_47-64_end a hdn:Position ;
+    hdn:positionOffset 64 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.7_47-64_start a hdn:Position ;
+    hdn:positionOffset 47 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.7 .
+
+otradata:Epitome_bellorum__B.1.8_1-25 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.8_1-25_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.8_1-25_end .
+
+otradata:Epitome_bellorum__B.1.8_1-25_end a hdn:Position ;
+    hdn:positionOffset 25 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.8 .
+
+otradata:Epitome_bellorum__B.1.8_1-25_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.8 .
+
+otradata:Epitome_bellorum__B.1.8_26-34 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.8_26-34_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.8_26-34_end .
+
+otradata:Epitome_bellorum__B.1.8_26-34_end a hdn:Position ;
+    hdn:positionOffset 34 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.8 .
+
+otradata:Epitome_bellorum__B.1.8_26-34_start a hdn:Position ;
+    hdn:positionOffset 26 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.8 .
+
+otradata:Epitome_bellorum__B.1.9_1-7 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.9_1-7_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.9_1-7_end .
+
+otradata:Epitome_bellorum__B.1.9_1-7_end a hdn:Position ;
+    hdn:positionOffset 7 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.9 .
+
+otradata:Epitome_bellorum__B.1.9_1-7_start a hdn:Position ;
+    hdn:positionOffset 1 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.9 .
+
+otradata:Epitome_bellorum__B.1.9_8-16 a hdn:TextFragment ;
+    hdn:fromPosition otradata:Epitome_bellorum__B.1.9_8-16_start ;
+    hdn:toPosition otradata:Epitome_bellorum__B.1.9_8-16_end .
+
+otradata:Epitome_bellorum__B.1.9_8-16_end a hdn:Position ;
+    hdn:positionOffset 16 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.9 .
+
+otradata:Epitome_bellorum__B.1.9_8-16_start a hdn:Position ;
+    hdn:positionOffset 8 ;
+    hdn:positionUnit otradata:Epitome_bellorum__B.1.9 .
+
+otradata:Epitome_bellorum__S.0.0.0 a otracon:claim ;
+    rdfs:label "At the request of Boniface III, Emperor Phocas declared the Roman See to be the head of all churches" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.0_30-40 .
+
+otradata:Epitome_bellorum__S.0.0.1 a otracon:claim ;
+    rdfs:label "Previous to the year year 610 AD, the Church of Constantinople  claimed to be the first among all churches" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.0_41-48 .
+
+otradata:Epitome_bellorum__S.0.1.0 a otracon:claim ;
+    rdfs:label "Muhammad, known as a false prophet, deceived the Hagarenes or Ishmaelites, who are also known as Saracens" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.1_16-30 .
+
+otradata:Epitome_bellorum__S.0.1.1 a otracon:claim ;
+    rdfs:label "Muhammad served as a vehicle of revenge for a disgruntled Roman cleric" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.1_31-70 .
+
+otradata:Epitome_bellorum__S.0.1.2 a otracon:claim ;
+    rdfs:label "The disgruntled cleric deceived the masses by training a dove to eat out of Muhammad's ear." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.1_71-112 .
+
+otradata:Epitome_bellorum__S.0.2.0 a otracon:claim ;
+    rdfs:label "By training the dove, the cleric made it seem as if Muhammad received messages from God through the Holy Spirit." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.2_1-60 .
+
+otradata:Epitome_bellorum__S.0.2.1 a otracon:claim ;
+    rdfs:label "Muhammad deceived the Saracens, who then invaded Persia and the Eastern Empire up to Alexandria" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.2_61-80 .
+
+otradata:Epitome_bellorum__S.0.2.2 a otracon:claim ;
+    rdfs:label "While it is widely said that Muhammad came to power through the deception with the dove, another explanation is more truthful." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.2_81-92 .
+
+otradata:Epitome_bellorum__S.0.3.0 a otracon:claim ;
+    rdfs:label "Muhammad created his own law and falsely claimed to receive it from the Holy Spirit in the form of a dove" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.3_1-21 .
+
+otradata:Epitome_bellorum__S.0.3.1 a otracon:claim ;
+    rdfs:label "Muhammad included parts of both Testaments in his law, which he learned during trading trips with Christians and Jews" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.3_22-64 .
+
+otradata:Epitome_bellorum__S.0.3.2 a otracon:claim ;
+    rdfs:label "Muhammad taught that Moses was a great prophet, but Christ was greater and born of the Virgin Mary" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.3_81-118 .
+
+otradata:Epitome_bellorum__S.0.3.3 a otracon:claim ;
+    rdfs:label "Muhammad teaches that Christ did not suffer and was not resurrected, but that it happened to someone with a similar look." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.3_119-140 .
+
+otradata:Epitome_bellorum__S.0.3.4 a otracon:claim ;
+    rdfs:label "Muhammad married a wealthy widow named Cadigan, who controlled a province called Coroconica, and gained leadership of the province" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.3_141-180 .
+
+otradata:Epitome_bellorum__S.0.3.5 a otracon:claim ;
+    rdfs:label "Muhammad claimed to be the promised Messiah, deceiving many Jews and Saracens" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.3_181-204 .
+
+otradata:Epitome_bellorum__S.0.3.6 a otracon:claim ;
+    rdfs:label "Muhammad often had epileptic fits, which he explained as visions of the Archangel Gabriel speaking to him." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.3_205-264 .
+
+otradata:Epitome_bellorum__S.0.4.0 a otracon:claim ;
+    rdfs:label "It is said that a monk named Sergius, who fell into Nestorian heresy and was expelled, instructed Muhammad in both Testaments" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.4_1-34 .
+
+otradata:Epitome_bellorum__S.0.4.1 a otracon:claim ;
+    rdfs:label "Muhammad was initially under the care of his uncle after becoming an orphan and, with all the Arabs, served idols for a long time" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.4_35-85 .
+
+otradata:Epitome_bellorum__S.0.4.2 a otracon:claim ;
+    rdfs:label "the Arabs, including Muhammad, worshiped Venus as a goddess, leading to Friday being revered among the Saracens like the Jewish Sabbath." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.4_87-113 .
+
+otradata:Epitome_bellorum__S.0.5.0 a otracon:claim ;
+    rdfs:label "When Muhammad realized that he could not subdue the Arab kingdom by force, he sought to make himself a prophet and to conquer them that way" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.5_1-58 .
+
+otradata:Epitome_bellorum__S.0.5.1 a otracon:claim ;
+    rdfs:label "Muhammad followed the advice of Sergius, who hid him and relayed his teachings to the people, calling him the Angel Gabriel" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.5_59-81 .
+
+otradata:Epitome_bellorum__S.0.5.2 a otracon:claim ;
+    rdfs:label "Muhammad eventually gained leadership of the people, who followed him out of belief and fear of the sword." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.5_82-97 .
+
+otradata:Epitome_bellorum__S.0.6.0 a otracon:claim ;
+    rdfs:label "Sergius instructed the Saracens to pray devoutly and frequently face south, instead of wearing monastic habits" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_1-38 .
+
+otradata:Epitome_bellorum__S.0.6.1 a otracon:claim ;
+    rdfs:label "Saracens wash their private parts, hands, arms, face, mouth, and ears before praying to be clean" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_39-63 .
+
+otradata:Epitome_bellorum__S.0.6.10 a otracon:claim ;
+    rdfs:label "theft is punished by whipping for the first two offenses, then hand and foot amputation" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_402-417 .
+
+otradata:Epitome_bellorum__S.0.6.11 a otracon:claim ;
+    rdfs:label "Saracens are forbidden from drinking wine." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_418-423 .
+
+otradata:Epitome_bellorum__S.0.6.2 a otracon:claim ;
+    rdfs:label "Saracens confess one God and Muhammad as his prophet when praying" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_64-73 .
+
+otradata:Epitome_bellorum__S.0.6.3 a otracon:claim ;
+    rdfs:label "Saracens fast for an entire month each year, eating only at night from dawn until sunset" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_74-141 .
+
+otradata:Epitome_bellorum__S.0.6.4 a otracon:claim ;
+    rdfs:label "annually, Saracens must visit Mecca, perform rituals, and circumambulate the Kaaba" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_142-198 .
+
+otradata:Epitome_bellorum__S.0.6.5 a otracon:claim ;
+    rdfs:label "Saracens are allowed four wives, can divorce and remarry up to three times, and have as many concubines as they can afford" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_199-248 .
+
+otradata:Epitome_bellorum__S.0.6.6 a otracon:claim ;
+    rdfs:label "Saracens can marry relatives to strengthen family bonds" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_249-268 .
+
+otradata:Epitome_bellorum__S.0.6.7 a otracon:claim ;
+    rdfs:label "legal disputes require witnesses for the plaintiff and oaths for the defendant" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_269-283 .
+
+otradata:Epitome_bellorum__S.0.6.8 a otracon:claim ;
+    rdfs:label "adultery is punished by stoning if caught with a married woman, or flogging if with another woman" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_284-301 .
+
+otradata:Epitome_bellorum__S.0.6.9 a otracon:claim ;
+    rdfs:label "Muhammad claimed divine permission to marry others' wives to produce virtuous offspring and forged a document to justify taking a servant's wife" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.6_302-401 .
+
+otradata:Epitome_bellorum__S.0.7.0 a otracon:claim ;
+    rdfs:label "Muhammad promised Paradise to those who follow the law, describing it as a garden with flowing waters, eternal comfort, and abundant food" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.7_1-33 .
+
+otradata:Epitome_bellorum__S.0.7.1 a otracon:claim ;
+    rdfs:label "Saracens in Paradise will wear silk, marry beautiful virgins, and enjoy delights served by angels with gold and silver vessels" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.7_34-79 .
+
+otradata:Epitome_bellorum__S.0.7.2 a otracon:claim ;
+    rdfs:label "in Paradise, there will be three rivers of milk, honey, and wine, along with beautiful angels" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.7_80-102 .
+
+otradata:Epitome_bellorum__S.0.7.3 a otracon:claim ;
+    rdfs:label "non-believers in God and Muhammad will face eternal punishment" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.7_103-115 .
+
+otradata:Epitome_bellorum__S.0.7.4 a otracon:claim ;
+    rdfs:label "those bound by sin who believe in God and Muhammad at the end will be saved on Judgment Day through Muhammad's intervention" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.7_117-139 .
+
+otradata:Epitome_bellorum__S.0.8.0 a otracon:claim ;
+    rdfs:label "Saracens claim that Muhammad had the prophetic spirit above all prophets and ten angels protecting him" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.8_1-24 .
+
+otradata:Epitome_bellorum__S.0.8.1 a otracon:claim ;
+    rdfs:label "Saracens believe that Muhammad's name existed before the creation of heaven and earth" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.8_26-40 .
+
+otradata:Epitome_bellorum__S.0.8.2 a otracon:claim ;
+    rdfs:label "Saracens falsely claim that Muhammad split and rejoined the moon" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.8_42-62 .
+
+otradata:Epitome_bellorum__S.0.8.3 a otracon:claim ;
+    rdfs:label "Saracens claim that a talking snake warned Muhammad about poison in its flesh" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.8_63-90 .
+
+otradata:Epitome_bellorum__S.0.8.4 a otracon:claim ;
+    rdfs:label "Despite being warned of poison at an earlier time, Muhammad died of poison after many years." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.0.8_91-99 .
+
+otradata:Epitome_bellorum__S.1.0.0 a otracon:claim ;
+    rdfs:label "The Church, burdened by various afflictions, trusts in divine help for liberation" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.0_1-28 .
+
+otradata:Epitome_bellorum__S.1.0.1 a otracon:claim ;
+    rdfs:label "initially, the Church suffered intense persecution from pagans, from Christ's passion until Constantine's time" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.0_30-39 .
+
+otradata:Epitome_bellorum__S.1.0.2 a otracon:claim ;
+    rdfs:label "for 310 years, Romans and other pagans killed many saints" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.0_40-64 .
+
+otradata:Epitome_bellorum__S.1.0.3 a otracon:claim ;
+    rdfs:label "the miracles of these saints led to a significant change, turning persecutors into founders of churches" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.0_65-80 .
+
+otradata:Epitome_bellorum__S.1.1.0 a otracon:claim ;
+    rdfs:label "The second persecution arose from various heresies by Arius, Sabellius, Macedonius, and others, who spread false teachings discordant with God's law" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.1_1-32 .
+
+otradata:Epitome_bellorum__S.1.1.1 a otracon:claim ;
+    rdfs:label "the Church was illuminated by Doctors like Jerome, Hilary, Augustine, and Gregory who shut down the heretics" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.1_33-65 .
+
+otradata:Epitome_bellorum__S.1.10.0 a otracon:claim ;
+    rdfs:label "Muhammad allows having multiple wives, concubines, and maidservants, as many as one can capture in war and support." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.10_1-16 .
+
+otradata:Epitome_bellorum__S.1.11.0 a otracon:claim ;
+    rdfs:label "Muhammad urges that all who do not believe in his law should be killed unless they pay a tribute." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.11_1-14 .
+
+otradata:Epitome_bellorum__S.1.12.0 a otracon:claim ;
+    rdfs:label "Muhammad appears to permit sexual relations with both men and women, using misleading explanations" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.12_1-15 .
+
+otradata:Epitome_bellorum__S.1.12.1 a otracon:claim ;
+    rdfs:label "Muhammad promotes sensuality over reason, catering to mundane people." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.12_16-37 .
+
+otradata:Epitome_bellorum__S.1.12.2 a otracon:claim ;
+    rdfs:label "Muhammad says nothing about virtues like humility, abstinence, charity, patience, or the ultimate purpose of life" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.12_38-53 .
+
+otradata:Epitome_bellorum__S.1.12.3 a otracon:claim ;
+    rdfs:label "Through not talking about virtues, Muhammad unveils his falsity, as the Old and New Testaments speak at length about them." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.12_55-73 .
+
+otradata:Epitome_bellorum__S.1.12.4 a otracon:claim ;
+    rdfs:label "Muhammad commanded that nothing contrary to his law be believed and ordered the killing of dissenters" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.12_74-90 .
+
+otradata:Epitome_bellorum__S.1.12.5 a otracon:claim ;
+    rdfs:label "Muhammad showed no miracles to support his claims, but used a sword, unlike true divine messengers." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.12_92-119 .
+
+otradata:Epitome_bellorum__S.1.13.0 a otracon:claim ;
+    rdfs:label "God's law is interconnected, with prophets speaking of each other and all prophesying about Christ" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.13_1-36 .
+
+otradata:Epitome_bellorum__S.1.13.1 a otracon:claim ;
+    rdfs:label "if the Saracens' law were God's law, prophets would have mentioned it" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.13_37-57 .
+
+otradata:Epitome_bellorum__S.1.13.2 a otracon:claim ;
+    rdfs:label "Christ said the Law and prophets lasted until John, indicating no general prophet would come after" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.13_67-91 .
+
+otradata:Epitome_bellorum__S.1.13.3 a otracon:claim ;
+    rdfs:label "Muhammad claimed to be a general prophet, which Christians deny, but he gained a following very quickly." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.13_92-120 .
+
+otradata:Epitome_bellorum__S.1.14.0 a otracon:claim ;
+    rdfs:label "Against the Christian position, Saracens claim Moses and other prophets prophesied about Muhammad" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.14_1-12 .
+
+otradata:Epitome_bellorum__S.1.14.1 a otracon:claim ;
+    rdfs:label "Saracens believe Christ explicitly mentioned Muhammad by name, saying a messenger named Muhammad would come after him" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.14_13-38 .
+
+otradata:Epitome_bellorum__S.1.14.2 a otracon:claim ;
+    rdfs:label "Saracens claim Jews corrupted Moses's law, and Christians corrupted the Gospel" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.14_39-49 .
+
+otradata:Epitome_bellorum__S.1.14.3 a otracon:claim ;
+    rdfs:label "Saracens believe only the Quran contains the truth." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.14_53-62 .
+
+otradata:Epitome_bellorum__S.1.15.0 a otracon:claim ;
+    rdfs:label "The Quran says to consult Jews and Christians who have the Pentateuch and the Gospel about doubts" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.15_1-54 .
+
+otradata:Epitome_bellorum__S.1.15.1 a otracon:claim ;
+    rdfs:label "If Muhammad were the prophet of truth, why would he direct Saracens to faulty sources such as Pentateuch and Gospel" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.15_55-68 .
+
+otradata:Epitome_bellorum__S.1.16.0 a otracon:claim ;
+    rdfs:label "The books of the Jews and Christians were not corrupted in Muhammad's time" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.16_1-11 .
+
+otradata:Epitome_bellorum__S.1.16.1 a otracon:claim ;
+    rdfs:label "the books of Jews and Christians couldn't have been universally or secretly corrupted after Muhammad" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.16_13-20 .
+
+otradata:Epitome_bellorum__S.1.16.2 a otracon:claim ;
+    rdfs:label "If the law and Gospel had been corrupted, old copies would exist, but they are found in all languages, written the same way" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.16_33-61 .
+
+otradata:Epitome_bellorum__S.1.16.3 a otracon:claim ;
+    rdfs:label "the four Gospels were written at different times, places, languages, by Matthew in Hebrew, John in Greek in Asia, Luke in Greek in Achaia, Mark in Latin in Italy" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.16_62-100 .
+
+otradata:Epitome_bellorum__S.1.16.4 a otracon:claim ;
+    rdfs:label "Saint Jerome translated them into Latin before Muhammad's time, with copies in all languages" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.16_102-121 .
+
+otradata:Epitome_bellorum__S.1.16.5 a otracon:claim ;
+    rdfs:label "It is impossible for forgers to alter the Christian scriptures without being detected." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.16_123-131 .
+
+otradata:Epitome_bellorum__S.1.17.0 a otracon:claim ;
+    rdfs:label "The belief in the incarnation of God as man is challenging in Christianity" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.17_1-16 .
+
+otradata:Epitome_bellorum__S.1.17.1 a otracon:claim ;
+    rdfs:label "If the concept of incarnation were removed or altered in the Gospel, more people might have converted" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.17_18-35 .
+
+otradata:Epitome_bellorum__S.1.17.2 a otracon:claim ;
+    rdfs:label "Romans and other pagans persecuted Christians for 300 years because they said a man was God without permission" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.17_36-85 .
+
+otradata:Epitome_bellorum__S.1.17.3 a otracon:claim ;
+    rdfs:label "It would have been against Roman conventions to adopt Christ as God and to abandon all other gods." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.17_87-103 .
+
+otradata:Epitome_bellorum__S.1.18.0 a otracon:claim ;
+    rdfs:label "If Saracens claim the Gospel and Old Testament are corrupted, they should show an uncorrupted version, which the Christians would then accept" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.18_1-20 .
+
+otradata:Epitome_bellorum__S.1.18.1 a otracon:claim ;
+    rdfs:label "The Qur'an is not the Law of God" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.18_34-41 .
+
+otradata:Epitome_bellorum__S.1.19.0 a otracon:claim ;
+    rdfs:label "Before Muhammad's time, Christians were divided into various sects, particularly Jacobites and Nestorians" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.19_1-19 .
+
+otradata:Epitome_bellorum__S.1.19.1 a otracon:claim ;
+    rdfs:label "Muhammad ordered to honor the Nestorians because they were more aligned with the Saracens" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.19_20-31 .
+
+otradata:Epitome_bellorum__S.1.19.2 a otracon:claim ;
+    rdfs:label "It is impossible for Nestorians and Jacobites, who despised each other, to conspire to corrupt the Gospel" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.19_33-51 .
+
+otradata:Epitome_bellorum__S.1.19.3 a otracon:claim ;
+    rdfs:label "The Gospel remains the same across all Christian sects" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.19_52-67 .
+
+otradata:Epitome_bellorum__S.1.2.0 a otracon:claim ;
+    rdfs:label "After the time of Saint Gregory, the third affliction arose from false brothers, who as hypocrites spread lies, deceptions, and falsehoods against the Church" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.2_1-55 .
+
+otradata:Epitome_bellorum__S.1.20.0 a otracon:claim ;
+    rdfs:label "The Quran is not God's law because it lacks the style and manner consistent with God's law" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.20_1-16 .
+
+otradata:Epitome_bellorum__S.1.20.1 a otracon:claim ;
+    rdfs:label "The Qur'an lacks the style consistent with God's law as it is metrical in style, flattering in words, and fanciful in ideas." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.20_17-31 .
+
+otradata:Epitome_bellorum__S.1.21.0 a otracon:claim ;
+    rdfs:label "Saracens and Arabs pride themselves on the rhythmic style of their law, claiming it proves divine authorship with the unlearned Muhammad receiving it word by word from God" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.21_1-37 .
+
+otradata:Epitome_bellorum__S.1.21.1 a otracon:claim ;
+    rdfs:label "A revelation in verse rather contradicts a divine origin, as proven by Holy Scripture where no prophets speak in verses." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.21_38-58 .
+
+otradata:Epitome_bellorum__S.1.21.2 a otracon:claim ;
+    rdfs:label "Speaking in verses is disdained by philosophers." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.21_59-64 .
+
+otradata:Epitome_bellorum__S.1.22.0 a otracon:claim ;
+    rdfs:label "The law uses excessively flattering words, often repeating that God is great, wise, and owns everything" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.22_1-59 .
+
+otradata:Epitome_bellorum__S.1.22.1 a otracon:claim ;
+    rdfs:label "The repetition in the Qur'an confuses listeners" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.22_60-62 .
+
+otradata:Epitome_bellorum__S.1.23.0 a otracon:claim ;
+    rdfs:label "The law is clearly fictional, as shown in the chapter Deltamar (the Moon)" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.23_1-21 .
+
+otradata:Epitome_bellorum__S.1.23.1 a otracon:claim ;
+    rdfs:label "" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.23_None-None .
+
+otradata:Epitome_bellorum__S.1.23.2 a otracon:claim ;
+    rdfs:label "one part of the moon fell on Mount Elheis, then entered Muhammad's sleeve and rejoined" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.23_22-89 .
+
+otradata:Epitome_bellorum__S.1.24.0 a otracon:claim ;
+    rdfs:label "In the chapter interpreted as Lion, it is said a worm indicated Solomon's death" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.24_1-14 .
+
+otradata:Epitome_bellorum__S.1.24.1 a otracon:claim ;
+    rdfs:label "" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.24_None-None .
+
+otradata:Epitome_bellorum__S.1.24.2 a otracon:claim ;
+    rdfs:label "the demons serving Solomon thought he was alive until a worm ate through the staff, causing Solomon to fall" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.24_15-66 .
+
+otradata:Epitome_bellorum__S.1.24.3 a otracon:claim ;
+    rdfs:label "The story about Solomon's death and fall is clearly fictional." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.24_67-72 .
+
+otradata:Epitome_bellorum__S.1.25.0 a otracon:claim ;
+    rdfs:label "In the chapter of narrations, Muhammad explains why wine is forbidden" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.25_1-14 .
+
+otradata:Epitome_bellorum__S.1.25.1 a otracon:claim ;
+    rdfs:label "When God sent two angels, Arroë and Maroche, to judge justly on earth, they became drunk with a woman entered sexual relations, and promised to teach her how to ascend to heaven" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.25_18-83 .
+
+otradata:Epitome_bellorum__S.1.25.2 a otracon:claim ;
+    rdfs:label "God turned the woman who ascended with the Angels' help into Lucifer, making her beautiful among angels" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.25_84-109 .
+
+otradata:Epitome_bellorum__S.1.25.3 a otracon:claim ;
+    rdfs:label "the angels chose present punishment, and God hung them by their feet over a well in Babylon with iron chains until Judgment Day" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.25_110-143 .
+
+otradata:Epitome_bellorum__S.1.26.0 a otracon:claim ;
+    rdfs:label "The Qur'an contains many more fanciful stories" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.26_1-9 .
+
+otradata:Epitome_bellorum__S.1.26.1 a otracon:claim ;
+    rdfs:label "It is not customary for God to speak through such fables, so any wise man can convince themselves through reading the Qur'an that it is not the Law of God" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.26_11-30 .
+
+otradata:Epitome_bellorum__S.1.27.0 a otracon:claim ;
+    rdfs:label "Muhammad offered a fabricated vision, which is based on a Quranic verse" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.27_1-15 .
+
+otradata:Epitome_bellorum__S.1.28.0 a otracon:claim ;
+    rdfs:label "Muhammad claimed Gabriel visited him after evening prayers and instructed him to visit God quickly" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.28_1-60 .
+
+otradata:Epitome_bellorum__S.1.28.1 a otracon:claim ;
+    rdfs:label "Gabriel brought a mythical beast, which Muhammad rode to Jerusalem in an instant" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.28_61-133 .
+
+otradata:Epitome_bellorum__S.1.28.2 a otracon:claim ;
+    rdfs:label "Gabriel took Muhammad to the rock in the Jerusalem temple, from which he ascended to heaven" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.28_134-201 .
+
+otradata:Epitome_bellorum__S.1.28.3 a otracon:claim ;
+    rdfs:label "in heaven, Muhammad saw many angels, some with numerous heads and mouths, praising God" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.28_199-283 .
+
+otradata:Epitome_bellorum__S.1.28.4 a otracon:claim ;
+    rdfs:label "Muhammad saw an angel weeping and prayed for him" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.28_284-303 .
+
+otradata:Epitome_bellorum__S.1.29.0 a otracon:claim ;
+    rdfs:label "Muhammad claimed Gabriel handed him over to successive angels until he stood before God" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.29_1-24 .
+
+otradata:Epitome_bellorum__S.1.29.1 a otracon:claim ;
+    rdfs:label "Muhammad claimed that God touched him between the shoulders." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.29_25-31 .
+
+otradata:Epitome_bellorum__S.1.29.2 a otracon:claim ;
+    rdfs:label "God imposed 500 prayers on Muhammad's people but Moses argued for a reduction." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.29_32-64 .
+
+otradata:Epitome_bellorum__S.1.29.3 a otracon:claim ;
+    rdfs:label "Muhammad managed to eventually reduce the number of prescribed prayers to five." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.29_65-93 .
+
+otradata:Epitome_bellorum__S.1.3.0 a otracon:claim ;
+    rdfs:label "During Heraclius's reign around 610 AD, a man named Muhammad arose" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.3_1-29 .
+
+otradata:Epitome_bellorum__S.1.3.1 a otracon:claim ;
+    rdfs:label "" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.3_None-None .
+
+otradata:Epitome_bellorum__S.1.3.2 a otracon:claim ;
+    rdfs:label "Muhammad created a deceitful law called the Quran, which contains many errors and contradicts God's law" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.3_31-71 .
+
+otradata:Epitome_bellorum__S.1.3.3 a otracon:claim ;
+    rdfs:label "In the Qur'an, errors of previous heretics are repeated" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.3_73-86 .
+
+otradata:Epitome_bellorum__S.1.3.4 a otracon:claim ;
+    rdfs:label "Muhammad rejected the Trinity like Sabellius and protrayed God as a two-fold entity" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.3_88-116 .
+
+otradata:Epitome_bellorum__S.1.3.5 a otracon:claim ;
+    rdfs:label "Muhammad claimed that Christ was a pure but lesser creature, separate from and subject to God." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.3_118-134 .
+
+otradata:Epitome_bellorum__S.1.30.0 a otracon:claim ;
+    rdfs:label "Muhammad claimed he returned riding the beast Buraq." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.30_1-9 .
+
+otradata:Epitome_bellorum__S.1.31.0 a otracon:claim ;
+    rdfs:label "Muhammad said the entire vision took a tenth of the night" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.31_1-12 .
+
+otradata:Epitome_bellorum__S.1.31.1 a otracon:claim ;
+    rdfs:label "Many people abandoned Muhammad's law in disbelief after hearing about his visit to heaven, and demanded visible confirmation" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.31_13-48 .
+
+otradata:Epitome_bellorum__S.1.31.2 a otracon:claim ;
+    rdfs:label "To skeptics regarding his night journey, Muhammad responded that God destroyed those who disbelieved miracles" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.31_49-65 .
+
+otradata:Epitome_bellorum__S.1.31.3 a otracon:claim ;
+    rdfs:label "The fanciful night journey should be enough to disbelieve all that Muhammad said." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.31_66-83 .
+
+otradata:Epitome_bellorum__S.1.31.4 a otracon:claim ;
+    rdfs:label "Muhammad profers multiple contradictions, having done great or no miracles, having traveled on a steed to Jerusalem but singly to heaven, and more." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.31_84-189 .
+
+otradata:Epitome_bellorum__S.1.32.0 a otracon:claim ;
+    rdfs:label "In contrast to Muhammad's aided night journey, Christ ascended to heaven by His own power" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.32_1-28 .
+
+otradata:Epitome_bellorum__S.1.32.1 a otracon:claim ;
+    rdfs:label "Christ declared the ultimate happiness for humans to be in seeing God, as stated in John 17" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.32_29-49 .
+
+otradata:Epitome_bellorum__S.1.32.2 a otracon:claim ;
+    rdfs:label "in the Old Testament, God promised Abraham the land and blessings for his descendants" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.32_50-70 .
+
+otradata:Epitome_bellorum__S.1.32.3 a otracon:claim ;
+    rdfs:label "God granted Moses the ability to hear Him in creation" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.32_71-93 .
+
+otradata:Epitome_bellorum__S.1.33.0 a otracon:claim ;
+    rdfs:label "Muhammad said little about virtues, instead focusing on plunder and impurity" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.33_1-24 .
+
+otradata:Epitome_bellorum__S.1.33.1 a otracon:claim ;
+    rdfs:label "Famous pagan philosophers such as Aristotle valued virtue above all arts and honored the virtuous" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.33_35-55 .
+
+otradata:Epitome_bellorum__S.1.33.2 a otracon:claim ;
+    rdfs:label "Muhammad did not teach about necessary salvation" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.33_56-78 .
+
+otradata:Epitome_bellorum__S.1.33.3 a otracon:claim ;
+    rdfs:label "Muhammad said nothing about the ultimate end, placing happiness in physical pleasures, which is brutish" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.33_79-120 .
+
+otradata:Epitome_bellorum__S.1.33.4 a otracon:claim ;
+    rdfs:label "Muhammad claimed to be a universal prophet despite only knowing Arabic" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.33_121-136 .
+
+otradata:Epitome_bellorum__S.1.33.5 a otracon:claim ;
+    rdfs:label "Muhammad inconsistently claimed that Abraham, Isaac, Jacob, and their descendants were Saracens, yet he was the first Saracen" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.33_137-160 .
+
+otradata:Epitome_bellorum__S.1.33.6 a otracon:claim ;
+    rdfs:label "The contradictions and lies in the Quran prove it is not the Law of God." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.33_161-175 .
+
+otradata:Epitome_bellorum__S.1.4.0 a otracon:claim ;
+    rdfs:label "The belief that Christ is different or less than God aligns with the Platonists, who posited a supreme God and a secondary mind containing all forms, called the Word of God" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.4_1-33 .
+
+otradata:Epitome_bellorum__S.1.4.1 a otracon:claim ;
+    rdfs:label "Arians thought the Son of God was a superior creature through whom God created everything" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.4_34-53 .
+
+otradata:Epitome_bellorum__S.1.4.2 a otracon:claim ;
+    rdfs:label "Muhammad claimed Christ was only human, although a virtuous one above all others" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.4_54-66 .
+
+otradata:Epitome_bellorum__S.1.4.3 a otracon:claim ;
+    rdfs:label "Muhammad called Christ the Word, Spirit, and Soul of God" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.4_68-79 .
+
+otradata:Epitome_bellorum__S.1.4.4 a otracon:claim ;
+    rdfs:label "Muhammad mocked the idea that Christ was God, citing that Christ himself never claimed to be God" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.4_81-101 .
+
+otradata:Epitome_bellorum__S.1.5.0 a otracon:claim ;
+    rdfs:label "Muhammad's main intention is to deny that Christ is God or the Son of God, but rather a wise man and the greatest prophet, born of a virgin without a father" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.5_1-28 .
+
+otradata:Epitome_bellorum__S.1.5.1 a otracon:claim ;
+    rdfs:label "Muhammad claims God cannot have a son, aligning with Carpocrates, because if God had a son, it would cause division and danger in the world" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.5_37-55 .
+
+otradata:Epitome_bellorum__S.1.5.2 a otracon:claim ;
+    rdfs:label "Muhammad asserts that the Jews did not kill or crucify Christ, but someone similar to him, aligning with Mani" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.5_56-75 .
+
+otradata:Epitome_bellorum__S.1.5.3 a otracon:claim ;
+    rdfs:label "Muhammad claims God took Christ to Himself, and Christ will return at the end of the world to kill the Antichrist before dying" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.5_76-96 .
+
+otradata:Epitome_bellorum__S.1.5.4 a otracon:claim ;
+    rdfs:label "Regarding the views of Christ, the devil started with Arius and couldn't finish was completed through Muhammad, but will be by the Antichrist, who will convince the world that Christ was not God, the Son of God, or a good man." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.5_97-148 .
+
+otradata:Epitome_bellorum__S.1.6.0 a otracon:claim ;
+    rdfs:label "Since Muhammad denies Christ's passion, he also denies the resurrection and all sacraments deriving their efficacy from it, aligning with the Donatists" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.6_1-25 .
+
+otradata:Epitome_bellorum__S.1.6.1 a otracon:claim ;
+    rdfs:label "Muhammad claims that demons can be saved through the Quran, a view somewhat supported by Origen." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.6_26-46 .
+
+otradata:Epitome_bellorum__S.1.7.0 a otracon:claim ;
+    rdfs:label "Since Muhammad denies Christ's passion, he also denies the resurrection and all sacraments deriving their efficacy from it, aligning with the Donatists" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.7_1-27 .
+
+otradata:Epitome_bellorum__S.1.7.1 a otracon:claim ;
+    rdfs:label "Muhammad claims that God sent the Angel Gabriel to fetch him" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.7_1-12 .
+
+otradata:Epitome_bellorum__S.1.7.2 a otracon:claim ;
+    rdfs:label "Muhammad states that when God touched him, he felt a coldness between his shoulders reaching his spine, aligning with the Anthropomorphites who believe God has a physical form" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.7_13-45 .
+
+otradata:Epitome_bellorum__S.1.7.3 a otracon:claim ;
+    rdfs:label "Muhammad claims that demons can be saved through the Quran, a view somewhat supported by Origen." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.7_28-48 .
+
+otradata:Epitome_bellorum__S.1.7.4 a otracon:claim ;
+    rdfs:label "Muhammad claims that angels became demons because they refused to worship Adam at God's command, a unique belief." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.7_47-64 .
+
+otradata:Epitome_bellorum__S.1.8.0 a otracon:claim ;
+    rdfs:label "Muhammad teaches and asserts in the Quran that the ultimate happiness for humans lies in eating, bodily pleasures, precious clothes, and irrigated gardens" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.8_1-25 .
+
+otradata:Epitome_bellorum__S.1.8.1 a otracon:claim ;
+    rdfs:label "Positing a paradise of pleasures aligns Muhammad with the heretic Cerinthus and ancient pagans" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.8_26-34 .
+
+otradata:Epitome_bellorum__S.1.9.0 a otracon:claim ;
+    rdfs:label "Muhammad insists on the necessity of circumcision" ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.9_1-7 .
+
+otradata:Epitome_bellorum__S.1.9.1 a otracon:claim ;
+    rdfs:label "Insisting on circumcision aligns Muhammad with the Jews and the heretic Ebion." ;
+    lrmoo:R3_realised_in otradata:Epitome_bellorum__B.1.9_8-16 .
+
+otradata:Epitome_bellorum__B.1.10 a doco:Paragraph ;
+    otracon:has_explicit "in bello et poterit nutrire." ;
+    otracon:has_incipit "(11) Concedit pluralitatem uxorum et" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.10.0 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.11 a doco:Paragraph ;
+    otracon:has_explicit "legem suam, nisi solvatur tributum." ;
+    otracon:has_incipit "(12) Suadet etiam omnes esse" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.11.0 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.2 a doco:Paragraph ;
+    otracon:has_explicit "senium, nisi clementia obstiterit veritatis." ;
+    otracon:has_incipit "(3) Postea tertia pestis invaluit," ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.2.0 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.27 a doco:Paragraph ;
+    otracon:has_explicit "Jerusalem, in qua nos benediximus." ;
+    otracon:has_incipit "(28) Item animadvertenda est ficta" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.27.0 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.30 a doco:Paragraph ;
+    otracon:has_explicit "iniquitas sibi’: rediit Abarac equitando." ;
+    otracon:has_incipit "(31) ‘Cui mentita est iniquitas" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.30.0 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.0 a doco:Paragraph ;
+    otracon:has_explicit "se primam omnium Ecclesiarum scribebat." ;
+    otracon:has_incipit "(1) [73] Mortuo itaque Papa" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.0.0,
+        otradata:Epitome_bellorum__S.0.0.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.1 a doco:Paragraph ;
+    otracon:has_explicit "quos “obstructum os loquentium iniqua.”" ;
+    otracon:has_incipit "(2) Deinde surrexit persecutio secunda," ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.1.0,
+        otradata:Epitome_bellorum__S.1.1.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.15 a doco:Paragraph ;
+    otracon:has_explicit "esset propheta veritatis, ut dicunt?" ;
+    otracon:has_incipit "(16) Sed dicitur in capitulo" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.15.0,
+        otradata:Epitome_bellorum__S.1.15.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.18 a doco:Paragraph ;
+    otracon:has_explicit "Alcoranus non est lex Dei." ;
+    otracon:has_incipit "(19) Si autem omnino volunt" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.18.0,
+        otradata:Epitome_bellorum__S.1.18.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.20 a doco:Paragraph ;
+    otracon:has_explicit "verbis, et fabulosa in sententiis." ;
+    otracon:has_incipit "(21) Item Alcoranus non est" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.20.0,
+        otradata:Epitome_bellorum__S.1.20.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.22 a doco:Paragraph ;
+    otracon:has_explicit "antonomastice dicit, ut supra diximus." ;
+    otracon:has_incipit "(23) Est etiam lex blanditoria" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.22.0,
+        otradata:Epitome_bellorum__S.1.22.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.26 a doco:Paragraph ;
+    otracon:has_explicit "Dei, loqui per tales fabulas." ;
+    otracon:has_incipit "(27) Haec et his similia" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.26.0,
+        otradata:Epitome_bellorum__S.1.26.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.6 a doco:Paragraph ;
+    otracon:has_explicit "huic, quia daemones adhuc salvabuntur." ;
+    otracon:has_incipit "(7) Cum igitur Machometus neget" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.6.0,
+        otradata:Epitome_bellorum__S.1.6.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.8 a doco:Paragraph ;
+    otracon:has_explicit "Cerintho haeretio et antiquis paganis." ;
+    otracon:has_incipit "(9) Docet et affirmat in" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.8.0,
+        otradata:Epitome_bellorum__S.1.8.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.9 a doco:Paragraph ;
+    otracon:has_explicit "Judaeis, et cum Ebione haeraetico." ;
+    otracon:has_incipit "(10) Etiam dicit circumcisionem omnino" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.9.0,
+        otradata:Epitome_bellorum__S.1.9.1 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.1 a doco:Paragraph ;
+    otracon:has_explicit "rostrum in aurem eius ponebat." ;
+    otracon:has_incipit "(2) [76] Huius Bonifacii tempore," ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.1.0,
+        otradata:Epitome_bellorum__S.0.1.1,
+        otradata:Epitome_bellorum__S.0.1.2 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.2 a doco:Paragraph ;
+    otracon:has_explicit "est veritati, quod inferius habetur." ;
+    otracon:has_incipit "(3) [81] Praedictus igitur Clericus" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.2.0,
+        otradata:Epitome_bellorum__S.0.2.1,
+        otradata:Epitome_bellorum__S.0.2.2 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.4 a doco:Paragraph ;
+    otracon:has_explicit "habetur, sicut apud Iudaeos Sabbatum." ;
+    otracon:has_incipit "(5) [102] Alibi tamen legitur," ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.4.0,
+        otradata:Epitome_bellorum__S.0.4.1,
+        otradata:Epitome_bellorum__S.0.4.2 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.5 a doco:Paragraph ;
+    otracon:has_explicit "sponte et timore gladii crediderunt." ;
+    otracon:has_incipit "(6) [109] Machometus igitur praedictae" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.5.0,
+        otradata:Epitome_bellorum__S.0.5.1,
+        otradata:Epitome_bellorum__S.0.5.2 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.21 a doco:Paragraph ;
+    otracon:has_explicit "sapientes et Philosophi homines dedignantur." ;
+    otracon:has_incipit "(22) Saraceni et Arabes in" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.21.0,
+        otradata:Epitome_bellorum__S.1.21.1,
+        otradata:Epitome_bellorum__S.1.21.2 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.23 a doco:Paragraph ;
+    otracon:has_explicit "continuo, ut supra dictum est." ;
+    otracon:has_incipit "(24) Manifestum est quod lex" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.23.0,
+        otradata:Epitome_bellorum__S.1.23.1,
+        otradata:Epitome_bellorum__S.1.23.2 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.0 a doco:Paragraph ;
+    otracon:has_explicit "persecutores facti sunt “Ecclesiarum fundatores.”" ;
+    otracon:has_incipit "(1) Omnia mandata tua veritas," ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.0.0,
+        otradata:Epitome_bellorum__S.1.0.1,
+        otradata:Epitome_bellorum__S.1.0.2,
+        otradata:Epitome_bellorum__S.1.0.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.13 a doco:Paragraph ;
+    otracon:has_explicit "sequerentur in tam brevi tempore." ;
+    otracon:has_incipit "(14) Nos enim invenimus legem" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.13.0,
+        otradata:Epitome_bellorum__S.1.13.1,
+        otradata:Epitome_bellorum__S.1.13.2,
+        otradata:Epitome_bellorum__S.1.13.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.14 a doco:Paragraph ;
+    otracon:has_explicit "quantum est in Alcorano eorum." ;
+    otracon:has_incipit "(15) Ad hoc respondent Saraceni:" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.14.0,
+        otradata:Epitome_bellorum__S.1.14.1,
+        otradata:Epitome_bellorum__S.1.14.2,
+        otradata:Epitome_bellorum__S.1.14.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.17 a doco:Paragraph ;
+    otracon:has_explicit "pacta provinciarum, et consuetudines Romanorum." ;
+    otracon:has_incipit "(18) In fide Christiana magis" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.17.0,
+        otradata:Epitome_bellorum__S.1.17.1,
+        otradata:Epitome_bellorum__S.1.17.2,
+        otradata:Epitome_bellorum__S.1.17.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.19 a doco:Paragraph ;
+    otracon:has_explicit "idem, sicut apud nos Graecum." ;
+    otracon:has_incipit "(20) Christiani enim ante adventum" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.19.0,
+        otradata:Epitome_bellorum__S.1.19.1,
+        otradata:Epitome_bellorum__S.1.19.2,
+        otradata:Epitome_bellorum__S.1.19.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.24 a doco:Paragraph ;
+    otracon:has_explicit "non fabulosa est ista sententia?" ;
+    otracon:has_incipit "(25) Item in capitulo, quod" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.24.0,
+        otradata:Epitome_bellorum__S.1.24.1,
+        otradata:Epitome_bellorum__S.1.24.2,
+        otradata:Epitome_bellorum__S.1.24.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.25 a doco:Paragraph ;
+    otracon:has_explicit "ferreis usque in diem iudicii." ;
+    otracon:has_incipit "(26) Item Machometus in capitulo" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.25.0,
+        otradata:Epitome_bellorum__S.1.25.1,
+        otradata:Epitome_bellorum__S.1.25.2,
+        otradata:Epitome_bellorum__S.1.25.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.29 a doco:Paragraph ;
+    otracon:has_explicit "ego confidenter ascendens haec impetravi." ;
+    otracon:has_incipit "(30) Ulterius dicit Machometus: Gabriel" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.29.0,
+        otradata:Epitome_bellorum__S.1.29.1,
+        otradata:Epitome_bellorum__S.1.29.2,
+        otradata:Epitome_bellorum__S.1.29.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.32 a doco:Paragraph ;
+    otracon:has_explicit "instantissime petivit gloriam Dei, etc." ;
+    otracon:has_incipit "(33) Christus Dominus noster Salvator" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.32.0,
+        otradata:Epitome_bellorum__S.1.32.1,
+        otradata:Epitome_bellorum__S.1.32.2,
+        otradata:Epitome_bellorum__S.1.32.3 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.7 a doco:Paragraph ;
+    otracon:has_explicit "interveniente, ut asserunt, salvus erit." ;
+    otracon:has_incipit "(8) [138] Servantibus haec et" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.7.0,
+        otradata:Epitome_bellorum__S.0.7.1,
+        otradata:Epitome_bellorum__S.0.7.2,
+        otradata:Epitome_bellorum__S.0.7.3,
+        otradata:Epitome_bellorum__S.0.7.4 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.8 a doco:Paragraph ;
+    otracon:has_explicit "annos veneno sibi dato interiit." ;
+    otracon:has_incipit "(9) [144] Hunc pseudoprophetam Saraceni" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.8.0,
+        otradata:Epitome_bellorum__S.0.8.1,
+        otradata:Epitome_bellorum__S.0.8.2,
+        otradata:Epitome_bellorum__S.0.8.3,
+        otradata:Epitome_bellorum__S.0.8.4 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.28 a doco:Paragraph ;
+    otracon:has_explicit "Ipse autem oravit pro eo." ;
+    otracon:has_incipit "(29) Expositio huius fabulosae sententiae" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.28.0,
+        otradata:Epitome_bellorum__S.1.28.1,
+        otradata:Epitome_bellorum__S.1.28.2,
+        otradata:Epitome_bellorum__S.1.28.3,
+        otradata:Epitome_bellorum__S.1.28.4 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.31 a doco:Paragraph ;
+    otracon:has_explicit "'Deus tetigit me, ut supra." ;
+    otracon:has_incipit "(32) Tempus istarum omnium visionum," ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.31.0,
+        otradata:Epitome_bellorum__S.1.31.1,
+        otradata:Epitome_bellorum__S.1.31.2,
+        otradata:Epitome_bellorum__S.1.31.3,
+        otradata:Epitome_bellorum__S.1.31.4 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.4 a doco:Paragraph ;
+    otracon:has_explicit "nunquam asseruit, sed contrarium dixit." ;
+    otracon:has_incipit "(5) Et haec positio est" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.4.0,
+        otradata:Epitome_bellorum__S.1.4.1,
+        otradata:Epitome_bellorum__S.1.4.2,
+        otradata:Epitome_bellorum__S.1.4.3,
+        otradata:Epitome_bellorum__S.1.4.4 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.5 a doco:Paragraph ;
+    otracon:has_explicit "Filus Dei, nec bonus homo." ;
+    otracon:has_incipit "(6) Summa igitur intentio Machometi" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.5.0,
+        otradata:Epitome_bellorum__S.1.5.1,
+        otradata:Epitome_bellorum__S.1.5.2,
+        otradata:Epitome_bellorum__S.1.5.3,
+        otradata:Epitome_bellorum__S.1.5.4 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.7 a doco:Paragraph ;
+    otracon:has_explicit "Adam: in hoc neminem imitatur." ;
+    otracon:has_incipit "(8) Pseudopropheta Machometus dicit, quod" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.7.0,
+        otradata:Epitome_bellorum__S.1.7.1,
+        otradata:Epitome_bellorum__S.1.7.2,
+        otradata:Epitome_bellorum__S.1.7.3,
+        otradata:Epitome_bellorum__S.1.7.4 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.12 a doco:Paragraph ;
+    otracon:has_explicit "sed in virtute, sequentibus signis." ;
+    otracon:has_incipit "(13) Videtur etiam concedere concubitum" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.12.0,
+        otradata:Epitome_bellorum__S.1.12.1,
+        otradata:Epitome_bellorum__S.1.12.2,
+        otradata:Epitome_bellorum__S.1.12.3,
+        otradata:Epitome_bellorum__S.1.12.4,
+        otradata:Epitome_bellorum__S.1.12.5 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.16 a doco:Paragraph ;
+    otracon:has_explicit "falsarios vitiari, quin manifeste sciretur." ;
+    otracon:has_incipit "(17) Non igitur erant vitiati" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.16.0,
+        otradata:Epitome_bellorum__S.1.16.1,
+        otradata:Epitome_bellorum__S.1.16.2,
+        otradata:Epitome_bellorum__S.1.16.3,
+        otradata:Epitome_bellorum__S.1.16.4,
+        otradata:Epitome_bellorum__S.1.16.5 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.3 a doco:Paragraph ;
+    otracon:has_explicit "minor Deo et ei subjectus." ;
+    otracon:has_incipit "(4) Nam tempore Heraclii, qui" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.3.0,
+        otradata:Epitome_bellorum__S.1.3.1,
+        otradata:Epitome_bellorum__S.1.3.2,
+        otradata:Epitome_bellorum__S.1.3.3,
+        otradata:Epitome_bellorum__S.1.3.4,
+        otradata:Epitome_bellorum__S.1.3.5 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.3 a doco:Paragraph ;
+    otracon:has_explicit "esse mulier et caeteri crediderunt." ;
+    otracon:has_incipit "(4) [86] Machometus enim propriam" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.3.0,
+        otradata:Epitome_bellorum__S.0.3.1,
+        otradata:Epitome_bellorum__S.0.3.2,
+        otradata:Epitome_bellorum__S.0.3.3,
+        otradata:Epitome_bellorum__S.0.3.4,
+        otradata:Epitome_bellorum__S.0.3.5,
+        otradata:Epitome_bellorum__S.0.3.6 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.1.33 a doco:Paragraph ;
+    otracon:has_explicit "non est lex Dei, etc." ;
+    otracon:has_incipit "(34) Machometus autem de virtutibus" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.1.33.0,
+        otradata:Epitome_bellorum__S.1.33.1,
+        otradata:Epitome_bellorum__S.1.33.2,
+        otradata:Epitome_bellorum__S.1.33.3,
+        otradata:Epitome_bellorum__S.1.33.4,
+        otradata:Epitome_bellorum__S.1.33.5,
+        otradata:Epitome_bellorum__S.1.33.6 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum__B.0.6 a doco:Paragraph ;
+    otracon:has_explicit "A vino semper abstinere iubentur." ;
+    otracon:has_incipit "(7) [114] Praedictus igitur Sergius" ;
+    crm:P67_refers_to otradata:Epitome_bellorum__S.0.6.0,
+        otradata:Epitome_bellorum__S.0.6.1,
+        otradata:Epitome_bellorum__S.0.6.10,
+        otradata:Epitome_bellorum__S.0.6.11,
+        otradata:Epitome_bellorum__S.0.6.2,
+        otradata:Epitome_bellorum__S.0.6.3,
+        otradata:Epitome_bellorum__S.0.6.4,
+        otradata:Epitome_bellorum__S.0.6.5,
+        otradata:Epitome_bellorum__S.0.6.6,
+        otradata:Epitome_bellorum__S.0.6.7,
+        otradata:Epitome_bellorum__S.0.6.8,
+        otradata:Epitome_bellorum__S.0.6.9 ;
+    crm:R15i_is_fragment_of otradata:Epitome_bellorum_sacrorum .
+
+otradata:Epitome_bellorum_sacrorum a lrmoo:F2_Expression .
+
